@@ -21,15 +21,16 @@ We are part of the [Department of Computer Science](http://www.cs.arizona.edu) a
 
 ## Members
 
-* Nivan Ferreira, Postdoctoral Researcher
-
-* Youhao Wei, MSc Student
-
-* Zhe Wang, PhD Student
-
-* Sean August Stephens, Undergraduate Student Researcher
-
-* Carlos Scheidegger, Assistant Professor
+<table width="100%">
+<tr><td width="25%"><img src="headshots/zhe.jpg" margin="1" alt="Zhe Wang"><br><a href="http://www.z-wang.com">Zhe Wang</a><br>PhD Student</td>
+    <td width="25%"><img src="headshots/placeholder.png" margin="1" alt="Youhao Wei"><br>Youhao Wei<br>MSc Student</td>
+	<td width="25%"><img src="headshots/placeholder.png" margin="1" alt="Sean August Stephens"><br>Sean August Stephens<br>BSc Student</td>
+	<td width="25%"><img src="headshots/nivan.jpg" margin="1" alt="Nivan Ferreira"><br><a href="http://www.cs.arizona.edu/~nivanferreira">Nivan Ferreira</a><br>Postdoctoral Scholar</td>
+</tr>
+<tr><td width="25%"><img src="headshots/cscheid.jpg" margin="1" alt="Carlos Scheidegger"><br><a href="http://cscheid.net">Carlos Scheidegger</a><br>Assistant Professor</td>
+</tr>
+</table>
+<br>
 
 ### Friends
 
