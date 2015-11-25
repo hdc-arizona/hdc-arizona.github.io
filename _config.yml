@@ -1,0 +1,16 @@
+# Site settings
+title: HDC Lab
+email: hdc@email.arizona.edu
+description: > # this means to ignore newlines until "baseurl:"
+  The HDC Lab studies how Humans, Data, and Computers interact.
+  We research novel data analysis and visualization methods, 
+  and build software around human minds, rather the other way
+  around. 
+baseurl: "/unlinked/hdc/" # the subpath of your site, e.g. /blog/
+url: "http://cscheid.net/" # the base hostname & protocol for your site
+twitter_username: hdc_arizona
+github_username:  hdc-arizona
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
