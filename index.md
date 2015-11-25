@@ -24,18 +24,21 @@ and we are part of the
 
 ## Members
 
-<table width="100%">
-<tr><td width="25%"><img src="headshots/zhe.jpg" margin="1" alt="Zhe Wang"><br><a href="http://www.z-wang.com">Zhe Wang</a><br>PhD Student</td>
-    <td width="25%"><img src="headshots/placeholder.png" margin="1" alt="Youhao Wei"><br>Youhao Wei<br>MSc Student</td>
-	<td width="25%"><img src="headshots/placeholder.png" margin="1" alt="Sean August Stephens"><br>Sean August Stephens<br>BSc Student</td>
-	<td width="25%"><img src="headshots/nivan.jpg" margin="1" alt="Nivan Ferreira"><br><a href="http://www.cs.arizona.edu/~nivanferreira">Nivan Ferreira</a><br>Postdoctoral Scholar</td>
+<table width="98%">
+<tr><td width="23%"><img src="headshots/zhe.jpg" alt="Zhe Wang"><br><a href="http://www.z-wang.com">Zhe Wang</a><br>PhD Student</td>
+    <td width="2%"></td>
+    <td width="23%"><img src="headshots/placeholder.png" alt="Youhao Wei"><br>Youhao Wei<br>MSc Student</td>
+    <td width="2%"></td>
+	<td width="23%"><img src="headshots/placeholder.png" alt="Sean A. Stephens"><br>Sean A. Stephens<br>BSc Student</td>
+    <td width="2%"></td>
+	<td width="23%"><img src="headshots/nivan.jpg" alt="Nivan Ferreira"><br><a href="http://www.cs.arizona.edu/~nivanferreira">Nivan Ferreira</a><br>Postdoctoral Scholar</td>
 </tr>
-<tr><td width="25%"><img src="headshots/cscheid.jpg" margin="1" alt="Carlos Scheidegger"><br><a href="http://cscheid.net">Carlos Scheidegger</a><br>Assistant Professor</td>
+<tr><td width="22%"><img src="headshots/cscheid.jpg" alt="Carlos Scheidegger"><br><a href="http://cscheid.net">Carlos Scheidegger</a><br>Assistant Professor</td>
 </tr>
 </table>
 <br>
 
-### Friends
+### Collaborators
 
 * Stephen Kobourov, Professor, [GAMA group](http://gama.cs.arizona.edu/) and Department of Computer Science 
 
