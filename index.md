@@ -16,8 +16,11 @@ to
 When human concerns and our modern technological society overlap, we
 strive to advance computer science in order to help people lead better lives.
 
-We are part of the [Department of Computer Science](http://www.cs.arizona.edu) at the
-[University of Arizona](http://www.arizona.edu)'s [College of Science](http://cos.arizona.edu/).
+The HDC Lab was founded by [Carlos Scheidegger](http://cscheid.net),
+and we are part of the
+[Department of Computer Science](http://www.cs.arizona.edu) at the
+[University of Arizona](http://www.arizona.edu)'s
+[College of Science](http://cos.arizona.edu/).
 
 ## Members
 
