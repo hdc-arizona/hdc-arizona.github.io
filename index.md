@@ -39,8 +39,10 @@ We are part of the [Department of Computer Science](http://www.cs.arizona.edu) a
 
 * Sabrina Nusrat, PhD student
 
-* [AT&T Labs](http://www.research.att.com/groups/infovis) group: Lauro Lins, Jim Klosowski, Horace Yip, Gordon
-  Woodhull, Simon Urbanek, Stephen North (now at Infovisible)
+* Lauro Lins, Jim Klosowski, Horace Yip, Gordon
+  Woodhull, Simon Urbanek: AT&T Research
+  
+* Stephen North, InfoVisible LLC
 
 # Software
 

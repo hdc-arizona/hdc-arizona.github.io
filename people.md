@@ -23,7 +23,7 @@ title: People
 
 * Sabrina Nusrat, PhD student
 
-* Ben Dicken, M.Sc., Alum, at ??
-
-* AT&T Labs crew: Lauro Lins, Jim Klosowski, Horace Yip, Gordon
-  Woodhull, Simon Urbanek, Stephen North (now at Infovisible)
+* Lauro Lins, Jim Klosowski, Horace Yip, Gordon
+  Woodhull, Simon Urbanek: AT&T Research
+  
+* Stephen North, InfoVisible LLC
