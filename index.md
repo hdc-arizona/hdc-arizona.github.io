@@ -27,13 +27,13 @@ the department. We are part of the
 <table width="98%">
 <tr><td width="23%"><img src="headshots/zhe.jpg" alt="Zhe Wang"><br><a href="http://www.z-wang.com">Zhe Wang</a><br>PhD Student</td>
     <td width="2%"></td>
-    <td width="23%"><img src="headshots/placeholder.jpg" alt="Sabrina Nusrat"><br><a href="#">Sabrina Nusrat</a><br>PhD Student</td>
+    <td width="23%"><img src="headshots/placeholder.png alt="Sabrina Nusrat"><br><a href="#">Sabrina Nusrat</a><br>PhD Student</td>
 	<td width="2%"></td>
     <td width="23%"><img src="headshots/placeholder.png" alt="Youhao Wei"><br>Youhao Wei<br>MSc Student</td>
     <td width="2%"></td>
 	<td width="23%"><img src="headshots/placeholder.png" alt="Sean A. Stephens"><br>Sean A. Stephens<br>BSc Student</td>
 </tr>
-<tr><td width="23%"><img src="headshots/placeholder.jpg" alt="Laura Souza Vonessen"><br><a href="#">Laura Vonessen</a><br>BSc Student</td>
+<tr><td width="23%"><img src="headshots/placeholder.png" alt="Laura Souza Vonessen"><br><a href="#">Laura Vonessen</a><br>BSc Student</td>
     <td width="2%"></td>
     <td width="23%"><img src="headshots/nivan.jpg" alt="Nivan Ferreira"><br><a href="http://www.cs.arizona.edu/~nivanferreira">Nivan Ferreira</a><br>Postdoctoral Scholar</td>
     <td width="2%"></td>
