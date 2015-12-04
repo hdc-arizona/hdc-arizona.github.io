@@ -56,6 +56,8 @@ the department. We are part of the
   
 * Stephen North, InfoVisible LLC
 
+* [Gautham Narayan](http://ast.noao.edu/about/people/narayan), NOAO
+
 # Software
 
 We host our software at our [GitHub organization page](http://github.com/hdc-arizona/).
