@@ -37,9 +37,21 @@ the department. We are part of the
     <td width="2%"></td>
     <td width="23%"><img src="headshots/nivan.jpg" alt="Nivan Ferreira"><br><a href="http://www.cs.arizona.edu/~nivanferreira">Nivan Ferreira</a><br>Postdoctoral Scholar</td>
     <td width="2%"></td>
-    <td width="22%"><img src="headshots/cscheid.jpg" alt="Carlos Scheidegger"><br><a href="http://cscheid.net">Carlos Scheidegger</a><br>Assistant Professor</td>
+	<td width="23%"></td>
     <td width="2%"></td>
-    <td width="23%"><img src="headshots/placeholder.png" alt="Stephen Kobourov"><br><a href="http://www.cs.arizona.edu/~kobourov">Stephen Kobourov</a><br>Professor</td>
+	<td width="23%"></td>
+</tr>
+</table>
+<br>
+
+<table width="98%">
+<tr><td width="23%"><img src="headshots/cscheid.jpg" alt="Carlos Scheidegger"><br><a href="http://cscheid.net">Carlos Scheidegger</a><br>Assistant Professor</td>
+    <td width="2%"></td>
+    <td width="23%"><img src="headshots/kisaacs.jpg" alt="Kate Isaacs"><br><a href="#">Kate Isaacs</a><br>Assistant Professor</td>
+    <td width="2%"></td>
+    <td width="23%"><img src="headshots/skobourov.jpg" alt="Stephen Kobourov"><br><a href="http://www.cs.arizona.edu/~kobourov">Stephen Kobourov</a><br>Professor</td>
+    <td width="2%"></td>
+	<td width="23%"></td>
 </tr>
 </table>
 <br>
