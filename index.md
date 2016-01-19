@@ -31,7 +31,7 @@ the department. We are part of the
 	<td width="2%"></td>
     <td width="23%"><img src="headshots/placeholder.png" alt="Youhao Wei"><br>Youhao Wei<br>MSc Student</td>
     <td width="2%"></td>
-	<td width="23%"><img src="headshots/aarthysb.jpg" alt="Aarthy Bhaskar"><br>Aarthy Bhaskar<br>MSc Student</td>
+	<td width="23%"><img src="headshots/aarthysb.jpg" alt="Aarthy Bhaskar"><br><a href="http://aarthysb.com">Aarthy Bhaskar</a><br>MSc Student</td>
 </tr>
 <tr><td width="23%"><img src="headshots/placeholder.png" alt="Laura Souza Vonessen"><br><a href="#">Laura Vonessen</a><br>BSc Student</td>
     <td width="2%"></td>
