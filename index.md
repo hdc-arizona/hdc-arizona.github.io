@@ -56,6 +56,14 @@ the department. We are part of the
 </table>
 <br>
 
+## News
+
+* Congratulations to Youhao Wei and Sean Stephens, who
+  [won two categories in Hack Arizona 2016](http://hackarizona.org/winners/),
+  the biggest hackathon in the Southwest. Together with collaborators
+  Ben Gaska and Nick DeJaco, they took both the "Data Science and
+  Visualization" and the "Best Transportation Hack" categories!
+
 ### Collaborators
 
 * [Mihai Surdeanu](http://www.surdeanu.info/mihai/), Associate Professor
