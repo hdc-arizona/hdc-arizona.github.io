@@ -64,6 +64,8 @@ the department. We are part of the
   Ben Gaska and Nick DeJaco, they took both the "Data Science and
   Visualization" and the "Best Transportation Hack" categories!
 
+
+
 ### Collaborators
 
 * [Mihai Surdeanu](http://www.surdeanu.info/mihai/), Associate Professor
@@ -79,6 +81,14 @@ the department. We are part of the
 * [Gautham Narayan](http://ast.noao.edu/about/people/narayan), NOAO
 
 * [Joao Comba](http://www.inf.ufrgs.br/~comba/), Cicero Pahins, UFRGS
+
+### Support and Acknowledgments
+
+Our group is supported partially by the Arizona Board of Regents and
+the NSF, under grants
+[III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651)
+([project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html))
+and IIA-1344024.
 
 # Software
 
