@@ -58,13 +58,15 @@ the department. We are part of the
 
 ## News
 
-* Congratulations to Youhao Wei and Sean Stephens, who
+* Congratulations to Laura, who accepted a PhD position at University
+  of Washington's Computer Science and Engineering department starting
+  in the fall!
+
+* Congratulations to Youhao and Sean, who
   [won two categories in Hack Arizona 2016](http://hackarizona.org/winners/),
   the biggest hackathon in the Southwest. Together with collaborators
   Ben Gaska and Nick DeJaco, they took both the "Data Science and
   Visualization" and the "Best Transportation Hack" categories!
-
-
 
 ### Collaborators
 
