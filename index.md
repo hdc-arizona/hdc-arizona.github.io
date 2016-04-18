@@ -28,7 +28,7 @@ We are part of the
     <td width="2%"></td>
     <td width="23%"><img src="headshots/sabrinanusrat.jpg" alt="Sabrina Nusrat"><br><a href="http://www.cs.arizona.edu/~sabrinanusrat/">Sabrina Nusrat</a><br>PhD Student</td>
 	<td width="2%"></td>
-    <td width="23%"><img src="headshots/placeholder.png" alt="Benafsh Husain"><br><a href="#">Benafsh Husain</a>PhD Student</td>
+    <td width="23%"><img src="headshots/placeholder.png" alt="Benafsh Husain"><br><a href="#">Benafsh Husain</a><br>PhD Student</td>
     <td width="2%"></td>
 	<td width="23%"><img src="headshots/aarthysb.jpg" alt="Aarthy Bhaskar"><br><a href="http://aarthysb.com">Aarthy Bhaskar</a><br>MSc Student</td>
 </tr>
