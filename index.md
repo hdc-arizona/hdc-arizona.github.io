@@ -16,8 +16,7 @@ to
 When human concerns and our modern technological society overlap, we
 strive to advance computer science in order to help people lead better lives.
 
-The HDC Lab was founded by [Carlos](http://cscheid.net) when he joined
-the department. We are part of the
+We are part of the
 [Department of Computer Science](http://www.cs.arizona.edu) at the
 [University of Arizona](http://www.arizona.edu)'s
 [College of Science](http://cos.arizona.edu/).
@@ -29,17 +28,17 @@ the department. We are part of the
     <td width="2%"></td>
     <td width="23%"><img src="headshots/sabrinanusrat.jpg" alt="Sabrina Nusrat"><br><a href="http://www.cs.arizona.edu/~sabrinanusrat/">Sabrina Nusrat</a><br>PhD Student</td>
 	<td width="2%"></td>
-    <td width="23%"><img src="headshots/placeholder.png" alt="Youhao Wei"><br>Youhao Wei<br>MSc Student</td>
+    <td width="23%"><img src="headshots/placeholder.png" alt="Benafsh Husain"><br><a href="#">Benafsh Husain</a>PhD Student</td>
     <td width="2%"></td>
 	<td width="23%"><img src="headshots/aarthysb.jpg" alt="Aarthy Bhaskar"><br><a href="http://aarthysb.com">Aarthy Bhaskar</a><br>MSc Student</td>
 </tr>
-<tr><td width="23%"><img src="headshots/placeholder.png" alt="Laura Souza Vonessen"><br><a href="#">Laura Vonessen</a><br>BSc Student</td>
+<tr><td width="23%"><img src="headshots/placeholder.png" alt="Youhao Wei"><br>Youhao Wei<br>MSc Student</td>
+    <td width="2%"></td>
+	<td width="23%"><img src="headshots/placeholder.png" alt="Laura Souza Vonessen"><br><a href="#">Laura Vonessen</a><br>BSc Student</td>
     <td width="2%"></td>
     <td width="23%"><img src="headshots/placeholder.png" alt="Sean A. Stephens"><br>Sean A. Stephens<br>BSc Student</td>
     <td width="2%"></td>
 	<td width="23%"><img src="headshots/nivan.jpg" alt="Nivan Ferreira"><br><a href="http://www.cs.arizona.edu/~nivanferreira">Nivan Ferreira</a><br>Postdoctoral Scholar</td>
-    <td width="2%"></td>
-	<td width="23%"></td>
 </tr>
 </table>
 <br>
@@ -49,18 +48,22 @@ the department. We are part of the
     <td width="2%"></td>
     <td width="23%"><img src="headshots/kisaacs.jpg" alt="Kate Isaacs"><br><a href="#">Kate Isaacs</a><br>Assistant Professor</td>
     <td width="2%"></td>
-    <td width="23%"><img src="headshots/skobourov.jpg" alt="Stephen Kobourov"><br><a href="http://www.cs.arizona.edu/~kobourov">Stephen Kobourov</a><br>Professor</td>
+    <td width="23%"><img src="headshots/placeholder.png" alt="Joshua Levine"><br><a href="#">Joshua Levine</a><br>Assistant Professor</td>
     <td width="2%"></td>
-	<td width="23%"></td>
+    <td width="23%"><img src="headshots/skobourov.jpg" alt="Stephen Kobourov"><br><a href="http://www.cs.arizona.edu/~kobourov">Stephen Kobourov</a><br>Professor</td>
 </tr>
 </table>
 <br>
 
 ## News
 
+* We're excited to share the news that Prof. Joshua Levine and Benafsh
+  Husain will be joining the Department of Computer Science and HDC
+  Lab in the Fall 2016 semester!
+
 * Congratulations to Laura, who accepted a PhD position at University
   of Washington's Computer Science and Engineering department starting
-  in the fall!
+  in the fall of 2016!
 
 * Congratulations to Youhao and Sean, who
   [won two categories in Hack Arizona 2016](http://hackarizona.org/winners/),
