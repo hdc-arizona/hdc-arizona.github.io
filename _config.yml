@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   We research novel data analysis and visualization methods, 
   and build software around human minds, rather the other way
   around. 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hdc.cs.arizona.edu/" # the base hostname & protocol for your site
 twitter_username: hdc_arizona
 github_username:  hdc-arizona
