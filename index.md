@@ -48,7 +48,7 @@ We are part of the
     <td width="2%"></td>
     <td width="23%"><img src="headshots/kisaacs.jpg" alt="Kate Isaacs"><br><a href="#">Kate Isaacs</a><br>Assistant Professor</td>
     <td width="2%"></td>
-    <td width="23%"><img src="headshots/placeholder.png" alt="Joshua Levine"><br><a href="#">Joshua Levine</a><br>Assistant Professor</td>
+    <td width="23%"><img src="headshots/josh.jpg" alt="Joshua Levine"><br><a href="#">Joshua Levine</a><br>Assistant Professor</td>
     <td width="2%"></td>
     <td width="23%"><img src="headshots/skobourov.jpg" alt="Stephen Kobourov"><br><a href="http://www.cs.arizona.edu/~kobourov">Stephen Kobourov</a><br>Professor</td>
 </tr>
