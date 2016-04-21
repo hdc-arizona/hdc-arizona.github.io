@@ -69,7 +69,7 @@ We are part of the
 
 * [Mihai Surdeanu](http://www.surdeanu.info/mihai/), Associate Professor
 
-* Bahador Saket, Student Alum, now PhD member at Georgia Tech
+* Bahador Saket, Student Alum, now PhD student at Georgia Tech
 
 * [Jawaherul Alam](http://www.cs.arizona.edu/~mjalam/), PhD
 
