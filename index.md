@@ -23,35 +23,29 @@ We are part of the
 
 ## Members
 
-<table width="98%">
-<tr><td width="23%"><img src="headshots/zhe.jpg" alt="Zhe Wang"><br><a href="http://www.z-wang.com">Zhe Wang</a><br>PhD Student</td>
-    <td width="2%"></td>
-    <td width="23%"><img src="headshots/sabrinanusrat.jpg" alt="Sabrina Nusrat"><br><a href="http://www.cs.arizona.edu/~sabrinanusrat/">Sabrina Nusrat</a><br>PhD Student</td>
-	<td width="2%"></td>
-    <td width="23%"><img src="headshots/placeholder.png" alt="Benafsh Husain"><br><a href="#">Benafsh Husain</a><br>PhD Student</td>
-    <td width="2%"></td>
-	<td width="23%"><img src="headshots/aarthysb.jpg" alt="Aarthy Bhaskar"><br><a href="http://aarthysb.com">Aarthy Bhaskar</a><br>MSc Student</td>
-</tr>
-<tr><td width="23%"><img src="headshots/placeholder.png" alt="Youhao Wei"><br>Youhao Wei<br>MSc Student</td>
-    <td width="2%"></td>
-	<td width="23%"><img src="headshots/placeholder.png" alt="Laura Souza Vonessen"><br><a href="#">Laura Vonessen</a><br>BSc Student</td>
-    <td width="2%"></td>
-    <td width="23%"><img src="headshots/placeholder.png" alt="Sean A. Stephens"><br>Sean A. Stephens<br>BSc Student</td>
-    <td width="2%"></td>
-	<td width="23%"><img src="headshots/nivan.jpg" alt="Nivan Ferreira"><br><a href="http://www.cs.arizona.edu/~nivanferreira">Nivan Ferreira</a><br>Postdoctoral Scholar</td>
-</tr>
-</table>
-<br>
+<table width="100%">
+{% assign student_order = 'PhD|MSc|BSc|Postdoctoral' | split: '|' %}
+{% assign students = site.students | sort:'name' | sort_by_index: 'role', student_order %}
 
-<table width="98%">
-<tr><td width="23%"><img src="headshots/cscheid.jpg" alt="Carlos Scheidegger"><br><a href="http://cscheid.net">Carlos Scheidegger</a><br>Assistant Professor</td>
-    <td width="2%"></td>
-    <td width="23%"><img src="headshots/kisaacs.jpg" alt="Kate Isaacs"><br><a href="#">Kate Isaacs</a><br>Assistant Professor</td>
-    <td width="2%"></td>
-    <td width="23%"><img src="headshots/josh.jpg" alt="Joshua Levine"><br><a href="#">Joshua Levine</a><br>Assistant Professor</td>
-    <td width="2%"></td>
-    <td width="23%"><img src="headshots/skobourov.jpg" alt="Stephen Kobourov"><br><a href="http://www.cs.arizona.edu/~kobourov">Stephen Kobourov</a><br>Professor</td>
-</tr>
+{% tablerow member in students cols:4 %}
+  <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}"><br>
+  <a href="{{ member.website }}">{{ member.name }}</a><br>
+  {{ member.role }}
+  <td width="2%"></td>
+{% endtablerow %}
+</table>
+
+<p><br></p>
+
+<table width="100%">
+{% assign faculty_order = 'Assistant Professor|Professor' | split: '|' %}
+{% assign faculty = site.faculty | sort:'name' | sort_by_index: 'role', faculty_order %}
+{% tablerow member in faculty cols:4 %}
+  <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}"><br>
+  <a href="{{ member.website }}">{{ member.name }}</a><br>
+  {{ member.role }}
+  <td width="2%"></td>
+{% endtablerow %}
 </table>
 <br>
 
@@ -75,7 +69,7 @@ We are part of the
 
 * [Mihai Surdeanu](http://www.surdeanu.info/mihai/), Associate Professor
 
-* Bahador Saket, Student Alum, now PhD student at Georgia Tech
+* Bahador Saket, Student Alum, now PhD member at Georgia Tech
 
 * [Jawaherul Alam](http://www.cs.arizona.edu/~mjalam/), PhD
 
