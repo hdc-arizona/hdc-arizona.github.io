@@ -65,3 +65,43 @@ strong {
     clear: both
 }
 
+/* Some tweaks to bootstrap that we've added ourselves */
+
+body {
+  text-rendering: optimizeLegibility;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 1.6em;
+  font-weight: 400;
+}
+
+h1 {
+    font-size: 2.1em;
+    padding-bottom: 0.3em;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #D15F38;
+}
+
+a {
+    color: #2F7A94;
+    text-decoration: underline;
+    text-decoration-color: #6090A1;
+}
+
+a:visited {
+    color: #6090A1;
+}
+
+
+ul {
+    /* small bullet in svg. This data url is circle.svg
+
+   */
+    list-style-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzIiCiAgIHZpZXdCb3g9IjAgMCA4IDgiCiAgIGhlaWdodD0iOCIKICAgd2lkdGg9IjgiPgogIDxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIzIiBzdHlsZT0iZmlsbDojMDAwMDAwO3N0cm9rZTpub25lIi8+Cjwvc3ZnPgo=);
+}
