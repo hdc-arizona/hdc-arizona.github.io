@@ -13,7 +13,10 @@ contribute to it!
 
 We use [Slack](https://hdcarizona.slack.com/) for a
 catch-all IRC and IM equivalent. We don't require you to be on Slack
-at all times but since many of us *are* on Slack We try to have a per-project channel. 
+at all times but since many of us *are* on Slack, that's usually the
+best way to get in touch.
+
+We try to have a per-project channel. 
 
 # Software
 
