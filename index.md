@@ -69,8 +69,6 @@ We are part of the
 
 * [Mihai Surdeanu](http://www.surdeanu.info/mihai/), Associate Professor
 
-* Bahador Saket, Student Alum, now PhD student at Georgia Tech
-
 * [Jawaherul Alam](http://www.cs.arizona.edu/~mjalam/), PhD
 
 * Lauro Lins, Jim Klosowski, Horace Yip, Gordon Woodhull, Simon Urbanek: AT&T Research
@@ -80,6 +78,12 @@ We are part of the
 * [Gautham Narayan](http://ast.noao.edu/about/people/narayan), NOAO
 
 * [Joao Comba](http://www.inf.ufrgs.br/~comba/), Cicero Pahins, UFRGS
+
+### Alumni
+
+* Bahador Saket, now PhD student at Georgia Tech
+
+* [Aarthy Bhaskar](http://aarthysb.com) (MSc)
 
 ### Support and Acknowledgments
 
@@ -92,3 +96,7 @@ and IIA-1344024.
 # Software
 
 We host our software at our [GitHub organization page](http://github.com/hdc-arizona/).
+
+# Logistics
+
+You can find more information about how we run our group [here](logistics.html).

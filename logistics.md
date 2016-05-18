@@ -2,11 +2,18 @@
 layout: page
 ---
 
+This page describes the day-to-day aspects of working in our
+group. It assumes that "you" (the one reading this) is a student, researcher,
+or staff member of the group and "us" (the ones who wrote this) are
+the faculty members. You are welcome to add suggestions to this page,
+though! The choice of deixis is for ease of expression, not to dictate
+authorship or control over the content.
+
 # Communication
 
-We're trying out [Slack](https://hdcarizona.slack.com/) for a
-catch-all IRC and IM equivalent. Send email to Carlos if you'd like an
-invite.
+We use [Slack](https://hdcarizona.slack.com/) for a
+catch-all IRC and IM equivalent. We don't require you to be on Slack
+at all times but since many of us *are* on Slack We try to have a per-project channel. 
 
 # Software
 
@@ -44,7 +51,28 @@ branches will save you a lot of time when you are trying different
 things: you can keep different experiments in different branches and
 make sure that they are not stepping on each other's toes.
 
-## Languages
+## Web Presence
+
+It is *tremendously* important that you keep a web presence. Even if
+you participate in the standard social network websites, we will ask you
+to keep an up-to-date personal website. This is important because
+*you* get to control the discourse around yourself, and doing so
+effectively is 1) an important part of research life 2) a skill: it
+can be taught and learned, and learning this is part of our job.
+
+### HDC projects
+
+Ideally, we want to keep a consistent visual theme for projects from
+the HDC group. The easiest way for you to achieve it is to use our
+[stylesheet](/css/main.css). Note that we also typically use
+[Bootstrap](https://getbootstrap.com).
+
+### This website
+
+If you want to suggest changes to this website, we welcome pull
+requests in the [main repo](https://github.com/hdc-arizona/hdc-website/).
+
+## Programming Languages
 
 You can use whatever programming language you feel most comfortable
 with, but the majority of us speak some mix of C++, Javascript, and
