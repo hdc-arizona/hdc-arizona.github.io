@@ -1,13 +1,13 @@
 ---
+title: "Logistics"
 layout: page
 ---
 
-This page describes the day-to-day aspects of working in our
-group. It assumes that "you" (the one reading this) is a student, researcher,
-or staff member of the group and "us" (the ones who wrote this) are
-the faculty members. You are welcome to add suggestions to this page,
-though! The choice of deixis is for ease of expression, not to dictate
-authorship or control over the content.
+This page describes the day-to-day aspects of working in our group. It
+assumes that "you" (the one reading this) is a student, researcher, or
+staff member of the group and "us" (the ones who wrote this) are the
+faculty members. Even though we created this page, you are welcome to
+contribute to it!
 
 # Communication
 
