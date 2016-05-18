@@ -1,5 +1,5 @@
 ---
-layout: main_bootstrap
+layout: main
 title: "The Humans, Data, and Computers Lab"
 ---
 
