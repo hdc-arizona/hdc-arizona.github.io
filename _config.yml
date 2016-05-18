@@ -11,6 +11,10 @@ url: "http://hdc.cs.arizona.edu/" # the base hostname & protocol for your site
 twitter_username: hdc_arizona
 github_username:  hdc-arizona
 
+collections:
+ - students
+ - faculty
+
 # Build settings
 markdown: kramdown
 highlighter: pygments
