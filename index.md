@@ -79,11 +79,7 @@ We are part of the
 
 * [Joao Comba](http://www.inf.ufrgs.br/~comba/), Cicero Pahins, UFRGS
 
-### Alumni
-
-* Bahador Saket, now PhD student at Georgia Tech
-
-* [Aarthy Bhaskar](http://aarthysb.com) (MSc)
+### [Alumni](/alumni/)
 
 ### Support and Acknowledgments
 
