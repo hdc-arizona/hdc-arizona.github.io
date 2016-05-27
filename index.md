@@ -83,11 +83,12 @@ We are part of the
 
 ### Support and Acknowledgments
 
-Our group is supported partially by the Arizona Board of Regents and
-the NSF, under grants
+We acknowledge the gracious support of our sponsors. Our work is
+supported in part by the University of Arizona Board of Regents,
+the NSF (under awards
 [III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651)
-([project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html))
-and IIA-1344024.
+[project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html)
+and IIA-1344024), and AT&T Labs.
 
 # Software
 
