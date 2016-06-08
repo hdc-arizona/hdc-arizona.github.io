@@ -1,7 +1,7 @@
 ---
 name: Youhao Wei 
 role: MSc Student
-photo:
+photo: headshots/wei.jpg
 website:
 sort_index: 3
 ---
