@@ -1,6 +1,6 @@
 ---
 name: Kate Isaacs
 role: Assistant Professor
-website:
+website: http://cgi.cs.arizona.edu/~kisaacs
 photo: headshots/kisaacs.jpg
 ---
