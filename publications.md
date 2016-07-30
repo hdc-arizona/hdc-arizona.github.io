@@ -7,11 +7,11 @@ title: Publications
 
 ## 2016
 
-<img class="pubthumb" src="papers/thumbs/infovis_2016_gaussian_cubes.png"> [Zhe Wang](http://www.z-wang.com/), Nivan Ferreira, Youhao Wei, Aarthy Bhaskar, [Carlos Scheidegger](http://cscheid.net). **Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets**. Accepted to IEEE InfoVis 2016, IEEE TVCG, to appear.
+<img class="pubthumb" src="papers/thumbs/infovis_2016_gaussian.png"> [Zhe Wang](http://www.z-wang.com/), Nivan Ferreira, Youhao Wei, Aarthy Bhaskar, [Carlos Scheidegger](http://cscheid.net). **Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets**. Accepted to IEEE InfoVis 2016, IEEE TVCG, to appear.
 
 <div class="pubdiv"></div>
 
-<img class="pubthumb" src="papers/thumbs/infovis_2016_hashed_cubes.png"> Cicero Pahins, Sean S. Stephens, [Carlos Scheidegger](http://cscheid.net), [Joao Comba](http://www.inf.ufrgs.br/~comba/). **Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data**. Accepted to IEEE InfoVis 2016, IEEE TVCG, to appear.
+<img class="pubthumb" src="papers/thumbs/infovis_2016_hashedcubes.png"> Cicero Pahins, Sean S. Stephens, [Carlos Scheidegger](http://cscheid.net), [Joao Comba](http://www.inf.ufrgs.br/~comba/). **Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data**. Accepted to IEEE InfoVis 2016, IEEE TVCG, to appear.
 
 <div class="pubdiv"></div>
 
