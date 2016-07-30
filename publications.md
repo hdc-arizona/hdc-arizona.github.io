@@ -15,6 +15,10 @@ title: Publications
 
 <div class="pubdiv"></div>
 
+[<img class="pubthumb" src="papers/thumbs/eurovis_2016_comparing.png">](papers/eurovis_2016_comparing.pdf) [Bahador Saket](http://bahadorsaket.com), [Carlos Scheidegger](http://cscheid.net), and [Stephen G. Kobourov](http://www.cs.arizona.edu/~kobourov). **Comparing Node-Link and Node-Link-Group Visualizations From An Enjoyment Perspective**. EuroVis 2016. [PDF](papers/eurovis_2016_comparing.pdf)
+
+<div class="pubdiv"></div>
+
 ## 2015
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2015_euler.png">](papers/infovis_2015_euler.pdf) Paolo Simonetto, [Daniel Archambault](http://cs.swansea.ac.uk/~csdarchambault/), [Carlos Scheidegger](https://cscheid.net/). **A Simple
