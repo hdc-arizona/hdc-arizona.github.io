@@ -1,6 +1,6 @@
 ---
 name: Benafsh Husain
 role: PhD Student
-photo:headshots/benafsh.jpg
+photo: headshots/benafsh.jpg
 website:
 ---
