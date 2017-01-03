@@ -24,7 +24,7 @@ We are part of the
 ## Members
 
 <table width="100%">
-{% assign student_order = 'PhD|MSc|BSc|Postdoctoral' | split: '|' %}
+{% assign student_order = 'PhD|MSc|BSc|Postdoc' | split: '|' %}
 {% assign students = site.students | sort:'name' | sort_by_index: 'role', student_order %}
 
 {% tablerow member in students cols:4 %}
