@@ -29,7 +29,12 @@ We are part of the
 
 {% tablerow member in students cols:4 %}
   <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}"><br>
-  <a href="{{ member.website }}">{{ member.name }}</a><br>
+  {% if member.website %}
+    <a href="{{ member.website }}">{{ member.name }}</a>
+  {% else %}
+    {{ member.name }}
+  {% endif %}
+  <br>
   {{ member.role }}
   <td width="2%"></td>
 {% endtablerow %}
@@ -42,7 +47,12 @@ We are part of the
 {% assign faculty = site.faculty | sort:'name' | sort_by_index: 'role', faculty_order %}
 {% tablerow member in faculty cols:4 %}
   <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}"><br>
-  <a href="{{ member.website }}">{{ member.name }}</a><br>
+  {% if member.website %}
+    <a href="{{ member.website }}">{{ member.name }}</a>
+  {% else %}
+    {{ member.name }}
+  {% endif %}
+  <br>
   {{ member.role }}
   <td width="2%"></td>
 {% endtablerow %}
