@@ -87,9 +87,9 @@ We acknowledge the gracious support of our sponsors. Our work is
 supported in part by the University of Arizona Board of Regents,
 the NSF (under awards
 [III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651)
-[project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html),
-[III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958)[project
-webpage](http://hdc-arizona.github.io/projects/dependencies),
+[[project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html)],
+[III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958) [[project
+webpage](http://hdc-arizona.github.io/projects/dependencies)],
 and IIA-1344024), and AT&T Labs.
 
 # Software
