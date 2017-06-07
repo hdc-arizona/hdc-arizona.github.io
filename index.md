@@ -77,15 +77,6 @@ We are part of the
 
 ### Collaborators
 
-
-* [Mihai Surdeanu](http://www.surdeanu.info/mihai/), Associate Professor
-
-* [Jawaherul Alam](http://www.cs.arizona.edu/~mjalam/), PhD
-
-* Lauro Lins, Jim Klosowski, Simon Urbanek, Gordon Woodhull, Horace Yip: AT&T Research
-
-* Stephen North, InfoVisible LLC
-
 * Abhinav Bhatele, Harsh Bhatia, Timo Bremer, Todd Gamblin: LLNL
 
 * [Gautham Narayan](http://ast.noao.edu/about/people/narayan), NOAO
@@ -94,9 +85,17 @@ We are part of the
 
 * [Joao Comba](http://www.inf.ufrgs.br/~comba/), Cicero Pahins, UFRGS
 
-  
+* [Bei Wang](http://www.sci.utah.edu/~beiwang), University of Utah
 
+* [Paul Rosen](http://www.cspaul.com/wordpress/), University of South Florida
 
+* Lauro Lins, Jim Klosowski, Simon Urbanek, Gordon Woodhull, Horace Yip: AT&T Research
+
+* Stephen North, InfoVisible LLC
+
+* [Mihai Surdeanu](http://www.surdeanu.info/mihai/), University of Arizona
+
+* [Jawaherul Alam](http://www.cs.arizona.edu/~mjalam/)
 
 ### [Alumni](/alumni/)
 

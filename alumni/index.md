@@ -13,3 +13,7 @@ title: Alumni
   Georgia Tech. Project: [Enjoyment in Graphs and Maps](/publications.html)
 
 * [Aarthy Bhaskar](http://aarthysb.com), MSc. Project: Nanocubes.
+
+* Youhao Wei, now at [Metropia](http://www.metropia.com/).
+
+* Sean August Stephens, now at [Dropbox](http://www.dropbox.com/).
