@@ -67,17 +67,26 @@ We are part of the
 
 ### Collaborators
 
+
 * [Mihai Surdeanu](http://www.surdeanu.info/mihai/), Associate Professor
 
 * [Jawaherul Alam](http://www.cs.arizona.edu/~mjalam/), PhD
 
-* Lauro Lins, Jim Klosowski, Horace Yip, Gordon Woodhull, Simon Urbanek: AT&T Research
-  
+* Lauro Lins, Jim Klosowski, Simon Urbanek, Gordon Woodhull, Horace Yip: AT&T Research
+
 * Stephen North, InfoVisible LLC
+
+* Abhinav Bhatele, Harsh Bhatia, Timo Bremer, Todd Gamblin: LLNL
 
 * [Gautham Narayan](http://ast.noao.edu/about/people/narayan), NOAO
 
+* Martin Schulz, TU Munich
+
 * [Joao Comba](http://www.inf.ufrgs.br/~comba/), Cicero Pahins, UFRGS
+
+  
+
+
 
 ### [Alumni](/alumni/)
 
@@ -87,7 +96,9 @@ We acknowledge the gracious support of our sponsors. Our work is
 supported in part by the University of Arizona Board of Regents,
 the NSF (under awards
 [III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651)
-[project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html)
+[[project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html)],
+[III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958) [[project
+webpage](http://hdc-arizona.github.io/projects/dependencies)],
 and IIA-1344024), and AT&T Labs.
 
 # Software
