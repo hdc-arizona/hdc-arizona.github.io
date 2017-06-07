@@ -60,7 +60,7 @@ We are part of the
   in the fall of 2016!
 
 * Congratulations to Youhao and Sean, who
-  [won two categories in Hack Arizona 2016](http://hackarizona.org/winners/),
+  [won two categories in Hack Arizona 2016](http://hackarizona.org/2016/winners/),
   the biggest hackathon in the Southwest. Together with collaborators
   Ben Gaska and Nick DeJaco, they took both the "Data Science and
   Visualization" and the "Best Transportation Hack" categories!
