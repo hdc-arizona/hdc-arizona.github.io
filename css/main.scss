@@ -23,7 +23,9 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+$hdc-green:	   #9c0;
+$hdc-orange:	   #f93;
+$hdc-blue:	   #39f;
 
 // Using media queries with like this:
 // @include media-query($palm) {
@@ -87,17 +89,19 @@ h2 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #D15F38;
+    color: $hdc-orange;
 }
 
 a {
-    color: #2F7A94;
+    color: $hdc-blue;
     text-decoration: underline;
-    text-decoration-color: #6090A1;
+    text-decoration-color: $hdc-blue;
 }
 
 a:visited {
-    color: #6090A1;
+    color: desaturate($hdc-blue, 75%);
+    text-decoration: underline;
+    text-decoration-color: desaturate($hdc-blue, 75%);
 }
 
 
