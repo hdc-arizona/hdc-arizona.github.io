@@ -75,32 +75,6 @@ We are part of the
   Ben Gaska and Nick DeJaco, they took both the "Data Science and
   Visualization" and the "Best Transportation Hack" categories!
 
-### Collaborators
-
-* Abhinav Bhatele, Harsh Bhatia, Peer-Timo Bremer, Todd Gamblin: LLNL
-
-* [Gautham Narayan](http://ast.noao.edu/about/people/narayan): NOAO
-
-* Martin Schulz: TU Munich
-
-* [Joao Comba](http://www.inf.ufrgs.br/~comba/), Cicero Pahins: UFRGS
-
-* [Julien Tierny](http://www-pequan.lip6.fr/~tierny/): CNRS/UPMC
-
-* [Valerio Pascucci](http://www.pascucci.org/), [Bei Wang](http://www.sci.utah.edu/~beiwang): University of Utah
-
-* [Paul Rosen](http://www.cspaul.com/wordpress/): University of South Florida
-
-* [Adam Bargteil](https://www.csee.umbc.edu/~adamb/): University of Maryland, Baltimore County
-
-* Lauro Lins, Jim Klosowski, Simon Urbanek, Gordon Woodhull, Horace Yip: AT&T Research
-
-* Stephen North: InfoVisible LLC
-
-* [Mihai Surdeanu](http://www.surdeanu.info/mihai/): University of Arizona
-
-* [Jawaherul Alam](http://www.cs.arizona.edu/~mjalam/)
-
 ### [Alumni](/alumni/)
 
 ### Support and Acknowledgments
