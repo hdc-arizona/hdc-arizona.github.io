@@ -1,6 +1,6 @@
 ---
-name: Joshua Levine
+name: Josh Levine
 role: Assistant Professor
-website:
+website: http://www.cs.arizona.edu/~josh
 photo: headshots/josh.jpg
 ---
