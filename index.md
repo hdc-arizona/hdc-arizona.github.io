@@ -61,7 +61,7 @@ We are part of the
 
 ## News
 
-* Welcome new Fall 2017 students Jixianm Kairong, Katy!
+* Welcome new Fall 2017 students Jixian, Kairong, Katy!
 
 * [TTK](https://topology-tool-kit.github.io/) was awarded the [Best Paper Honorable Mention Award](http://ieeevis.org/year/2017/info/papers) at IEEE VIS 2017!
 
