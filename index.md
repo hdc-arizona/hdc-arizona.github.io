@@ -11,7 +11,9 @@ from creating
 to
 [novel data structures and systems for interactive data analysis at scale](http://nanocubes.net),
 to
-[novel ways to characterize data-driven discrimination](http://fairness.haverford.edu).
+[novel ways to characterize data-driven discrimination](http://fairness.haverford.edu), 
+to 
+[topological analysis in visualization](https://topology-tool-kit.github.io/).
 
 When human concerns and our modern technological society overlap, we
 strive to advance computer science in order to help people lead better lives.
