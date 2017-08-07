@@ -61,6 +61,10 @@ We are part of the
 
 ## News
 
+* Welcome new Fall 2017 students Jixianm Kairong, Katy!
+
+* [TTK](https://topology-tool-kit.github.io/) was awarded the [Best Paper Honorable Mention Award](http://ieeevis.org/year/2017/info/papers) at IEEE VIS 2017!
+
 * We're excited to share the news that Prof. Joshua Levine and Benafsh
   Husain will be joining the Department of Computer Science and HDC
   Lab in the Fall 2016 semester!
