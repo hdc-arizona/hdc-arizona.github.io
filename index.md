@@ -65,6 +65,8 @@ We are part of the
 
 * [TTK](https://topology-tool-kit.github.io/) was awarded the [Best Paper Honorable Mention Award](http://ieeevis.org/year/2017/info/papers) at IEEE VIS 2017!
 
+* Congrats to Sabrina Nusrat, who successfully defended her PhD in Summer 2017
+
 * We're excited to share the news that Prof. Joshua Levine and Benafsh
   Husain will be joining the Department of Computer Science and HDC
   Lab in the Fall 2016 semester!

@@ -3,6 +3,8 @@ layout: main
 title: Alumni
 ---
 
+* [Sabrina Nusrat](https://www2.cs.arizona.edu/~sabrinanusrat/), PhD.  Project: Cartogram Visualization: Methods, Applications, and Effectiveness
+
 * [Nivan Ferreira](http://www.cin.ufpe.br/~nivan/), now Assistant Professor at Centro de Informatica
   Universidade Federal de Pernambuco. Post-doctoral scholar at UA.
 
