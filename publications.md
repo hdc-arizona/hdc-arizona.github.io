@@ -5,6 +5,14 @@ title: Publications
 
 # Publications from the HDC Lab
 
+## 2017
+
+[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), Guillaume Favelier, [Joshua Levine](https://jalevine.bitbucket.io/), Charles Gueunet, Michael Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [PDF](papers/infovis_2016_gaussian.pdf)
+
+<div class="pubdiv"></div>
+
+
+
 ## 2016
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2016_gaussian.png">](papers/infovis_2016_gaussian.pdf) [Zhe Wang](http://www.z-wang.com/), Nivan Ferreira, Youhao Wei, Aarthy Bhaskar, [Carlos Scheidegger](http://cscheid.net). **Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets**. Accepted to IEEE InfoVis 2016, IEEE TVCG, to appear. [PDF](papers/infovis_2016_gaussian.pdf)
@@ -18,6 +26,8 @@ title: Publications
 [<img class="pubthumb" src="papers/thumbs/eurovis_2016_comparing.png">](papers/eurovis_2016_comparing.pdf) [Bahador Saket](http://bahadorsaket.com), [Carlos Scheidegger](http://cscheid.net), and [Stephen G. Kobourov](http://www.cs.arizona.edu/~kobourov). **Comparing Node-Link and Node-Link-Group Visualizations From An Enjoyment Perspective**. EuroVis 2016. [PDF](papers/eurovis_2016_comparing.pdf)
 
 <div class="pubdiv"></div>
+
+
 
 ## 2015
 
@@ -52,6 +62,8 @@ Data**. Eurovis
 [data](http://cscheid.net/static/papers/eurovis_long_2015_supplemental.tar.gz)
 
 <div class="pubdiv"></div>
+
+
 
 ## 2014
 
