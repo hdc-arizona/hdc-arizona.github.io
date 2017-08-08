@@ -1,9 +1,7 @@
 ---
 layout: main
-title: Publications
+title: Publications from the HDC Lab
 ---
-
-# Publications from the HDC Lab
 
 ## 2017
 
@@ -11,15 +9,24 @@ title: Publications
 
 <div class="pubdiv"></div>
 
-
-
 ## 2016
 
-[<img class="pubthumb" src="papers/thumbs/infovis_2016_gaussian.png">](papers/infovis_2016_gaussian.pdf) [Zhe Wang](http://www.z-wang.com/), Nivan Ferreira, Youhao Wei, Aarthy Bhaskar, [Carlos Scheidegger](http://cscheid.net). **Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets**. Accepted to IEEE InfoVis 2016, IEEE TVCG, to appear. [PDF](papers/infovis_2016_gaussian.pdf)
+[<img class="pubthumb" src="papers/thumbs/infovis_2016_gaussian.png">](papers/infovis_2016_gaussian.pdf)
+[Zhe Wang](http://www.z-wang.com/), Nivan Ferreira, Youhao Wei, Aarthy
+Bhaskar, [Carlos Scheidegger](http://cscheid.net). **Gaussian Cubes:
+Real-Time Modeling for Visual Exploration of Large Multidimensional
+Datasets**. Presented at InfoVis 2016, published at IEEE TVCG
+23(1)681-690, 2017. [PDF](papers/infovis_2016_gaussian.pdf)
 
 <div class="pubdiv"></div>
 
-[<img class="pubthumb" src="papers/thumbs/infovis_2016_hashedcubes.png">](papers/infovis_2016_hashedcubes.pdf) Cicero Pahins, Sean S. Stephens, [Carlos Scheidegger](http://cscheid.net), [Joao Comba](http://www.inf.ufrgs.br/~comba/). **Hashedcubes: Simple, Low Memory, Real-Time Visual Exploration of Big Data**. Accepted to IEEE InfoVis 2016, IEEE TVCG, to appear. [PDF](papers/infovis_2016_hashedcubes.pdf)
+[<img class="pubthumb" src="papers/thumbs/infovis_2016_hashedcubes.png">](papers/infovis_2016_hashedcubes.pdf)
+Cicero Pahins, Sean S. Stephens,
+[Carlos Scheidegger](http://cscheid.net),
+[Joao Comba](http://www.inf.ufrgs.br/~comba/). **Hashedcubes: Simple,
+Low Memory, Real-Time Visual Exploration of Big Data**. Presented at
+InfoVis 2016, published at IEEE TVCG 23(1)671-680,
+2017. [PDF](papers/infovis_2016_hashedcubes.pdf)
 
 <div class="pubdiv"></div>
 
@@ -67,7 +74,7 @@ Data**. Eurovis
 
 ## 2014
 
-[<img class="pubthumb" src="papers/thumbs/vis_2014_algebraic.png">](papers/infovis_2014_algebraic.pdf) [Gordon Kindlmann](http://www.cs.uchicago.edu/~glk) and
+[<img class="pubthumb" src="papers/thumbs/infovis_2014_algebraic.png">](papers/infovis_2014_algebraic.pdf) [Gordon Kindlmann](http://www.cs.uchicago.edu/~glk) and
 [Carlos Scheidegger](http://cscheid.net). **An Algebraic Process for
 Visualization Design**. TVCG 2014, **honorable
 mention for best paper award at InfoVis 2014**. [PDF](papers/infovis_2014_algebraic.pdf)
