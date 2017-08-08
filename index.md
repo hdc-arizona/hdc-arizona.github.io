@@ -25,12 +25,19 @@ We are part of the
 
 ## Members
 
-<table width="100%">
+<style>
+  table.four-columns td {
+    width: 25%;
+  }
+</style>
+
+<table class="four-columns" width="100%">
 {% assign student_order = 'PhD|MSc|BSc|Postdoc' | split: '|' %}
 {% assign students = site.students | sort:'name' | sort_by_index: 'role', student_order %}
 
 {% tablerow member in students cols:4 %}
-  <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}"><br>
+  <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}" style="padding-right:0.75em">
+  <br>
   {% if member.website %}
     <a href="{{ member.website }}">{{ member.name }}</a>
   {% else %}
@@ -38,17 +45,16 @@ We are part of the
   {% endif %}
   <br>
   {{ member.role }}
-  <td width="2%"></td>
 {% endtablerow %}
 </table>
 
 <p><br></p>
 
-<table width="100%">
+<table class="four-columns" width="100%">
 {% assign faculty_order = 'Assistant Professor|Professor' | split: '|' %}
 {% assign faculty = site.faculty | sort:'name' | sort_by_index: 'role', faculty_order %}
 {% tablerow member in faculty cols:4 %}
-  <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}"><br>
+  <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}" style="padding-right:0.75em"><br>
   {% if member.website %}
     <a href="{{ member.website }}">{{ member.name }}</a>
   {% else %}
@@ -56,7 +62,6 @@ We are part of the
   {% endif %}
   <br>
   {{ member.role }}
-  <td width="2%"></td>
 {% endtablerow %}
 </table>
 <br>
