@@ -7,6 +7,8 @@ title: Publications from the HDC Lab
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_2017_transition.png">](papers/tvcg_2017_transition.pdf) Yong Wang, Daniel Archambault, [Carlos Scheidegger](https://cscheid.net), and Huamin Qu. Accepted to IEEE TVCG, to appear. [PDF](papers/tvcg_2017_transition.pdf)
 
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), Guillaume Favelier, [Joshua Levine](https://jalevine.bitbucket.io/), Charles Gueunet, Michael Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [PDF](papers/scivis_2017_ttk.pdf)
 
 <div class="pubdiv"></div>
