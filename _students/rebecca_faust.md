@@ -1,6 +1,6 @@
 ---
 name: Rebecca Faust
 role: PhD Student
-website: 
+website: https://rjfaust.github.io 
 photo: headshots/rfaust.jpg
 ---
