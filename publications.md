@@ -43,6 +43,16 @@ Field Design Approach to Animated Transitions**. Accepted to IEEE TVCG, to appea
 
 ## 2016
 
+[<img class="pubthumb" src="papers/thumbs/icdm_2016_auditing.png"](papers/icdm_2016_auditing.pdf)
+Philip Adler, Casey Falk,
+[Sorelle A. Friedler](http://sorelle.friedler.net), Gabriel Rybeck,
+[Carlos Scheidegger](https://cscheid.net), Brandon Smith, and
+[Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/). **Auditing
+Black-Box Models for Indirect Influence**. IEEE ICDM 2016. [PDF](papers/icdm_2016_auditing.pdf)
+
+
+
+
 [<img class="pubthumb" src="papers/thumbs/infovis_2016_gaussian.png">](papers/infovis_2016_gaussian.pdf)
 [Zhe Wang](http://www.z-wang.com/), Nivan Ferreira, Youhao Wei, Aarthy
 Bhaskar, [Carlos Scheidegger](http://cscheid.net). **Gaussian Cubes:
