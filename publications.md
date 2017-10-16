@@ -5,7 +5,7 @@ title: Publications from the HDC Lab
 
 ## 2017
 
-[<img class="pubthumb" src="papers/thumgs/arxiv_2017_dimreader.png">](papers/arxiv_2017_dimreader.pdf)
+[<img class="pubthumb" src="papers/thumbs/arxiv_2017_dimreader.png">](papers/arxiv_2017_dimreader.pdf)
 [Rebecca Faust](https://rjfaust.github.io/),
 [Carlos Scheidegger](https://cscheid.net). **DimReader: Using
 auto-differentiation to explain non-linear projections**. [arxiv](https://arxiv.org/abs/1710.00992).
