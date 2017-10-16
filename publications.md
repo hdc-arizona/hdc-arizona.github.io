@@ -10,6 +10,8 @@ title: Publications from the HDC Lab
 [Carlos Scheidegger](https://cscheid.net). **DimReader: Using
 auto-differentiation to explain non-linear projections**. [arxiv](https://arxiv.org/abs/1710.00992).
 
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/dsia_2017_load-n-go.png">](papers/dsia_2017_load-n-go.pdf)
 Marianne Procopio, [Carlos Scheidegger](https://cscheid.net),
 [Eugene Wu](http://www.cs.columbia.edu/~ewu/), and
