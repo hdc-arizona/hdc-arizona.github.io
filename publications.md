@@ -43,7 +43,7 @@ Field Design Approach to Animated Transitions**. Accepted to IEEE TVCG, to appea
 
 ## 2016
 
-[<img class="pubthumb" src="papers/thumbs/icdm_2016_auditing.png"](papers/icdm_2016_auditing.pdf)
+[<img class="pubthumb" src="papers/thumbs/icdm_2016_auditing.png">](papers/icdm_2016_auditing.pdf)
 Philip Adler, Casey Falk,
 [Sorelle A. Friedler](http://sorelle.friedler.net), Gabriel Rybeck,
 [Carlos Scheidegger](https://cscheid.net), Brandon Smith, and
