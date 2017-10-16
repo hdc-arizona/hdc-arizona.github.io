@@ -50,8 +50,7 @@ Philip Adler, Casey Falk,
 [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/). **Auditing
 Black-Box Models for Indirect Influence**. IEEE ICDM 2016. [PDF](papers/icdm_2016_auditing.pdf)
 
-
-
+<div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2016_gaussian.png">](papers/infovis_2016_gaussian.pdf)
 [Zhe Wang](http://www.z-wang.com/), Nivan Ferreira, Youhao Wei, Aarthy
