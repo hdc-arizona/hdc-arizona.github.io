@@ -5,7 +5,31 @@ title: Publications from the HDC Lab
 
 ## 2017
 
-[<img class="pubthumb" src="papers/thumbs/tvcg_2017_transition.png">](papers/tvcg_2017_transition.pdf) Yong Wang, Daniel Archambault, [Carlos Scheidegger](https://cscheid.net), and Huamin Qu. Accepted to IEEE TVCG, to appear. [PDF](papers/tvcg_2017_transition.pdf)
+[<img class="pubthumb" src="papers/thumgs/arxiv_2017_dimreader.png">](papers/arxiv_2017_dimreader.pdf)
+[Rebecca Faust](https://rjfaust.github.io/),
+[Carlos Scheidegger](https://cscheid.net). **DimReader: Using
+auto-differentiation to explain non-linear projections**. [arxiv](https://arxiv.org/abs/1710.00992).
+
+[<img class="pubthumb" src="papers/thumbs/dsia_2017_load-n-go.png">](papers/dsia_2017_load-n-go.pdf)
+Marianne Procopio, [Carlos Scheidegger](https://cscheid.net),
+[Eugene Wu](http://www.cs.columbia.edu/~ewu/), and
+[Remco Chang](http://www.cs.tufts.edu/~remco/). **Load-n-Go: Fast
+Approximate Join Visualizations That Improve Over Time**. Short paper, presented at [DSIA 2017](http://www.interactive-analysis.org).
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/tvcg_2017_bivariate_cartograms.png">](papers/tvcg_2017_bivariate_cartograms.pdf)
+Sabrina Nusrat, Md. Jawaherul Alam,
+[Carlos Scheidegger](https://cscheid.net),
+[Stephen Kobourov](https://www2.cs.arizona.edu/~kobourov/). **Cartogram
+Visualization for Bivariate Geo-Statistical Data**. Accepted to IEEE TVCG, to appear. [PDF](papers/tvcg_2017_bivariate_cartograms.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/tvcg_2017_transition.png">](papers/tvcg_2017_transition.pdf)
+Yong Wang, Daniel Archambault,
+[Carlos Scheidegger](https://cscheid.net), and Huamin Qu. **A Vector
+Field Design Approach to Animated Transitions**. Accepted to IEEE TVCG, to appear. [PDF](papers/tvcg_2017_transition.pdf)
 
 <div class="pubdiv"></div>
 
