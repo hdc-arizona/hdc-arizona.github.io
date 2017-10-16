@@ -8,7 +8,8 @@ title: Publications from the HDC Lab
 [<img class="pubthumb" src="papers/thumbs/arxiv_2017_dimreader.png">](papers/arxiv_2017_dimreader.pdf)
 [Rebecca Faust](https://rjfaust.github.io/),
 [Carlos Scheidegger](https://cscheid.net). **DimReader: Using
-auto-differentiation to explain non-linear projections**. [arxiv](https://arxiv.org/abs/1710.00992).
+auto-differentiation to explain non-linear
+projections**. [arxiv](https://arxiv.org/abs/1710.00992). [PDF](papers/arxiv_2017_dimreader.pdf)
 
 <div class="pubdiv"></div>
 
@@ -16,7 +17,8 @@ auto-differentiation to explain non-linear projections**. [arxiv](https://arxiv.
 Marianne Procopio, [Carlos Scheidegger](https://cscheid.net),
 [Eugene Wu](http://www.cs.columbia.edu/~ewu/), and
 [Remco Chang](http://www.cs.tufts.edu/~remco/). **Load-n-Go: Fast
-Approximate Join Visualizations That Improve Over Time**. Short paper, presented at [DSIA 2017](http://www.interactive-analysis.org).
+Approximate Join Visualizations That Improve Over Time**. Short paper,
+presented at [DSIA 2017](http://www.interactive-analysis.org). [PDF](papers/dsia_2017_load-n-go.pdf)
 
 <div class="pubdiv"></div>
 
