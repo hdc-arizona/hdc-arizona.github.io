@@ -1,6 +1,6 @@
 ---
 name: Jixian Li
 role: PhD Student
-photo: headshots/placeholder.png
+photo: headshots/jixianli.jpg
 website:
 ---
