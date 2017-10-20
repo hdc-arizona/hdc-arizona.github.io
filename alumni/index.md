@@ -3,7 +3,7 @@ layout: main
 title: Alumni
 ---
 
-* Benafsh Hussain, MS.
+* Benafsh Husain, MS.
 
 * [Sabrina Nusrat](https://www2.cs.arizona.edu/~sabrinanusrat/), PhD.  Project: Cartogram Visualization: Methods, Applications, and Effectiveness
 
