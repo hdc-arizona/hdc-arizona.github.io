@@ -3,6 +3,8 @@ layout: main
 title: Alumni
 ---
 
+* [Danilo Motta](https://sites.google.com/site/ddanilomotta/), returned to Brazil to complete his PhD at the University of São Paulo.
+
 * Benafsh Husain, MS.
 
 * [Sabrina Nusrat](https://www2.cs.arizona.edu/~sabrinanusrat/), PhD.  Project: Cartogram Visualization: Methods, Applications, and Effectiveness
