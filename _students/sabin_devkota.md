@@ -1,6 +1,6 @@
 ---
 name: Sabin Devkota
 role: PhD Student
-website: 
+website: https://devkotasabin.github.io/ 
 photo: headshots/sabin.jpg
 ---
