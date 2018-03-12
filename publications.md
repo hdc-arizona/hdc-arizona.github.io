@@ -3,6 +3,14 @@ layout: main
 title: Publications from the HDC Lab
 ---
 
+## 2018
+
+[<img class="pubthumb" src="papers/thumbs/infovis_2016_gaussian.png">](papers/infovis_2016_gaussian.pdf)
+S. Nusrat, J. Alam, [S. Kobourov](http://www.cs.arizona.edu/~kobourov). **Evaluating Cartogram Effectivenesss**. IEEE Transactions on Visualization and Computer Graphics, Volume: 24, Issue: 2, 2018. [PDF](papers/tvcg_eval_cartogram_2018.pdf)
+
+<div class="pubdiv"></div>
+
+
 ## 2017
 
 [<img class="pubthumb" src="papers/thumbs/arxiv_2017_dimreader.png">](papers/arxiv_2017_dimreader.pdf)
