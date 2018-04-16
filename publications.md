@@ -141,6 +141,7 @@ Field Design Approach to Animated Transitions**. Accepted to IEEE TVCG, to appea
 <div class="pubdiv"></div>
 
 ## 2016
+
 [<img class="pubthumb" src="papers/thumbs/graphics_state_cartograms_2016.png">](papers/graphics_state_cartograms_2016.pdf)
 S. Nusrat and [S. G. Kobourov](http://www.cs.arizona.edu/~kobourov). **The State of the Art in Cartograms**. Computer Graphics Forum, Volume 35 Issue 3, June 2016
 Pages 619-642 2016. (A preliminary version appeared in the 18th IEEE
