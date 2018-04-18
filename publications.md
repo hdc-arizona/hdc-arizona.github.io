@@ -5,6 +5,29 @@ title: Publications from the HDC Lab
 
 ## 2018
 
+
+[<img class="pubthumb" src="papers/thumbs/avi_gram_2018.png">](papers/avi_gram_2018.pdf)
+R. Burd, K. Espy, I. Hossain, [S. Kobourov](http://www.cs.arizona.edu/~kobourov), N. Merchant, H. Purchase,
+**GRAM: Global Research Activity Map**. 12th International Conference on
+Advanced Visual Interfaces (AVI), 2018.
+[PDF](papers/avi_gram_2018.pdf)
+
+
+[<img class="pubthumb" src="papers/thumbs/eurovis_ASU_UA_graphs_2018.png">](papers/eurovis_ASU_UA_graphs_2018.pdf)
+U. Soni, Y. Lu, B. Hansen, H. Purchase, [S. Kobourov](http://www.cs.arizona.edu/~kobourov), R. Maciejewski,
+**The Perception of Graph Properties in Graph Layouts**. Computer
+Graphics Forum, 2018. (A preliminary version appeared in the 20th IEEE
+Eurographics Conference on Visualization (EUROVIS), 2018.)
+[PDF](papers/eurovis_ASU_UA_graphs_2018.pdf)
+
+[<img class="pubthumb" src="papers/thumbs/sea_steiner_trees_2018.png">](papers/sea_steiner_trees_2018.pdf)
+[Reyan Ahmed](http://cgi.cs.arizona.edu/~abureyanahmed/profile.html), Patrizio Angelini, Faryad Darabi Sahneh, Alon Efrat, David Glickenstein, Martin Gronemann, Niklas Heinsohn, [Stephen G. Kobourov](http://www.cs.arizona.edu/~kobourov), Richard Spence, Joseph Watkins, and Alexander Wolff. **Multi-level steiner trees**, 2018. arXiv:arXiv:1804.02627. (Accepted in 17th International Symposium on Experimental Algorithms (SEA 2018. )
+[PDF](papers/sea_steiner_trees_2018.pdf)
+
+
+
+
+
 [<img class="pubthumb" src="papers/thumbs/diagrams_infographics_2018.png">](papers/diagrams_infographics_2018.pdf)
 Helen Purchase, [Katherine Isaacs](http://cgi.cs.arizona.edu/~kisaacs), Thomas Bueti, Ben Hastings, Aadam Kassan, Allen Kim, and Steffan van Hoesen. **A Classification of Infographics**. To appear in *Proceedings of Diagrams 2018*, June 2018.
 [PDF](papers/diagrams_infographics_2018.pdf)
