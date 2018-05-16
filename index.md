@@ -68,6 +68,12 @@ We are part of the
 
 ## News
 
+* Congratulations to [Sabin](https://devkotasabin.github.io/), who received Galileo Circle Scholarship 2018!
+
+* Congratulations to [Becca](https://rjfaust.github.io/), who was selected for a NIST Graduate Student fellowship!
+
+* Congratulations to [Matt](https://matthewberger.github.io/), who has decided to accept a faculty position at Vanderbilt University's Department of Electrical Engineering and Computer Science in Nashville, TN!
+
 * Welcome new Fall 2017 students Jixian, Kairong, Katy!
 
 * [TTK](https://topology-tool-kit.github.io/) was awarded the [Best Paper Honorable Mention Award](http://ieeevis.org/year/2017/info/papers) at IEEE VIS 2017!
