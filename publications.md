@@ -5,6 +5,11 @@ title: Publications from the HDC Lab
 
 ## 2018
 
+[<img class="pubthumb" src="papers/thumbs/cfg_2018_explorer_preprint.png">](papers/cfg_2018_explorer_preprint.pdf)
+S. Devkota and K. E. Isaacs. **CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations**. To appear in Computer Graphics Forum (Proceedings of EuroVis). 2018.
+[PDF](papers/cfg_2018_explorer_preprint.pdf)
+
+<div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/avi_gram_2018.png">](papers/avi_gram_2018.pdf)
 R. Burd, K. Espy, I. Hossain, [S. Kobourov](http://www.cs.arizona.edu/~kobourov), N. Merchant, H. Purchase,
