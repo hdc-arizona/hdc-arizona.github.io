@@ -1,7 +1,59 @@
+<!DOCTYPE html>
 <html>
-  <title></title>
+  <head>
+    <title>Visualization for Parallel Program Analysis</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="dep.css", media="screen" />
+    <link rel="shortcut icon" href="../../favicon.ico" />
+    <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+    <script>
+      $(function(){
+	$("#leftnav").load("leftnav.html"); 
+      });
+    </script>
+  </head>
   <body>
-    In Progress
+    <div id="leftnav" class="leftnav"></div>
 
+    <div id="Top" class="pubs">
+      <h3>Dependency Visualization for Parallel Program Analysis</h3>
+
+      <p>
+
+Large-scale parallel programs are used to simulate and study weather patterns,
+    vehicle design, combustion and energy. However, developing these and
+optimizing these programs to be more accurate and efficient is difficult.
+    Program analysts often investigate the <i>dependencies</i> within the
+programs. The number of dependencies in such programs is vast, taxing visual
+tools representing them. The focus of this project is developing visualization
+approaches to overcome these challenges as well as design guidelines for
+related large and complex data. 
+
+    </p>
+   </div>
+
+    <div id="News" class="pubs">
+      <h3>News/h3>
+	<ul>
+	    <li>2018/06 - <a href="https://github.com/hdc-arizona/cfgexplorer">CFGExplorer</a> presented at <a href="http://www.eurovis2018.org/">EuroVis 2018</a>.</li>
+
+	    <li>2017/11 - We are running a study at <a href="http://sc17.supercomputing.org">SC17</a>! Come by the Arizona Research Computing Booth (Booth 887) to participate or to demo <a href="https://github.com/hdc-arizona/cfgexplorer">CFGExplorer</a>!</li>
+	</ul>
+    </div>
+
+    <div id="Publications" class="pubs">
+      <h3>Publications</h3>
+
+
+<p>S. Devkota and <b>K. E. Isaacs</b>. CFGExplorer: Designing a Visual Control
+Flow Analytics System around Basic Program Analysis Operations. To appear in
+Computer Graphics Forum (Proceedings of EuroVis). 2018.<br />
+
+<a href="http://www.idav.ucdavis.edu/~ki/publications/cfgexplorer_preprint.pdf">PDF</a> |
+<a href="https://github.com/hdc-arizona/cfgexplorer">Code</a>
+</p>
+
+    </div>
   </body>
 </html>
