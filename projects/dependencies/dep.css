@@ -1,8 +1,8 @@
 .rightdiv {
   position: fixed;
-  top: 0px;
+  top: 10px;
   left: 10px;
-  width: 175px;
+  width: 125px;
   font-family: Geneva, Helvetica, Arial, sans-serif;
   font-size: 80%;
 }
@@ -24,7 +24,7 @@
 }
 .pubs {
   position: absolute;
-  margin-left: 175px;
+  margin-left: 125px;
   padding-left: 25px;
   padding-top: 0;
   margin-top: -1em;
