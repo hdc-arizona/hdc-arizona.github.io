@@ -1,6 +1,6 @@
 ---
 layout: main
-title: NSF 1815238 -- III: Small: An end-to-end pipeline for interactive visual analysis of big data
+title: "NSF 1815238 -- III: Small: An end-to-end pipeline for interactive visual analysis of big data"
 ---
 
 # Under construction
