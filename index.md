@@ -66,6 +66,21 @@ We are part of the
 </table>
 <br>
 
+## Funding and Projects
+
+Our group is funded through the gracious support of many sponsors,
+including the Arizona Board of Regents, AT&T, and NSF:
+
+* NSF [III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651):
+  [III: Medium: Collaborative Research: Topological Data Analysis for Large Network Visualization](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html). PI: Prof. Carlos Scheidegger.
+
+* NSF [III-1815238](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1815238):
+  [III: Small: An end-to-end pipeline for interactive visual analysis of big data](/projects/end-to-end-visual-big-data/). PI: Prof. Carlos Scheidegger.
+  
+* NSF [III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958): [CRII: III: Scalable and Interactive Dependency Visualization to Accelerate Parallel Program Analysis](http://hdc-arizona.github.io/projects/dependencies). PI: Prof. Katherine Isaacs.
+
+* NSF [IIS-1654221](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654221): [CGV: Large: Collaborative Research: Coupling Simulation and Mesh Generation using Computational Topology](https://cal.cs.umbc.edu/SimulationMeshingTopology/). PI: Prof. Joshua Levine.
+
 ## News
 
 * We're thrilled to share with you that [Josh](http://www.cs.arizona.edu/~josh) was one of the [2018 DOE Early Career](https://www.energy.gov/articles/department-energy-selects-84-scientists-receive-early-career-research-program-funding) awardees. Congratulations, Josh!
@@ -97,20 +112,6 @@ We are part of the
   Visualization" and the "Best Transportation Hack" categories!
 
 ### [Alumni](/alumni/)
-
-### Support and Acknowledgments
-
-We acknowledge the gracious support of our sponsors. Our work is
-supported in part by the University of Arizona Board of Regents,
-the NSF (under awards
-[III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651)
-[[project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html)],
-[III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958) [[project
-webpage](http://hdc-arizona.github.io/projects/dependencies)],
-[IIS-1654221](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654221)
-[[project webpage](https://cal.cs.umbc.edu/SimulationMeshingTopology/)], 
-and 
-[AST-1344024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1344024)), and AT&T Labs.
 
 # Software
 
