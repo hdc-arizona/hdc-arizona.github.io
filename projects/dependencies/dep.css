@@ -10,8 +10,8 @@
 
 .leftfooterdiv {
   position: fixed;
-  bottom: 15px;
-  height: 10px;
+  bottom: 20px;
+  height: 15px;
   left: 10px;
   width: 150px;
   font-family: Geneva, Helvetica, Arial, sans-serif;
@@ -36,6 +36,19 @@
   font-family: Geneva, Helvetica, Arial, sans-serif;
   width: 600px;
 }
+
+.center {
+  position: absolute;
+  margin-left: 150px;
+  padding-left: 25px;
+  padding-top: 0;
+  margin-top: -1em;
+  bottom: 25px;
+  font-family: Geneva, Helvetica, Arial, sans-serif;
+  width: 640px;
+  text-align: justify;
+}
+
 .pubs {
   position: absolute;
   margin-left: 150px;
