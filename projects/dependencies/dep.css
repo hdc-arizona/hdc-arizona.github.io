@@ -17,6 +17,11 @@
   font-family: Geneva, Helvetica, Arial, sans-serif;
   font-size: 30%;
 }
+
+.smalltext {
+  font-size: 40%;
+}
+
 .footerdiv {
   position: fixed;
   bottom: 25px;
