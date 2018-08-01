@@ -7,6 +7,16 @@
   font-family: Geneva, Helvetica, Arial, sans-serif;
   font-size: 80%;
 }
+
+.leftfooterdiv {
+  position: fixed;
+  bottom-top:25px;
+  height: 20px;
+  left: 10px;
+  width: 150px;
+  font-family: Geneva, Helvetica, Arial, sans-serif;
+  font-size: 50%;
+}
 .footerdiv {
   position: fixed;
   bottom: 25px;
@@ -20,7 +30,7 @@
 }
 .main {
   position: absolute;
-  margin-left: 200px;
+  margin-left: 150px;
   padding-left: 25px;
   padding-top: 10px;
   font-family: Geneva, Helvetica, Arial, sans-serif;
