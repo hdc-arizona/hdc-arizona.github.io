@@ -18,8 +18,12 @@
   font-size: 30%;
 }
 
+.smallimg {
+  padding-left: 21px;
+}
+
 .smalltext {
-  font-size: 40%;
+  font-size: 60%;
 }
 
 .footerdiv {
