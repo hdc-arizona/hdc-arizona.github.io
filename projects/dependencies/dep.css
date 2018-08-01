@@ -1,6 +1,6 @@
 .leftdiv {
   position: fixed;
-  margin-top: 10px;
+  margin-top: 0px;
   top: 10px;
   left: 10px;
   width: 150px;
@@ -10,12 +10,12 @@
 
 .leftfooterdiv {
   position: fixed;
-  bottom:25px;
-  height: 20px;
+  bottom: 35px;
+  height: 30px;
   left: 10px;
   width: 150px;
   font-family: Geneva, Helvetica, Arial, sans-serif;
-  font-size: 50%;
+  font-size: 30%;
 }
 .footerdiv {
   position: fixed;
