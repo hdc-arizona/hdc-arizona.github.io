@@ -7,11 +7,14 @@
   font-family: Geneva, Helvetica, Arial, sans-serif;
   font-size: 80%;
 }
-.persdiv {
+.footerdiv {
   position: fixed;
-  bottom: 10px;
-  height: 15px;
-  left: 10px;
+  bottom: 25px;
+  height: 20px;
+  margin-left: 125px;
+  padding-left: 25px;
+  width: 640px;
+  text-align: justify;
   font-size: 50%;
   font-family: Geneva, Helvetica, Arial, sans-serif;
 }
