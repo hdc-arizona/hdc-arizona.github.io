@@ -96,8 +96,8 @@ p {
 }
 
 .mainul {
-  .font-size: 10pt;
-  }
+  font-size: 10pt;
+}
 
 
 h2 {
