@@ -6,13 +6,13 @@ title: Publications from the HDC Lab
 ## 2018
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2018_sanitycheck.png">](papers/infovis_2018_sanitycheck.pdf)
-[R. Faust](https://rjfaust.github.io), D. Glickenstein, [C. Scheidegger](https://cscheid.net). **DimReader: Axis lines that explain non-linear projections**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
+[M. Correll](https://research.tableau.com/user/michael-correll), [M. Li](http://hdc.cs.arizona.edu/~mwli/), [G. Kindlmann](http://people.cs.uchicago.edu/~glk/), [C. Scheidegger](https://cscheid.net). **Looks Good to Me: Visualizations as Sanity Checks**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
 [PDF](papers/infovis_2018_dimreader.pdf)
 
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2018_dimreader.png">](papers/infovis_2018_dimreader.pdf)
-[M. Correll](https://research.tableau.com/user/michael-correll), [M. Li](http://hdc.cs.arizona.edu/~mwli/), [G. Kindlmann](http://people.cs.uchicago.edu/~glk/), [C. Scheidegger](https://cscheid.net). **Looks Good to Me: Visualizations as Sanity Checks**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
+[R. Faust](https://rjfaust.github.io), D. Glickenstein, [C. Scheidegger](https://cscheid.net). **DimReader: Axis lines that explain non-linear projections**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
 [PDF](papers/infovis_2018_sanitycheck.pdf)
 
 <div class="pubdiv"></div>
