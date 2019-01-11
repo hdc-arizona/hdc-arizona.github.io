@@ -23,7 +23,7 @@ We are part of the
 [University of Arizona](http://www.arizona.edu)'s
 [College of Science](http://cos.arizona.edu/).
 
-## Members
+## Members ([Alumni](/alumni/))
 
 <style>
   table.four-columns td {
@@ -115,7 +115,7 @@ including the Arizona Board of Regents, AT&T, NSF, and DOE:
   Ben Gaska and Nick DeJaco, they took both the "Data Science and
   Visualization" and the "Best Transportation Hack" categories!
 
-### [Alumni](/alumni/)
+
 
 # Software
 
