@@ -6,8 +6,7 @@ title: Publications from the HDC Lab
 ## 2018
 
 [<img class="pubthumb" src="papers/thumbs/emnlp_2018_visualbootstrap.png">](papers/emnlp_2018_visualbootstrap.pdf)
-[M. Berger](https://matthewberger.github.io/), A. Nagesh, [J. A. Levine](http://www.cs.arizona.edu/~josh), [M. Surdeanu](http://www.surdeanu.info/mihai/), [H. Zhang](https://www.math.arizona.edu/~hzhang/).
-**Visual Supervision in Bootstrapped Information Extraction**.  Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). 
+[M. Berger](https://matthewberger.github.io/), A. Nagesh, [J. A. Levine](http://www.cs.arizona.edu/~josh), [M. Surdeanu](http://www.surdeanu.info/mihai/), [H. Zhang](https://www.math.arizona.edu/~hzhang/). **Visual Supervision in Bootstrapped Information Extraction**.  Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). 
 [PDF](papers/emnlp_2018_visualbootstrap.pdf)
 
 <div class="pubdiv"></div>
