@@ -6,7 +6,7 @@ title: Publications from the HDC Lab
 ## 2018
 
 [<img class="pubthumb" src="papers/thumbs/emnlp_2018_visualbootstrap.png">](papers/emnlp_2018_visualbootstrap.pdf)
-[M. Berger](https://matthewberger.github.io/), A. Nagesh, [J. A. Levine](http://www.cs.arizona.edu/~josh), [M. Surdeanu](http://www.surdeanu.info/mihai/), [H. Zhang](https://www.math.arizona.edu/~hzhang/). **Visual Supervision in Bootstrapped Information Extraction**.  Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). 
+[M. Berger](https://matthewberger.github.io/), A. Nagesh, [J. A. Levine](http://www.cs.arizona.edu/~josh), [M. Surdeanu](http://www.surdeanu.info/mihai/), [H. Zhang](https://www.math.arizona.edu/~hzhang/). **Visual Supervision in Bootstrapped Information Extraction**.  Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).  [project](https://matthewberger.github.io/supplemental/visboot.html).
 [PDF](papers/emnlp_2018_visualbootstrap.pdf)
 
 <div class="pubdiv"></div>
@@ -65,13 +65,14 @@ Danielle Ensign, Sorelle A. Friedler, Scott Neville, [Carlos E. Scheidegger](htt
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_generative_2018.png">](papers/tvcg_generative_2018.pdf)
-[Matthew Berger](https://matthewberger.github.io/), [Jixian Li](https://jixianli.github.io/), and [Joshua A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018. 
+[M. Berger](https://matthewberger.github.io/), [J. Li](https://jixianli.github.io/), and [J. A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018. 
+[github](https://github.com/matthewberger/tfgan).
 [PDF](papers/tvcg_generative_2018.pdf)
 
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/arx_diffusion_geom_2018.png">](papers/arx_diffusion_geom_2018.pdf)
-[Matthew Berger](https://matthewberger.github.io/) and [Joshua A. Levine](http://www.cs.arizona.edu/~josh). **Visualizing Time-Varying Particle Flows with Diffusion Geometry**. [arXiv:1708.03686](https://arxiv.org/abs/1708.03686)
+[M. Berger](https://matthewberger.github.io/) and [J. A. Levine](http://www.cs.arizona.edu/~josh). **Visualizing Time-Varying Particle Flows with Diffusion Geometry**. [arXiv:1708.03686](https://arxiv.org/abs/1708.03686)
 [PDF](papers/arx_diffusion_geom_2018.pdf)
 
 <div class="pubdiv"></div>
@@ -183,7 +184,7 @@ Field Design Approach to Animated Transitions**. Accepted to IEEE TVCG, to appea
 
 <div class="pubdiv"></div>
 
-[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), Guillaume Favelier, [Joshua Levine](https://jalevine.bitbucket.io/), Charles Gueunet, Michael Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [PDF](papers/scivis_2017_ttk.pdf)
+[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [J. Tierny](http://www-pequan.lip6.fr/~tierny/), G. Favelier, [J. Levine](http://www.cs.arizona.edu/~josh), C Gueunet, M. Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [project](https://topology-tool-kit.github.io/). [PDF](papers/scivis_2017_ttk.pdf)
 
 <div class="pubdiv"></div>
 
