@@ -5,6 +5,13 @@ title: Publications from the HDC Lab
 
 ## 2018
 
+[<img class="pubthumb" src="papers/thumbs/emnlp_2018_visualbootstrap.png">](papers/emnlp_2018_visualbootstrap.pdf)
+[M. Berger](https://matthewberger.github.io/), A. Nagesh, [J. A. Levine](http://www.cs.arizona.edu/~josh), [M. Surdeanu](http://www.surdeanu.info/mihai/), [H. Zhang](https://www.math.arizona.edu/~hzhang/).
+**Visual Supervision in Bootstrapped Information Extraction**.  Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018). 
+[PDF](papers/emnlp_2018_visualbootstrap.pdf)
+
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/infovis_2018_sanitycheck.png">](papers/infovis_2018_sanitycheck.pdf)
 [M. Correll](https://research.tableau.com/user/michael-correll), [M. Li](http://hdc.cs.arizona.edu/~mwli/), [G. Kindlmann](http://people.cs.uchicago.edu/~glk/), [C. Scheidegger](https://cscheid.net). **Looks Good to Me: Visualizations as Sanity Checks**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
 [PDF](papers/infovis_2018_dimreader.pdf)
@@ -59,7 +66,7 @@ Danielle Ensign, Sorelle A. Friedler, Scott Neville, [Carlos E. Scheidegger](htt
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_generative_2018.png">](papers/tvcg_generative_2018.pdf)
-[Matthew Berger](https://matthewberger.github.io/), [Jixian Li](https://jixianli.github.io/), and [Joshua A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018 (accepted). 
+[Matthew Berger](https://matthewberger.github.io/), [Jixian Li](https://jixianli.github.io/), and [Joshua A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018. 
 [PDF](papers/tvcg_generative_2018.pdf)
 
 <div class="pubdiv"></div>
