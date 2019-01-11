@@ -74,7 +74,7 @@ including the Arizona Board of Regents, AT&T, NSF, and DOE:
 * NSF [III-1815238](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1815238):
   [III: Small: An end-to-end pipeline for interactive visual analysis of big data](/projects/end-to-end-visual-big-data/). PI: Prof. Carlos Scheidegger.
 
-* DOE [DE-SC0019039](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=9ffa1ab7-a138-4855-b6cb-a3d9e60f8679&rtc=24&PRoleId=10): [EC: Analyzing Multifaceted Scientific Data with Topological Analytics](https://jalevine.bitbucket.io/). PI: Prof. Joshua Levine.
+* DOE [DE-SC0019039](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=9ffa1ab7-a138-4855-b6cb-a3d9e60f8679&rtc=24&PRoleId=10): [ECRP: Analyzing Multifaceted Scientific Data with Topological Analytics](https://jalevine.bitbucket.io/). PI: Prof. Joshua Levine.
 
 * NSF [III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958): [CRII: III: Scalable and Interactive Dependency Visualization to Accelerate Parallel Program Analysis](http://hdc-arizona.github.io/projects/dependencies). PI: Prof. Katherine Isaacs.
 
