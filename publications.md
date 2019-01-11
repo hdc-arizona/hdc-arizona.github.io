@@ -184,7 +184,7 @@ Field Design Approach to Animated Transitions**. Accepted to IEEE TVCG, to appea
 
 <div class="pubdiv"></div>
 
-[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [J. Tierny](http://www-pequan.lip6.fr/~tierny/), G. Favelier, [J. Levine](http://www.cs.arizona.edu/~josh), C Gueunet, M. Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [project](https://topology-tool-kit.github.io/). [PDF](papers/scivis_2017_ttk.pdf)
+[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [J. Tierny](http://www-pequan.lip6.fr/~tierny/), G. Favelier, [J. Levine](http://www.cs.arizona.edu/~josh), C. Gueunet, M. Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [project](https://topology-tool-kit.github.io/). [PDF](papers/scivis_2017_ttk.pdf)
 
 <div class="pubdiv"></div>
 
