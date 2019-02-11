@@ -29,6 +29,12 @@ title: Publications from the HDC Lab
 
 <div class="pubdiv"></div>
 
+[<img class="pubthumb" src="papers/thumbs/tvcg_2018_ascii.png">](papers/tvcg_2018_graphterm_preprint.pdf)
+[K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and T. Gamblin. **Preserving Command Line Workflow for a Package Management System using ASCII DAG Visualization**. To appear IEEE Transactions in Visualization and Computer Graphics.
+[PDF](papers/tvcg_2018_graphterm_preprint.pdf)
+
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/avi_gram_2018.png">](papers/avi_gram_2018.pdf)
 R. Burd, K. Espy, I. Hossain, [S. Kobourov](http://www.cs.arizona.edu/~kobourov), N. Merchant, H. Purchase,
 **GRAM: Global Research Activity Map**. 12th International Conference on

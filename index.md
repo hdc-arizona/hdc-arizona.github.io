@@ -94,6 +94,9 @@ including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
 
 ## News
 
+* Congratulations to [Kate](https://hdc.cs.arizona.edu/people/kisaacs/) for
+  being awarded and [NSF CAREER](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844573)!
+
 * We're thrilled to share with you that [Josh](http://www.cs.arizona.edu/~josh) was one of the [2018 DOE Early Career](https://www.energy.gov/articles/department-energy-selects-84-scientists-receive-early-career-research-program-funding) awardees. Congratulations, Josh!
 
 * Congratulations to [Sabin](https://devkotasabin.github.io/), who received Galileo Circle Scholarship 2018!
