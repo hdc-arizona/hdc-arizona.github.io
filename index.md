@@ -69,12 +69,19 @@ We are part of the
 ## Funding and Projects
 
 Our group is funded through the gracious support of many sponsors,
-including the Arizona Board of Regents, AT&T, NSF, and DOE:
+including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
+
+* NSF [IIS-1844573](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844573):
+  [CAREER: Comprehensive Techniques and Design for Flexible Graph Visualization of Software and Systems](https://hdc.cs.arizona.edu/people/kisaacs/projects/gvss/). PI: Prof. Katherine Isaacs.
 
 * NSF [III-1815238](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1815238):
   [III: Small: An end-to-end pipeline for interactive visual analysis of big data](/projects/end-to-end-visual-big-data/). PI: Prof. Carlos Scheidegger.
 
 * DOE [DE-SC0019039](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=9ffa1ab7-a138-4855-b6cb-a3d9e60f8679&rtc=24&PRoleId=10): [ECRP: Analyzing Multifaceted Scientific Data with Topological Analytics](https://jalevine.bitbucket.io/). PI: Prof. Joshua Levine.
+
+* DTIC: [Phylanx Engine Enhancement and Visualization Development](https://hdc.cs.arizona.edu/people/kisaacs/). PI: Prof. Katherine Isaacs.
+
+* LLNL: [CFGExplorer Focus on Visualizing Compiler Optimization](https://hdc.cs.arizona.edu/people/kisaacs/)). PI: Prof. Katheine Isaacs.
 
 * NSF [III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958): [CRII: III: Scalable and Interactive Dependency Visualization to Accelerate Parallel Program Analysis](http://hdc-arizona.github.io/projects/dependencies). PI: Prof. Katherine Isaacs.
 
