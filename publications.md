@@ -24,7 +24,7 @@ title: Publications from the HDC Lab
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/cfg_2018_explorer_preprint.png">](papers/cfg_2018_explorer_preprint.pdf)
-S. Devkota and K. E. Isaacs. **CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations**. To appear in Computer Graphics Forum (Proceedings of EuroVis). 2018.
+[S. Devkota](https://devkotasabin.github.io/) and [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/). **CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations**. To appear in Computer Graphics Forum (Proceedings of EuroVis). 2018.
 [PDF](papers/cfg_2018_explorer_preprint.pdf)
 
 <div class="pubdiv"></div>
@@ -53,7 +53,7 @@ Eurographics Conference on Visualization (EUROVIS), 2018.)
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/diagrams_infographics_2018.png">](papers/diagrams_infographics_2018.pdf)
-Helen Purchase, [Katherine Isaacs](http://cgi.cs.arizona.edu/~kisaacs), Thomas Bueti, Ben Hastings, Aadam Kassan, Allen Kim, and Steffan van Hoesen. **A Classification of Infographics**. To appear in *Proceedings of Diagrams 2018*, June 2018.
+Helen Purchase, [Katherine Isaacs](http://hdc.cs.arizona.edu/people/kisaacs/), Thomas Bueti, Ben Hastings, Aadam Kassan, Allen Kim, and Steffan van Hoesen. **A Classification of Infographics**. To appear in *Proceedings of Diagrams 2018*, June 2018.
 [PDF](papers/diagrams_infographics_2018.pdf)
 
 <div class="pubdiv"></div>
@@ -92,7 +92,7 @@ Ahmed A.R., Rahman M.S., [S. Kobourov](http://www.cs.arizona.edu/~kobourov). (20
 ## 2017
 
 [<img class="pubthumb" src="papers/thumbs/lcpc_sci-up-to-par_2017.png">](papers/lcpc_sci-up-to-par_2017.pdf)
-Michelle Mills Strout, Saumya Debray, [Katherine E. Isaacs](http://cgi.cs.arizona.edu/~kisaacs), Barbara Kreaseck, Julio Cárdenas-Rodríguez, Bonnie Hurwitz, Kat Volk, Sam Badger, Jesse Bartels, Ian Bertolacci, [Sabin Devkota](https://devkotasabin.github.io/), Anthony Encinas, Ben Gaska, Brandon Neth, Theodore Sackos, Jon Stephens, Sarah Willer, and Babek Yadergari. **Language-Agnostic Optimization and Parallelization for Interpreted Languages**. In *Proceedings of the 30th Workshop on Languages and Compilers for Parallel Computing (LCPC)*, October 2017.
+Michelle Mills Strout, Saumya Debray, [Katherine E. Isaacs](http://hdc.cs.arizona.edu/people/kisaacs), Barbara Kreaseck, Julio Cárdenas-Rodríguez, Bonnie Hurwitz, Kat Volk, Sam Badger, Jesse Bartels, Ian Bertolacci, [Sabin Devkota](https://devkotasabin.github.io/), Anthony Encinas, Ben Gaska, Brandon Neth, Theodore Sackos, Jon Stephens, Sarah Willer, and Babek Yadergari. **Language-Agnostic Optimization and Parallelization for Interpreted Languages**. In *Proceedings of the 30th Workshop on Languages and Compilers for Parallel Computing (LCPC)*, October 2017.
 [PDF](papers/lcpc_sci-up-to-par_2017.pdf)
 
 <div class="pubdiv"></div>
