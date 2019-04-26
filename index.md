@@ -101,7 +101,7 @@ including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
 
 * We're thrilled to share with you that [Josh](http://www.cs.arizona.edu/~josh) was one of the [2018 DOE Early Career](https://www.energy.gov/articles/department-energy-selects-84-scientists-receive-early-career-research-program-funding) awardees. Congratulations, Josh!
 
-* Congratulations to [Sabin](https://devkotasabin.github.io/) and [Becca](https://rjfaust.github.io/), who received Galileo Circle Scholarship 2018!
+* Congratulations to [Sabin](https://devkotasabin.github.io/) and [Becca](https://rjfaust.github.io/), who received the Galileo Circle Scholarship 2018!
 
 * Congratulations to [Becca](https://rjfaust.github.io/), who was selected for a NIST Graduate Student fellowship!
 
