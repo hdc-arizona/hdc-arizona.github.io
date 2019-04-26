@@ -94,12 +94,14 @@ including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
 
 ## News
 
+* Congrats to [2018-2019 Department Award](https://www.cs.arizona.edu/about/awards) winners [Kate](http://hdc.cs.arizona.edu/people/kisaacs/) and [Josh](https://jalevine.bitbucket.io/) (who received the Outstanding Faculty Research Award) as well as [Becca](https://rjfaust.github.io/) (who received the Graduate Student Research Award) and [Jixian](https://jixianli.github.io/) (who received Galileo Circle Scholarship)!!
+
 * Congratulations to [Kate](https://hdc.cs.arizona.edu/people/kisaacs/) for
   being awarded and [NSF CAREER](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844573)!
 
 * We're thrilled to share with you that [Josh](http://www.cs.arizona.edu/~josh) was one of the [2018 DOE Early Career](https://www.energy.gov/articles/department-energy-selects-84-scientists-receive-early-career-research-program-funding) awardees. Congratulations, Josh!
 
-* Congratulations to [Sabin](https://devkotasabin.github.io/), who received Galileo Circle Scholarship 2018!
+* Congratulations to [Sabin](https://devkotasabin.github.io/) and [Becca](https://rjfaust.github.io/), who received Galileo Circle Scholarship 2018!
 
 * Congratulations to [Becca](https://rjfaust.github.io/), who was selected for a NIST Graduate Student fellowship!
 
