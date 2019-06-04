@@ -3,7 +3,7 @@
   margin-top: 0px;
   top: 0px;
   left: 10px;
-  width: 150px;
+  width: 200px;
   font-family: Geneva, Helvetica, Arial, sans-serif;
   font-size: 80%;
 }
@@ -30,7 +30,7 @@
   position: fixed;
   bottom: 25px;
   height: 20px;
-  margin-left: 150px;
+  margin-left: 200px;
   padding-left: 25px;
   width: 640px;
   text-align: justify;
@@ -39,7 +39,7 @@
 }
 .main {
   position: absolute;
-  margin-left: 150px;
+  margin-left: 200px;
   padding-left: 25px;
   padding-top: 10px;
   font-family: Geneva, Helvetica, Arial, sans-serif;
