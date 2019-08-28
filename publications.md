@@ -3,6 +3,14 @@ layout: main
 title: Publications from the HDC Lab
 ---
 
+## 2019
+
+[<img class="pubthumb" src="papers/thumbs/tvcg_2018_graphterm_preprint.png">](papers/tvcg_2018_graphterm_preprint.pdf)
+[K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and T. Gamblin. **Preserving Command Line Workflow for a Package Management System using ASCII DAG Visualization**. To appear IEEE Transactions in Visualization and Computer Graphics.
+[PDF](papers/tvcg_2018_graphterm_preprint.pdf)
+
+<div class="pubdiv"></div>
+
 ## 2018
 
 [<img class="pubthumb" src="papers/thumbs/emnlp_2018_visualbootstrap.png">](papers/emnlp_2018_visualbootstrap.pdf)
@@ -26,12 +34,6 @@ title: Publications from the HDC Lab
 [<img class="pubthumb" src="papers/thumbs/cfg_2018_explorer_preprint.png">](papers/cfg_2018_explorer_preprint.pdf)
 [S. Devkota](https://devkotasabin.github.io/) and [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/). **CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations**. To appear in Computer Graphics Forum (Proceedings of EuroVis). 2018.
 [PDF](papers/cfg_2018_explorer_preprint.pdf)
-
-<div class="pubdiv"></div>
-
-[<img class="pubthumb" src="papers/thumbs/tvcg_2018_graphterm_preprint.png">](papers/tvcg_2018_graphterm_preprint.pdf)
-[K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and T. Gamblin. **Preserving Command Line Workflow for a Package Management System using ASCII DAG Visualization**. To appear IEEE Transactions in Visualization and Computer Graphics.
-[PDF](papers/tvcg_2018_graphterm_preprint.pdf)
 
 <div class="pubdiv"></div>
 
