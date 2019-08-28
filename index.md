@@ -94,6 +94,8 @@ including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
 
 ## News
 
+* 2019-07-29: Congratulations to Zhe Wang, who successfully defended his PhD and is now a Senior Design Engineer at [ASML](https://www.asml.com/en)!
+
 * Congrats to [2018-2019 Department Award](https://www.cs.arizona.edu/about/awards) winners [Kate](http://hdc.cs.arizona.edu/people/kisaacs/) and [Josh](https://jalevine.bitbucket.io/) (who received the Outstanding Faculty Research Award) as well as [Becca](https://rjfaust.github.io/) (who received the Graduate Student Research Award) and [Jixian](https://jixianli.github.io/) (who received Galileo Circle Scholarship)!!
 
 * Congratulations to [Kate](https://hdc.cs.arizona.edu/people/kisaacs/) for
