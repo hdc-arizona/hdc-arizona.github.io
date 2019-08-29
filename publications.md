@@ -6,7 +6,7 @@ title: Publications from the HDC Lab
 ## 2019
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_2018_graphterm_preprint.png">](papers/tvcg_2018_graphterm_preprint.pdf)
-[K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and T. Gamblin. **Preserving Command Line Workflow for a Package Management System using ASCII DAG Visualization**. To appear IEEE Transactions in Visualization and Computer Graphics.
+[K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and T. Gamblin. **Preserving Command Line Workflow for a Package Management System using ASCII DAG Visualization**. IEEE Transactions in Visualization and Computer Graphics, Volume 25, Issue 9, September 2019.
 [PDF](papers/tvcg_2018_graphterm_preprint.pdf)
 
 <div class="pubdiv"></div>
@@ -32,7 +32,7 @@ title: Publications from the HDC Lab
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/cfg_2018_explorer_preprint.png">](papers/cfg_2018_explorer_preprint.pdf)
-[S. Devkota](https://devkotasabin.github.io/) and [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/). **CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations**. To appear in Computer Graphics Forum (Proceedings of EuroVis). 2018.
+[S. Devkota](https://devkotasabin.github.io/) and [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/). **CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations**. Computer Graphics Forum (Proceedings of EuroVis). July 2018.
 [PDF](papers/cfg_2018_explorer_preprint.pdf)
 
 <div class="pubdiv"></div>
@@ -61,7 +61,7 @@ Eurographics Conference on Visualization (EUROVIS), 2018.)
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/diagrams_infographics_2018.png">](papers/diagrams_infographics_2018.pdf)
-Helen Purchase, [Katherine Isaacs](http://hdc.cs.arizona.edu/people/kisaacs/), Thomas Bueti, Ben Hastings, Aadam Kassan, Allen Kim, and Steffan van Hoesen. **A Classification of Infographics**. To appear in *Proceedings of Diagrams 2018*, June 2018.
+Helen Purchase, [Katherine Isaacs](http://hdc.cs.arizona.edu/people/kisaacs/), Thomas Bueti, Ben Hastings, Aadam Kassan, Allen Kim, and Steffan van Hoesen. **A Classification of Infographics**. *Proceedings of the 10th International Conference on the Theory and Application of Diagrams*, June 2018.
 [PDF](papers/diagrams_infographics_2018.pdf)
 
 <div class="pubdiv"></div>
