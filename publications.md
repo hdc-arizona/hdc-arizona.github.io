@@ -11,6 +11,14 @@ title: Publications from the HDC Lab
 
 <div class="pubdiv"></div>
 
+[<img class="pubthumb" src="papers/thumbs/vast_2019_origraph.png">](papers/vast_2019_origraph.pdf)
+[A. Bigelow](https://alex-r-bigelow.github.io/), C. Nobre, M. Meyer and A. Lex. **Origraph: Interactive Network Wrangling**. To appear at IEEE VAST 2019.
+[PDF](papers/vast_2019_origraph.pdf)
+[Tool](https://origraph.github.io)
+[Video](https://youtu.be/bSFf2iD4TLI)
+
+<div class="pubdiv"></div>
+
 ## 2019
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_2018_graphterm_preprint.png">](papers/tvcg_2018_graphterm_preprint.pdf)
@@ -26,13 +34,13 @@ B. Lee, [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), D. A. Szafir
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2018_sanitycheck.png">](papers/infovis_2018_sanitycheck.pdf)
-[M. Correll](https://research.tableau.com/user/michael-correll), [M. Li](http://hdc.cs.arizona.edu/~mwli/), [G. Kindlmann](http://people.cs.uchicago.edu/~glk/), [C. Scheidegger](https://cscheid.net). **Looks Good to Me: Visualizations as Sanity Checks**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
+[M. Correll](https://research.tableau.com/user/michael-correll), [M. Li](http://hdc.cs.arizona.edu/~mwli/), [G. Kindlmann](http://people.cs.uchicago.edu/~glk/), [C. Scheidegger](https://cscheid.net). **Looks Good to Me: Visualizations as Sanity Checks**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018).
 [PDF](papers/infovis_2018_dimreader.pdf)
 
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2018_dimreader.png">](papers/infovis_2018_dimreader.pdf)
-[R. Faust](https://rjfaust.github.io), D. Glickenstein, [C. Scheidegger](https://cscheid.net). **DimReader: Axis lines that explain non-linear projections**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
+[R. Faust](https://rjfaust.github.io), D. Glickenstein, [C. Scheidegger](https://cscheid.net). **DimReader: Axis lines that explain non-linear projections**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018).
 [PDF](papers/infovis_2018_sanitycheck.pdf)
 
 <div class="pubdiv"></div>
@@ -94,7 +102,7 @@ Danielle Ensign, Sorelle A. Friedler, Scott Neville, [Carlos E. Scheidegger](htt
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_generative_2018.png">](papers/tvcg_generative_2018.pdf)
-[M. Berger](https://matthewberger.github.io/), [J. Li](https://jixianli.github.io/), and [J. A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018. 
+[M. Berger](https://matthewberger.github.io/), [J. Li](https://jixianli.github.io/), and [J. A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018.
 [github](https://github.com/matthewberger/tfgan).
 [PDF](papers/tvcg_generative_2018.pdf)
 
@@ -313,4 +321,3 @@ Visualization Design**. TVCG 2014, **honorable
 mention for best paper award at InfoVis 2014**. [PDF](papers/infovis_2014_algebraic.pdf)
 
 <div class="pubdiv"></div>
-
