@@ -3,6 +3,14 @@ layout: main
 title: Publications from the HDC Lab
 ---
 
+## 2020
+
+[<img class="pubthumb" src="papers/thumbs/infovis_2019_movingtarget.png">](papers/infovis_2019_movingtarget.pdf)
+[K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and [A. Bigelow](https://alex-r-bigelow.github.io/). **Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns**. To appear in IEEE Transactions on Visualization and Computer Graphics, Proceedings of InfoVis 2019.
+[PDF](papers/infovis_2019_movingtarget.pdf)
+
+<div class="pubdiv"></div>
+
 ## 2019
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_2018_graphterm_preprint.png">](papers/tvcg_2018_graphterm_preprint.pdf)
@@ -14,6 +22,12 @@ title: Publications from the HDC Lab
 [<img class="pubthumb" src="papers/thumbs/viewpoints_2019_contribution_types.png">](papers/viewpoints_2019_contribution_types.pdf)
 B. Lee, [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), D. A. Szafir, G. E. Marai, C. Turkay, M. Tory, S. Carpendale, and A. Endert. **Broadening Intellectual Diversity in Visualization Research Papers**. Computer Graphics & Applications, Visualization Viewpoints, July 2019.
 [PDF](papers/tvcg_2018_graphterm_preprint.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/espm2_2018_phylanx.png">](papers/espm2_2018_phylanx.pdf)
+R. Tohid, Bibek Wagle, Shahrzad Shirzad, Patrick Diehl, Adrian Serio, Alireza Kheirkhahan, Parsa Amini, [Katy Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), Kevin Huck, Steven Brandt, and Hartmut Kaiser. **Asynchronous Execution of Python Code on Task-Based Runtime Systems**. Proceedings of the Fourth International IEEE Workshop on Extreme Scale Programming Models and Middleware, November 2018.
+[PDF](papers/espm2_2018_phylanx.pdf)
 
 <div class="pubdiv"></div>
 
