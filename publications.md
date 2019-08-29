@@ -11,6 +11,12 @@ title: Publications from the HDC Lab
 
 <div class="pubdiv"></div>
 
+[<img class="pubthumb" src="papers/thumbs/viewpoints_2019_contribution_types.png">](papers/viewpoints_2019_contribution_types.pdf)
+B. Lee, [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), D. A. Szafir, G. E. Marai, C. Turkay, M. Tory, S. Carpendale, and A. Endert. **Broadening Intellectual Diversity in Visualization Research Papers**. Computer Graphics & Applications, Visualization Viewpoints, July 2019.
+[PDF](papers/tvcg_2018_graphterm_preprint.pdf)
+
+<div class="pubdiv"></div>
+
 ## 2018
 
 [<img class="pubthumb" src="papers/thumbs/emnlp_2018_visualbootstrap.png">](papers/emnlp_2018_visualbootstrap.pdf)
