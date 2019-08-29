@@ -3,10 +3,71 @@ layout: main
 title: Publications from the HDC Lab
 ---
 
+## 2019
+
+[<img class="pubthumb" src="papers/thumbs/tvcg_2018_graphterm_preprint.png">](papers/tvcg_2018_graphterm_preprint.pdf)
+[K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and T. Gamblin. **Preserving Command Line Workflow for a Package Management System using ASCII DAG Visualization**. IEEE Transactions in Visualization and Computer Graphics, Volume 25, Issue 9, September 2019.
+[PDF](papers/tvcg_2018_graphterm_preprint.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/viewpoints_2019_contribution_types.png">](papers/viewpoints_2019_contribution_types.pdf)
+B. Lee, [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), D. A. Szafir, G. E. Marai, C. Turkay, M. Tory, S. Carpendale, and A. Endert. **Broadening Intellectual Diversity in Visualization Research Papers**. Computer Graphics & Applications, Visualization Viewpoints, July 2019.
+[PDF](papers/tvcg_2018_graphterm_preprint.pdf)
+
+<div class="pubdiv"></div>
+
 ## 2018
 
+[<img class="pubthumb" src="papers/thumbs/emnlp_2018_visualbootstrap.png">](papers/emnlp_2018_visualbootstrap.pdf)
+[M. Berger](https://matthewberger.github.io/), A. Nagesh, [J. A. Levine](http://www.cs.arizona.edu/~josh), [M. Surdeanu](http://www.surdeanu.info/mihai/), [H. Zhang](https://www.math.arizona.edu/~hzhang/). **Visual Supervision in Bootstrapped Information Extraction**.  Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).  [project](https://matthewberger.github.io/supplemental/visboot.html).
+[PDF](papers/emnlp_2018_visualbootstrap.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/infovis_2018_sanitycheck.png">](papers/infovis_2018_sanitycheck.pdf)
+[M. Correll](https://research.tableau.com/user/michael-correll), [M. Li](http://hdc.cs.arizona.edu/~mwli/), [G. Kindlmann](http://people.cs.uchicago.edu/~glk/), [C. Scheidegger](https://cscheid.net). **Looks Good to Me: Visualizations as Sanity Checks**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
+[PDF](papers/infovis_2018_dimreader.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/infovis_2018_dimreader.png">](papers/infovis_2018_dimreader.pdf)
+[R. Faust](https://rjfaust.github.io), D. Glickenstein, [C. Scheidegger](https://cscheid.net). **DimReader: Axis lines that explain non-linear projections**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018). 
+[PDF](papers/infovis_2018_sanitycheck.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/cfg_2018_explorer_preprint.png">](papers/cfg_2018_explorer_preprint.pdf)
+[S. Devkota](https://devkotasabin.github.io/) and [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/). **CFGExplorer: Designing a Visual Control Flow Analytics System around Basic Program Analysis Operations**. Computer Graphics Forum (Proceedings of EuroVis). July 2018.
+[PDF](papers/cfg_2018_explorer_preprint.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/avi_gram_2018.png">](papers/avi_gram_2018.pdf)
+R. Burd, K. Espy, I. Hossain, [S. Kobourov](http://www.cs.arizona.edu/~kobourov), N. Merchant, H. Purchase,
+**GRAM: Global Research Activity Map**. 12th International Conference on
+Advanced Visual Interfaces (AVI), 2018.
+[PDF](papers/avi_gram_2018.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/eurovis_ASU_UA_graphs_2018.png">](papers/eurovis_ASU_UA_graphs_2018.pdf)
+U. Soni, Y. Lu, B. Hansen, H. Purchase, [S. Kobourov](http://www.cs.arizona.edu/~kobourov), R. Maciejewski,
+**The Perception of Graph Properties in Graph Layouts**. Computer
+Graphics Forum, 2018. (A preliminary version appeared in the 20th IEEE
+Eurographics Conference on Visualization (EUROVIS), 2018.)
+[PDF](papers/eurovis_ASU_UA_graphs_2018.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/sea_steiner_trees_2018.png">](papers/sea_steiner_trees_2018.pdf)
+[Reyan Ahmed](http://cgi.cs.arizona.edu/~abureyanahmed/profile.html), Patrizio Angelini, Faryad Darabi Sahneh, Alon Efrat, David Glickenstein, Martin Gronemann, Niklas Heinsohn, [Stephen G. Kobourov](http://www.cs.arizona.edu/~kobourov), Richard Spence, Joseph Watkins, and Alexander Wolff. **Multi-level steiner trees**. [arXiv:1804.02627](https://arxiv.org/abs/1804.02627) (Accepted in 17th International Symposium on Experimental Algorithms (SEA) 2018. )
+[PDF](papers/sea_steiner_trees_2018.pdf)
+
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/diagrams_infographics_2018.png">](papers/diagrams_infographics_2018.pdf)
-Helen Purchase, [Katherine Isaacs](http://cgi.cs.arizona.edu/~kisaacs), Thomas Bueti, Ben Hastings, Aadam Kassan, Allen Kim, and Steffan van Hoesen. **A Classification of Infographics**. To appear in *Proceedings of Diagrams 2018*, June 2018.
+Helen Purchase, [Katherine Isaacs](http://hdc.cs.arizona.edu/people/kisaacs/), Thomas Bueti, Ben Hastings, Aadam Kassan, Allen Kim, and Steffan van Hoesen. **A Classification of Infographics**. *Proceedings of the 10th International Conference on the Theory and Application of Diagrams*, June 2018.
 [PDF](papers/diagrams_infographics_2018.pdf)
 
 <div class="pubdiv"></div>
@@ -18,13 +79,14 @@ Danielle Ensign, Sorelle A. Friedler, Scott Neville, [Carlos E. Scheidegger](htt
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_generative_2018.png">](papers/tvcg_generative_2018.pdf)
-[Matthew Berger](https://matthewberger.github.io/), [Jixian Li](https://jixianli.github.io/), and [Joshua A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018 (accepted). 
+[M. Berger](https://matthewberger.github.io/), [J. Li](https://jixianli.github.io/), and [J. A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018. 
+[github](https://github.com/matthewberger/tfgan).
 [PDF](papers/tvcg_generative_2018.pdf)
 
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/arx_diffusion_geom_2018.png">](papers/arx_diffusion_geom_2018.pdf)
-[Matthew Berger](https://matthewberger.github.io/) and [Joshua A. Levine](http://www.cs.arizona.edu/~josh). **Visualizing Time-Varying Particle Flows with Diffusion Geometry**. [arXiv:1708.03686](https://arxiv.org/abs/1708.03686)
+[M. Berger](https://matthewberger.github.io/) and [J. A. Levine](http://www.cs.arizona.edu/~josh). **Visualizing Time-Varying Particle Flows with Diffusion Geometry**. [arXiv:1708.03686](https://arxiv.org/abs/1708.03686)
 [PDF](papers/arx_diffusion_geom_2018.pdf)
 
 <div class="pubdiv"></div>
@@ -44,7 +106,7 @@ Ahmed A.R., Rahman M.S., [S. Kobourov](http://www.cs.arizona.edu/~kobourov). (20
 ## 2017
 
 [<img class="pubthumb" src="papers/thumbs/lcpc_sci-up-to-par_2017.png">](papers/lcpc_sci-up-to-par_2017.pdf)
-Michelle Mills Strout, Saumya Debray, [Katherine E. Isaacs](http://cgi.cs.arizona.edu/~kisaacs), Barbara Kreaseck, Julio Cárdenas-Rodríguez, Bonnie Hurwitz, Kat Volk, Sam Badger, Jesse Bartels, Ian Bertolacci, [Sabin Devkota](https://devkotasabin.github.io/), Anthony Encinas, Ben Gaska, Brandon Neth, Theodore Sackos, Jon Stephens, Sarah Willer, and Babek Yadergari. **Language-Agnostic Optimization and Parallelization for Interpreted Languages**. In *Proceedings of the 30th Workshop on Languages and Compilers for Parallel Computing (LCPC)*, October 2017.
+Michelle Mills Strout, Saumya Debray, [Katherine E. Isaacs](http://hdc.cs.arizona.edu/people/kisaacs), Barbara Kreaseck, Julio Cárdenas-Rodríguez, Bonnie Hurwitz, Kat Volk, Sam Badger, Jesse Bartels, Ian Bertolacci, [Sabin Devkota](https://devkotasabin.github.io/), Anthony Encinas, Ben Gaska, Brandon Neth, Theodore Sackos, Jon Stephens, Sarah Willer, and Babek Yadergari. **Language-Agnostic Optimization and Parallelization for Interpreted Languages**. In *Proceedings of the 30th Workshop on Languages and Compilers for Parallel Computing (LCPC)*, October 2017.
 [PDF](papers/lcpc_sci-up-to-par_2017.pdf)
 
 <div class="pubdiv"></div>
@@ -136,11 +198,18 @@ Field Design Approach to Animated Transitions**. Accepted to IEEE TVCG, to appea
 
 <div class="pubdiv"></div>
 
-[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), Guillaume Favelier, [Joshua Levine](https://jalevine.bitbucket.io/), Charles Gueunet, Michael Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [PDF](papers/scivis_2017_ttk.pdf)
+[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [J. Tierny](http://www-pequan.lip6.fr/~tierny/), G. Favelier, [J. Levine](http://www.cs.arizona.edu/~josh), C. Gueunet, M. Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [project](https://topology-tool-kit.github.io/). [PDF](papers/scivis_2017_ttk.pdf)
 
 <div class="pubdiv"></div>
 
 ## 2016
+
+[<img class="pubthumb" src="papers/thumbs/graphics_state_cartograms_2016.png">](papers/graphics_state_cartograms_2016.pdf)
+S. Nusrat and [S. G. Kobourov](http://www.cs.arizona.edu/~kobourov). **The State of the Art in Cartograms**. Computer Graphics Forum, Volume 35 Issue 3, June 2016
+Pages 619-642 2016. (A preliminary version appeared in the 18th IEEE
+Eurographics Conference on Visualization (EUROVIS), 2017) [PDF](papers/graphics_state_cartograms_2016.pdf)
+
+<div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/gd_plytrees_2016.png">](papers/gd_plytrees_2016.pdf)
 P. Angelini, M. Bekos, T. Bruckdorfer, J. Hancl, M. Kaufmann, [S.

@@ -40,6 +40,16 @@ $hdc-blue:	   #39f;
     }
 }
 
+@media screen and (max-width: 991px) {
+    #logo {
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+    }
+}
+
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -49,7 +59,7 @@ $hdc-blue:	   #39f;
         "syntax-highlighting"
 ;
 
-@import url("http://fonts.googleapis.com/css?family=Oxygen:500,700,400");
+@import url("//fonts.googleapis.com/css?family=Oxygen:500,700,400");
 
 strong {
        color: $bold-color;

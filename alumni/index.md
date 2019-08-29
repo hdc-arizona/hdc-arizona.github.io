@@ -3,6 +3,8 @@ layout: main
 title: Alumni
 ---
 
+* [Matthew Berger](https://matthewberger.github.io/), now Assistant Professor at Vanderbilt University.  Post-doctoral scholar at UA.
+
 * [Danilo Motta](https://sites.google.com/site/ddanilomotta/), returned to Brazil to complete his PhD at the University of São Paulo.
 
 * Benafsh Husain, MS.

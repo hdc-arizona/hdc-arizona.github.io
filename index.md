@@ -23,7 +23,7 @@ We are part of the
 [University of Arizona](http://www.arizona.edu)'s
 [College of Science](http://cos.arizona.edu/).
 
-## Members
+## Members ([Alumni](/alumni/))
 
 <style>
   table.four-columns td {
@@ -66,7 +66,48 @@ We are part of the
 </table>
 <br>
 
+## Funding and Projects
+
+Our group is funded through the gracious support of many sponsors,
+including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
+
+* NSF [IIS-1844573](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844573):
+  [CAREER: Comprehensive Techniques and Design for Flexible Graph Visualization of Software and Systems](https://hdc.cs.arizona.edu/people/kisaacs/projects/gvss/). PI: Prof. Katherine Isaacs.
+
+* NSF [III-1815238](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1815238):
+  [III: Small: An end-to-end pipeline for interactive visual analysis of big data](/projects/end-to-end-visual-big-data/). PI: Prof. Carlos Scheidegger.
+
+* DOE [DE-SC0019039](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=9ffa1ab7-a138-4855-b6cb-a3d9e60f8679&rtc=24&PRoleId=10): [ECRP: Analyzing Multifaceted Scientific Data with Topological Analytics](https://jalevine.bitbucket.io/). PI: Prof. Joshua Levine.
+
+* DTIC: [Phylanx Engine Enhancement and Visualization Development](https://hdc.cs.arizona.edu/people/kisaacs/). PI: Prof. Katherine Isaacs.
+
+* LLNL: [CFGExplorer Focus on Visualizing Compiler Optimization](https://hdc.cs.arizona.edu/people/kisaacs/)). PI: Prof. Katherine Isaacs.
+
+* NSF [III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958): [CRII: III: Scalable and Interactive Dependency Visualization to Accelerate Parallel Program Analysis](http://hdc-arizona.github.io/projects/dependencies). PI: Prof. Katherine Isaacs.
+
+* NSF [III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651):
+  [III: Medium: Collaborative Research: Topological Data Analysis for Large Network Visualization](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html). PI: Prof. Carlos Scheidegger.
+
+{% comment %}
+* NSF [IIS-1654221](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654221): [CGV: Large: Collaborative Research: Coupling Simulation and Mesh Generation using Computational Topology](https://cal.cs.umbc.edu/SimulationMeshingTopology/). PI: Prof. Joshua Levine.
+{% endcomment %}
+
 ## News
+
+* 2019-07-29: Congratulations to Zhe Wang, who successfully defended his PhD and is now a Senior Design Engineer at [ASML](https://www.asml.com/en)!
+
+* Congrats to [2018-2019 Department Award](https://www.cs.arizona.edu/about/awards) winners [Kate](http://hdc.cs.arizona.edu/people/kisaacs/) and [Josh](https://jalevine.bitbucket.io/) (who received the Outstanding Faculty Research Award) as well as [Becca](https://rjfaust.github.io/) (who received the Graduate Student Research Award) and [Jixian](https://jixianli.github.io/) (who received Galileo Circle Scholarship)!!
+
+* Congratulations to [Kate](https://hdc.cs.arizona.edu/people/kisaacs/) for
+  being awarded and [NSF CAREER](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844573)!
+
+* We're thrilled to share with you that [Josh](http://www.cs.arizona.edu/~josh) was one of the [2018 DOE Early Career](https://www.energy.gov/articles/department-energy-selects-84-scientists-receive-early-career-research-program-funding) awardees. Congratulations, Josh!
+
+* Congratulations to [Sabin](https://devkotasabin.github.io/) and [Becca](https://rjfaust.github.io/), who received the Galileo Circle Scholarship 2018!
+
+* Congratulations to [Becca](https://rjfaust.github.io/), who was selected for a NIST Graduate Student fellowship!
+
+* Congratulations to [Matt](https://matthewberger.github.io/), who has decided to accept a faculty position at Vanderbilt University's Department of Electrical Engineering and Computer Science in Nashville, TN!
 
 * Welcome new Fall 2017 students Jixian, Kairong, Katy!
 
@@ -88,21 +129,7 @@ We are part of the
   Ben Gaska and Nick DeJaco, they took both the "Data Science and
   Visualization" and the "Best Transportation Hack" categories!
 
-### [Alumni](/alumni/)
 
-### Support and Acknowledgments
-
-We acknowledge the gracious support of our sponsors. Our work is
-supported in part by the University of Arizona Board of Regents,
-the NSF (under awards
-[III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651)
-[[project webpage](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html)],
-[III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958) [[project
-webpage](http://hdc-arizona.github.io/projects/dependencies)],
-[IIS-1654221](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654221)
-[[project webpage](https://cal.cs.umbc.edu/SimulationMeshingTopology/)], 
-and 
-[AST-1344024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1344024)), and AT&T Labs.
 
 # Software
 

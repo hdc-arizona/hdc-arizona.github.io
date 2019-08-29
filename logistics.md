@@ -16,6 +16,8 @@ catch-all IRC and IM equivalent. We don't require you to be on Slack
 at all times but since many of us *are* on Slack, that's usually the
 best way to get in touch.
 
+We also have a group [wiki](https://github.com/hdc-arizona/wiki/wiki)
+
 We try to have a per-project channel. 
 
 # Software
@@ -56,12 +58,13 @@ make sure that they are not stepping on each other's toes.
 
 ## Web Presence
 
-It is *tremendously* important that you keep a web presence. Even if
-you participate in the standard social network websites, we will ask you
-to keep an up-to-date personal website. This is important because
-*you* get to control the discourse around yourself, and doing so
-effectively is 1) an important part of research life 2) a skill: it
-can be taught and learned, and learning this is part of our job.
+It is *tremendously* important (and also now departmentally required)
+that you keep a web presence. Even if you participate in the standard
+social network websites, we will ask you to keep an up-to-date
+personal website. This is important because *you* get to control the
+discourse around yourself, and doing so effectively is 1) an important
+part of research life 2) a skill: it can be taught and learned, and
+learning this is part of our job.
 
 ### HDC projects
 
@@ -73,7 +76,7 @@ the HDC group. The easiest way for you to achieve it is to use our
 ### This website
 
 If you want to suggest changes to this website, we welcome pull
-requests in the [main repo](https://github.com/hdc-arizona/hdc-website/).
+requests in the [main repo](https://github.com/hdc-arizona/hdc-arizona.github.io/).
 
 ## Programming Languages
 
@@ -127,5 +130,5 @@ Unless there's a reason to choose otherwise, pick the
 all the code you develop as part of your work will have the following
 copyright line:
 
-`Copyright 2015- Arizona Board of Regents`
+`Copyright 2019- Arizona Board of Regents`
 
