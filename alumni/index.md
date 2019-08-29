@@ -3,6 +3,10 @@ layout: main
 title: Alumni
 ---
 
+* [Zhe Wang](http://www.z-wang.com), now a Senior Design Engineer at [ASML](https://www.asml.com/en).
+
+* [Devin Bayly](http://mental-landscapes.cs.arizona.edu/).
+
 * [Matthew Berger](https://matthewberger.github.io/), now Assistant Professor at Vanderbilt University.  Post-doctoral scholar at UA.
 
 * [Danilo Motta](https://sites.google.com/site/ddanilomotta/), returned to Brazil to complete his PhD at the University of São Paulo.
