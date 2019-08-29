@@ -6,8 +6,18 @@ title: Publications from the HDC Lab
 ## 2020
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2019_movingtarget.png">](papers/infovis_2019_movingtarget.pdf)
-[K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and [A. Bigelow](https://alex-r-bigelow.github.io/). **Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns**. To appear in IEEE Transactions on Visualization and Computer Graphics, Proceedings of InfoVis 2019.
+[K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and [A. Bigelow](https://alex-r-bigelow.github.io/). **Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns**. To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019).
 [PDF](papers/infovis_2019_movingtarget.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/scivis_2019_highorder_topo.png">](papers/scivis_2019_highorder_topo.pdf)
+A. Jallepalli, 
+[J. A. Levine](http://www.cs.arizona.edu/~josh),
+R. M. Kirby.
+**The Effect of Data Transformations on Scalar Field Topological Analysis of High-Order FEM Solutions**.
+To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedings of SciVis 2019).
+[PDF](papers/scivis_2019_highorder_topo.pdf)
 
 <div class="pubdiv"></div>
 
@@ -19,9 +29,30 @@ title: Publications from the HDC Lab
 
 <div class="pubdiv"></div>
 
+[<img class="pubthumb" src="papers/thumbs/spm_extending_2019.png">](papers/spm_extending_2019.pdf)
+J. Crum, 
+[J. A. Levine](http://www.cs.arizona.edu/~josh), and
+A. Gillette.
+**Extending discrete exterior calculus to a fractional derivative**.
+Computer-Aided Design (Special Issue of Symposium on Solid and Physical Modeling).
+[PDF](papers/spm_extending_2019.pdf)
+
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/viewpoints_2019_contribution_types.png">](papers/viewpoints_2019_contribution_types.pdf)
 B. Lee, [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), D. A. Szafir, G. E. Marai, C. Turkay, M. Tory, S. Carpendale, and A. Endert. **Broadening Intellectual Diversity in Visualization Research Papers**. Computer Graphics & Applications, Visualization Viewpoints, July 2019.
 [PDF](papers/tvcg_2018_graphterm_preprint.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/tvcg_generative_2018.png">](papers/tvcg_generative_2018.pdf)
+[M. Berger](https://matthewberger.github.io/), 
+[J. Li](https://jixianli.github.io/), and 
+[J. A. Levine](http://www.cs.arizona.edu/~josh). 
+**A Generative Model for Volume Rendering**. 
+IEEE TVCG 25(4), April 2019. 
+[github](https://github.com/matthewberger/tfgan).
+[PDF](papers/tvcg_generative_2018.pdf)
 
 <div class="pubdiv"></div>
 
@@ -41,7 +72,14 @@ B. Lee, [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), D. A. Szafir
 ## 2018
 
 [<img class="pubthumb" src="papers/thumbs/emnlp_2018_visualbootstrap.png">](papers/emnlp_2018_visualbootstrap.pdf)
-[M. Berger](https://matthewberger.github.io/), A. Nagesh, [J. A. Levine](http://www.cs.arizona.edu/~josh), [M. Surdeanu](http://www.surdeanu.info/mihai/), [H. Zhang](https://www.math.arizona.edu/~hzhang/). **Visual Supervision in Bootstrapped Information Extraction**.  Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).  [project](https://matthewberger.github.io/supplemental/visboot.html).
+[M. Berger](https://matthewberger.github.io/),
+A. Nagesh, 
+[J. A. Levine](http://www.cs.arizona.edu/~josh), 
+[M. Surdeanu](http://www.surdeanu.info/mihai/), 
+[H. Zhang](https://www.math.arizona.edu/~hzhang/). 
+**Visual Supervision in Bootstrapped Information Extraction**.  
+Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).  
+[project](https://matthewberger.github.io/supplemental/visboot.html).
 [PDF](papers/emnlp_2018_visualbootstrap.pdf)
 
 <div class="pubdiv"></div>
@@ -93,19 +131,6 @@ Danielle Ensign, Sorelle A. Friedler, Scott Neville, [Carlos E. Scheidegger](htt
 
 <div class="pubdiv"></div>
 
-[<img class="pubthumb" src="papers/thumbs/tvcg_generative_2018.png">](papers/tvcg_generative_2018.pdf)
-[M. Berger](https://matthewberger.github.io/), [J. Li](https://jixianli.github.io/), and [J. A. Levine](http://www.cs.arizona.edu/~josh). **A Generative Model for Volume Rendering**. IEEE TVCG 2018. 
-[github](https://github.com/matthewberger/tfgan).
-[PDF](papers/tvcg_generative_2018.pdf)
-
-<div class="pubdiv"></div>
-
-[<img class="pubthumb" src="papers/thumbs/arx_diffusion_geom_2018.png">](papers/arx_diffusion_geom_2018.pdf)
-[M. Berger](https://matthewberger.github.io/) and [J. A. Levine](http://www.cs.arizona.edu/~josh). **Visualizing Time-Varying Particle Flows with Diffusion Geometry**. [arXiv:1708.03686](https://arxiv.org/abs/1708.03686)
-[PDF](papers/arx_diffusion_geom_2018.pdf)
-
-<div class="pubdiv"></div>
-
 [<img class="pubthumb" src="papers/thumbs/tvcg_eval_cartogram_2018.png">](papers/tvcg_eval_cartogram_2018.pdf)
 S. Nusrat, J. Alam, [S. Kobourov](http://www.cs.arizona.edu/~kobourov). **Evaluating Cartogram Effectivenesss**. IEEE Transactions on Visualization and Computer Graphics, Volume: 24, Issue: 2, 2018. [PDF](papers/tvcg_eval_cartogram_2018.pdf)
 
@@ -117,12 +142,34 @@ Ahmed A.R., Rahman M.S., [S. Kobourov](http://www.cs.arizona.edu/~kobourov). (20
 
 <div class="pubdiv"></div>
 
+[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf)
+[J. Tierny](http://www-pequan.lip6.fr/~tierny/), 
+G. Favelier, 
+[J. A. Levine](http://www.cs.arizona.edu/~josh), 
+C. Gueunet, and
+M. Michaux. 
+**The Topology ToolKit**. 
+IEEE TVCG (Proceedings of SciVis 2017) 24(1), January 2018.
+[project](https://topology-tool-kit.github.io/). 
+[PDF](papers/scivis_2017_ttk.pdf)
+
+<div class="pubdiv"></div>
+
 
 ## 2017
 
 [<img class="pubthumb" src="papers/thumbs/lcpc_sci-up-to-par_2017.png">](papers/lcpc_sci-up-to-par_2017.pdf)
 Michelle Mills Strout, Saumya Debray, [Katherine E. Isaacs](http://hdc.cs.arizona.edu/people/kisaacs), Barbara Kreaseck, Julio Cárdenas-Rodríguez, Bonnie Hurwitz, Kat Volk, Sam Badger, Jesse Bartels, Ian Bertolacci, [Sabin Devkota](https://devkotasabin.github.io/), Anthony Encinas, Ben Gaska, Brandon Neth, Theodore Sackos, Jon Stephens, Sarah Willer, and Babek Yadergari. **Language-Agnostic Optimization and Parallelization for Interpreted Languages**. In *Proceedings of the 30th Workshop on Languages and Compilers for Parallel Computing (LCPC)*, October 2017.
 [PDF](papers/lcpc_sci-up-to-par_2017.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/arx_diffusion_geom_2018.png">](papers/arx_diffusion_geom_2018.pdf)
+[M. Berger](https://matthewberger.github.io/) and
+[J. A. Levine](http://www.cs.arizona.edu/~josh). 
+**Visualizing Time-Varying Particle Flows with Diffusion Geometry**.
+[arXiv:1708.03686](https://arxiv.org/abs/1708.03686)
+[PDF](papers/arx_diffusion_geom_2018.pdf)
 
 <div class="pubdiv"></div>
 
@@ -213,9 +260,6 @@ Field Design Approach to Animated Transitions**. Accepted to IEEE TVCG, to appea
 
 <div class="pubdiv"></div>
 
-[<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf) [J. Tierny](http://www-pequan.lip6.fr/~tierny/), G. Favelier, [J. Levine](http://www.cs.arizona.edu/~josh), C. Gueunet, M. Michaux. **The Topology ToolKit**. Accepted to IEEE SciVis 2017, IEEE TVCG, to appear. [project](https://topology-tool-kit.github.io/). [PDF](papers/scivis_2017_ttk.pdf)
-
-<div class="pubdiv"></div>
 
 ## 2016
 
@@ -258,8 +302,8 @@ Cicero Pahins, Sean S. Stephens,
 [Carlos Scheidegger](http://cscheid.net),
 [Joao Comba](http://www.inf.ufrgs.br/~comba/). **Hashedcubes: Simple,
 Low Memory, Real-Time Visual Exploration of Big Data**. Presented at
-InfoVis 2016, published at IEEE TVCG 23(1)671-680,
-2017. [PDF](papers/infovis_2016_hashedcubes.pdf)
+InfoVis 2016, published at IEEE TVCG 23(1)671-680, 2017. 
+[PDF](papers/infovis_2016_hashedcubes.pdf)
 
 <div class="pubdiv"></div>
 
@@ -296,8 +340,8 @@ Understanding Enjoyment and Flow in Information Visualization**. EuroVis
 
 [<img class="pubthumb" src="papers/thumbs/eurovis_2015_recall.png">](http://cscheid.net/static/papers/eurovis_long_2015.pdf) [Bahador Saket](http://bahadorsaket.com), [Carlos Scheidegger](http://cscheid.net), [Stephen G. Kobourov](http://www.cs.arizona.edu/~kobourov), and [Katy
 Börner](http://ella.slis.indiana.edu/~katy/). **Map-based Visualizations Increase Recall Accuracy of
-Data**. Eurovis
-2015. [PDF](http://cscheid.net/static/papers/eurovis_long_2015.pdf),
+Data**. Eurovis 2015.
+[PDF](http://cscheid.net/static/papers/eurovis_long_2015.pdf),
 [supplemental material](http://cscheid.net/static/papers/eurovis_long_2015_supplemental.pdf),
 [data](http://cscheid.net/static/papers/eurovis_long_2015_supplemental.tar.gz)
 
