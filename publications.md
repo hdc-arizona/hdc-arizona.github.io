@@ -20,7 +20,7 @@ title: Publications from the HDC Lab
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/scivis_2019_highorder_topo.png">](papers/scivis_2019_highorder_topo.pdf)
-A. Jallepalli, 
+A. Jallepalli,
 [J. A. Levine](http://www.cs.arizona.edu/~josh),
 R. M. Kirby.
 **The Effect of Data Transformations on Scalar Field Topological Analysis of High-Order FEM Solutions**.
@@ -31,6 +31,44 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 
 ## 2019
 
+[<img class="pubthumb" src="papers/thumbs/tcs_2019_short_recognition.png">](papers/tcs_2019_short_recognition.pdf)
+[F. De Luca](https://github.com/felicedeluca),
+H. Hossain
+[I. Kobourov](http://www.cs.arizona.edu/~kobourov),
+Anna Lubiw,
+Debajyoti Mondal.
+**Recognition and drawing of stick graphs**.  
+Journal on Theoretical Computer Science (TCS), 2019.  
+[PDF](papers/tcs_2019_short_recognition.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/tcs_2019_fm_graphs.png">](papers/tcs_2019_fm_graphs.pdf)
+Michael A. Bekos,
+[F. De Luca](https://github.com/felicedeluca),
+Walter Didimo,
+Tamara Mchedlidze,
+Martin Nöllenburg,
+Antonios Symvonis,
+Ioannis Tollis.
+**Planar drawings of fixed-mobile bigraphs**.  
+Journal on Theoretical Computer Science (TCS), 2019.  
+[PDF](papers/tcs_2019_fm_graphs.pdf)
+
+<div class="pubdiv"></div>
+
+
+[<img class="pubthumb" src="papers/thumbs/gd_2019_sym_det.png">](papers/gd_2019_sym_det.pdf)
+[F. De Luca](https://github.com/felicedeluca),
+H. Hossain
+[I. Kobourov](http://www.cs.arizona.edu/~kobourov).
+**Symmetry Detection and Classification in Drawings of Graphs**.  
+Proceedings of 27th Symposium on Graph Drawing (GD), 2019.  
+[PDF](papers/gd_2019_sym_det.pdf)
+
+<div class="pubdiv"></div>
+
+
 [<img class="pubthumb" src="papers/thumbs/tvcg_2018_graphterm_preprint.png">](papers/tvcg_2018_graphterm_preprint.pdf)
 [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and T. Gamblin. **Preserving Command Line Workflow for a Package Management System using ASCII DAG Visualization**. IEEE Transactions in Visualization and Computer Graphics, Volume 25, Issue 9, September 2019.
 [PDF](papers/tvcg_2018_graphterm_preprint.pdf)
@@ -38,7 +76,7 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/spm_extending_2019.png">](papers/spm_extending_2019.pdf)
-J. Crum, 
+J. Crum,
 [J. A. Levine](http://www.cs.arizona.edu/~josh), and
 A. Gillette.
 **Extending discrete exterior calculus to a fractional derivative**.
@@ -54,11 +92,11 @@ B. Lee, [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), D. A. Szafir
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/tvcg_generative_2018.png">](papers/tvcg_generative_2018.pdf)
-[M. Berger](https://matthewberger.github.io/), 
-[J. Li](https://jixianli.github.io/), and 
-[J. A. Levine](http://www.cs.arizona.edu/~josh). 
-**A Generative Model for Volume Rendering**. 
-IEEE TVCG 25(4), April 2019. 
+[M. Berger](https://matthewberger.github.io/),
+[J. Li](https://jixianli.github.io/), and
+[J. A. Levine](http://www.cs.arizona.edu/~josh).
+**A Generative Model for Volume Rendering**.
+IEEE TVCG 25(4), April 2019.
 [github](https://github.com/matthewberger/tfgan).
 [PDF](papers/tvcg_generative_2018.pdf)
 
@@ -79,12 +117,22 @@ IEEE TVCG 25(4), April 2019.
 
 ## 2018
 
+[<img class="pubthumb" src="papers/thumbs/gd_2018_symmetry_perception.png">](papers/gd_2018_symmetry_perception.pdf)
+[F. De Luca](https://github.com/felicedeluca),
+[S. Kobourov](http://www.cs.arizona.edu/~kobourov),
+H. Purchase,
+**Perception of Symmetries in Drawings of Graphs**.  
+Proceedings of 26th Symposium on Graph Drawing (GD), 2018.  
+[PDF](papers/gd_2018_symmetry_perception.pdf)
+
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/emnlp_2018_visualbootstrap.png">](papers/emnlp_2018_visualbootstrap.pdf)
 [M. Berger](https://matthewberger.github.io/),
-A. Nagesh, 
-[J. A. Levine](http://www.cs.arizona.edu/~josh), 
-[M. Surdeanu](http://www.surdeanu.info/mihai/), 
-[H. Zhang](https://www.math.arizona.edu/~hzhang/). 
+A. Nagesh,
+[J. A. Levine](http://www.cs.arizona.edu/~josh),
+[M. Surdeanu](http://www.surdeanu.info/mihai/),
+[H. Zhang](https://www.math.arizona.edu/~hzhang/).
 **Visual Supervision in Bootstrapped Information Extraction**.  
 Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).  
 [project](https://matthewberger.github.io/supplemental/visboot.html).
@@ -151,14 +199,14 @@ Ahmed A.R., Rahman M.S., [S. Kobourov](http://www.cs.arizona.edu/~kobourov). (20
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/scivis_2017_ttk.png">](papers/scivis_2017_ttk.pdf)
-[J. Tierny](http://www-pequan.lip6.fr/~tierny/), 
-G. Favelier, 
-[J. A. Levine](http://www.cs.arizona.edu/~josh), 
+[J. Tierny](http://www-pequan.lip6.fr/~tierny/),
+G. Favelier,
+[J. A. Levine](http://www.cs.arizona.edu/~josh),
 C. Gueunet, and
-M. Michaux. 
-**The Topology ToolKit**. 
+M. Michaux.
+**The Topology ToolKit**.
 IEEE TVCG (Proceedings of SciVis 2017) 24(1), January 2018.
-[project](https://topology-tool-kit.github.io/). 
+[project](https://topology-tool-kit.github.io/).
 [PDF](papers/scivis_2017_ttk.pdf)
 
 <div class="pubdiv"></div>
@@ -174,7 +222,7 @@ Michelle Mills Strout, Saumya Debray, [Katherine E. Isaacs](http://hdc.cs.arizon
 
 [<img class="pubthumb" src="papers/thumbs/arx_diffusion_geom_2018.png">](papers/arx_diffusion_geom_2018.pdf)
 [M. Berger](https://matthewberger.github.io/) and
-[J. A. Levine](http://www.cs.arizona.edu/~josh). 
+[J. A. Levine](http://www.cs.arizona.edu/~josh).
           **Visualizing Time-Varying Particle Flows with Diffusion Geometry**.
 [arXiv:1708.03686](https://arxiv.org/abs/1708.03686)
 [PDF](papers/arx_diffusion_geom_2018.pdf)
@@ -310,7 +358,7 @@ Cicero Pahins, Sean S. Stephens,
 [Carlos Scheidegger](http://cscheid.net),
 [Joao Comba](http://www.inf.ufrgs.br/~comba/). **Hashedcubes: Simple,
 Low Memory, Real-Time Visual Exploration of Big Data**. Presented at
-InfoVis 2016, published at IEEE TVCG 23(1)671-680, 2017. 
+InfoVis 2016, published at IEEE TVCG 23(1)671-680, 2017.
 [PDF](papers/infovis_2016_hashedcubes.pdf)
 
 <div class="pubdiv"></div>
