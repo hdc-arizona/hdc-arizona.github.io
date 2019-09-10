@@ -36,6 +36,7 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 Md. I. Hossain
 [S. Kobourov](http://www.cs.arizona.edu/~kobourov),
 A. Lubiw,
+and
 D. Mondal.
 **Recognition and drawing of stick graphs**.  
 Journal on Theoretical Computer Science (TCS), 2019.  
@@ -50,6 +51,7 @@ W. Didimo,
 T. Mchedlidze,
 M. Nöllenburg,
 A. Symvonis,
+and
 I. Tollis.
 **Planar drawings of fixed-mobile bigraphs**.  
 Journal on Theoretical Computer Science (TCS), 2019.  
@@ -60,7 +62,8 @@ Journal on Theoretical Computer Science (TCS), 2019.
 
 [<img class="pubthumb" src="papers/thumbs/gd_2019_sym_det.png">](papers/gd_2019_sym_det.pdf)
 [F. De Luca](https://www.felicedeluca.com/cv),
-Md. I. Hossain
+Md. I. Hossain,
+and
 [S. Kobourov](http://www.cs.arizona.edu/~kobourov).
 **Symmetry Detection and Classification in Drawings of Graphs**.  
 Proceedings of 27th Symposium on Graph Drawing (GD), 2019.  
@@ -120,7 +123,8 @@ IEEE TVCG 25(4), April 2019.
 [<img class="pubthumb" src="papers/thumbs/gd_2018_symmetry_perception.png">](papers/gd_2018_symmetry_perception.pdf)
 [F. De Luca](https://www.felicedeluca.com/cv),
 [S. Kobourov](http://www.cs.arizona.edu/~kobourov),
-H. Purchase,
+and
+H. Purchase.
 **Perception of Symmetries in Drawings of Graphs**.  
 Proceedings of 26th Symposium on Graph Drawing (GD), 2018.  
 [PDF](papers/gd_2018_symmetry_perception.pdf)
