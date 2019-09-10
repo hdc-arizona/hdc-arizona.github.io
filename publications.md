@@ -32,11 +32,11 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 ## 2019
 
 [<img class="pubthumb" src="papers/thumbs/tcs_2019_short_recognition.png">](papers/tcs_2019_short_recognition.pdf)
-[F. De Luca](https://github.com/felicedeluca),
-H. Hossain
-[I. Kobourov](http://www.cs.arizona.edu/~kobourov),
-Anna Lubiw,
-Debajyoti Mondal.
+[F. De Luca](https://www.felicedeluca.com/cv),
+Md. I. Hossain
+[S. Kobourov](http://www.cs.arizona.edu/~kobourov),
+A. Lubiw,
+D. Mondal.
 **Recognition and drawing of stick graphs**.  
 Journal on Theoretical Computer Science (TCS), 2019.  
 [PDF](papers/tcs_2019_short_recognition.pdf)
@@ -44,13 +44,13 @@ Journal on Theoretical Computer Science (TCS), 2019.
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/tcs_2019_fm_graphs.png">](papers/tcs_2019_fm_graphs.pdf)
-Michael A. Bekos,
-[F. De Luca](https://github.com/felicedeluca),
-Walter Didimo,
-Tamara Mchedlidze,
-Martin Nöllenburg,
-Antonios Symvonis,
-Ioannis Tollis.
+M. A. Bekos,
+[F. De Luca](https://www.felicedeluca.com/cv),
+W. Didimo,
+T. Mchedlidze,
+M. Nöllenburg,
+A. Symvonis,
+I. Tollis.
 **Planar drawings of fixed-mobile bigraphs**.  
 Journal on Theoretical Computer Science (TCS), 2019.  
 [PDF](papers/tcs_2019_fm_graphs.pdf)
@@ -59,9 +59,9 @@ Journal on Theoretical Computer Science (TCS), 2019.
 
 
 [<img class="pubthumb" src="papers/thumbs/gd_2019_sym_det.png">](papers/gd_2019_sym_det.pdf)
-[F. De Luca](https://github.com/felicedeluca),
-H. Hossain
-[I. Kobourov](http://www.cs.arizona.edu/~kobourov).
+[F. De Luca](https://www.felicedeluca.com/cv),
+Md. I. Hossain
+[S. Kobourov](http://www.cs.arizona.edu/~kobourov).
 **Symmetry Detection and Classification in Drawings of Graphs**.  
 Proceedings of 27th Symposium on Graph Drawing (GD), 2019.  
 [PDF](papers/gd_2019_sym_det.pdf)
@@ -118,7 +118,7 @@ IEEE TVCG 25(4), April 2019.
 ## 2018
 
 [<img class="pubthumb" src="papers/thumbs/gd_2018_symmetry_perception.png">](papers/gd_2018_symmetry_perception.pdf)
-[F. De Luca](https://github.com/felicedeluca),
+[F. De Luca](https://www.felicedeluca.com/cv),
 [S. Kobourov](http://www.cs.arizona.edu/~kobourov),
 H. Purchase,
 **Perception of Symmetries in Drawings of Graphs**.  
