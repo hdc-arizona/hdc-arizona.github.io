@@ -33,7 +33,7 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 
 [<img class="pubthumb" src="papers/thumbs/tcs_2019_short_recognition.png">](papers/tcs_2019_short_recognition.pdf)
 [F. De Luca](https://www.felicedeluca.com/cv),
-Md. I. Hossain
+Md. I. Hossain,
 [S. Kobourov](http://www.cs.arizona.edu/~kobourov),
 A. Lubiw,
 and
