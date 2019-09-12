@@ -31,6 +31,19 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 
 ## 2019
 
+[<img class="pubthumb" src="papers/thumbs/gd_2019_spx_layout.png">](papers/gd_2019_spx_layout.pdf)
+[S. Devkota](https://devkotasabin.github.io/), 
+[A. R. Ahmed](http://cgi.cs.arizona.edu/~abureyanahmed/profile.html),
+[F. De. Luca](https://www.felicedeluca.com/cv),
+[K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/),
+and
+[S. Kobourov](http://www.cs.arizona.edu/~kobourov).
+**Stress-Plus-X (SPX) Graph Layout**.  
+Proceedings of 27th International Symposium on Graph Drawing and Network Visualization (GD), 2019.  
+[PDF](papers/gd_2019_spx_layout.pdf)
+
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/tcs_2019_short_recognition.png">](papers/tcs_2019_short_recognition.pdf)
 [F. De Luca](https://www.felicedeluca.com/cv),
 Md. I. Hossain,
