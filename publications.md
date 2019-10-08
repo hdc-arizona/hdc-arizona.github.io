@@ -6,7 +6,7 @@ title: Publications from the HDC Lab
 ## 2020
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2019_movingtarget.png">](papers/infovis_2019_movingtarget.pdf)
-[K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/) and [A. Bigelow](https://alex-r-bigelow.github.io/). **Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns**. To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019).
+[K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [A. Bigelow](https://alex-r-bigelow.github.io/),  and [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/). **Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns**. To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019).
 [PDF](papers/infovis_2019_movingtarget.pdf)
 
 <div class="pubdiv"></div>
