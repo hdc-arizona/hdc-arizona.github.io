@@ -5,6 +5,11 @@ title: Publications from the HDC Lab
 
 ## 2020
 
+[<img class="pubthumb" src="papers/thumbs/infovis_2019_homologyforce.png">](papers/infovis_2019_homologyforce.pdf)
+[Ashley Suh](https://www.eecs.tufts.edu/~asuh/), [Mustafa Hajij](http://www.mustafahajij.com/), [Bei Wang](http://www.sci.utah.edu/~beiwang/), [Carlos Scheidegger](https://cscheid.net), [Paul Rosen](http://www.cspaul.com/wordpress/). **Persistent Homology Guided Force-Directed Graph Layouts**. IEEE TVCG, 26(1):697--706, 2020 (Proceedings of IEEE VIS 2019).
+[PDF](papers/infovis_2019_homologyforce.pdf)
+
+
 [<img class="pubthumb" src="papers/thumbs/infovis_2019_movingtarget.png">](papers/infovis_2019_movingtarget.pdf)
 [K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [A. Bigelow](https://alex-r-bigelow.github.io/),  and [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/). **Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns**. To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2019).
 [PDF](papers/infovis_2019_movingtarget.pdf)
@@ -30,6 +35,18 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 <div class="pubdiv"></div>
 
 ## 2019
+
+[<img class="pubthumb" src="papers/thumbs/www_2019_informationgaps.png">](papers/www_2019_informationgaps.pdf)
+[Benjamin Fish](http://homepages.math.uic.edu/~bfish3/index.html), Ashkan Bashardoust, danah boyd, [Sorelle Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/). Gaps in Information Access in Social Networks. The World Wide Web Conference (now called [The WebConf](https://www2019.thewebconf.org/)), 480--490, 2019.
+[PDF](papers/www_2019_informationgaps.pdf)
+
+[<img class="pubthumb" src="papers/thumbs/sdm_2019_stereotyping.png">](papers/sdm_2019_stereotyping.pdf)
+Mohsen Abbasi, [Sorelle Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh). Fairness in representation: quantifying stereotyping as a representational harm. Proceedings of the 2019 SIAM International Conference on Data Mining, 801--809, 2019.
+[PDF](papers/sdm_2019_stereotyping.pdf)
+
+[<img class="pubthumb" src="papers/thumbs/fat_2019_comparative.png">](papers/fat_2019_comparative.pdf)
+[Sorelle A. Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](https://www.cs.utah.edu/~suresh), Sonam Choudhary, Evan P. Hamilton, Derek Roth. A Comparative Study of Fairness-Enhancing Interventions in Machine Learning. [ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/acceptedpapers.html), 2019.
+[PDF](papers/fat_2019_comparative.pdf)
 
 [<img class="pubthumb" src="papers/thumbs/gd_2019_spx_layout.png">](papers/gd_2019_spx_layout.pdf)
 [S. Devkota](https://devkotasabin.github.io/), 
