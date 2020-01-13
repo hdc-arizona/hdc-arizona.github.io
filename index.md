@@ -28,6 +28,7 @@ We are part of the
 <style>
   table.four-columns td {
     width: 25%;
+    font-size: 90%;
   }
 </style>
 
