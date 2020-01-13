@@ -28,74 +28,7 @@ We are part of the
 [University of Arizona](http://www.arizona.edu)'s
 [College of Science](http://cos.arizona.edu/).
 
-## Members ([Alumni](/alumni/))
 
-<style>
-  table.four-columns td {
-    width: 25%;
-  }
-</style>
-
-<table class="four-columns" width="100%">
-{% assign student_order = 'PhD|MSc|BSc|Postdoc' | split: '|' %}
-{% assign students = site.students | sort:'name' | sort_by_index: 'role', student_order %}
-
-{% tablerow member in students cols:4 %}
-  <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}" style="padding-right:0.75em">
-  <br>
-  {% if member.website %}
-    <a href="{{ member.website }}">{{ member.name }}</a>
-  {% else %}
-    {{ member.name }}
-  {% endif %}
-  <br>
-  {{ member.role }}
-{% endtablerow %}
-</table>
-
-<p><br></p>
-
-<table class="four-columns" width="100%">
-{% assign faculty_order = 'Assistant Professor|Professor' | split: '|' %}
-{% assign faculty = site.faculty | sort:'name' | sort_by_index: 'role', faculty_order %}
-{% tablerow member in faculty cols:4 %}
-  <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}" style="padding-right:0.75em"><br>
-  {% if member.website %}
-    <a href="{{ member.website }}">{{ member.name }}</a>
-  {% else %}
-    {{ member.name }}
-  {% endif %}
-  <br>
-  {{ member.role }}
-{% endtablerow %}
-</table>
-<br>
-
-## Funding and Projects
-
-Our group is funded through the gracious support of many sponsors,
-including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
-
-* NSF [IIS-1844573](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844573):
-  [CAREER: Comprehensive Techniques and Design for Flexible Graph Visualization of Software and Systems](https://hdc.cs.arizona.edu/people/kisaacs/projects/gvss/). PI: Prof. Katherine Isaacs.
-
-* NSF [III-1815238](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1815238):
-  [III: Small: An end-to-end pipeline for interactive visual analysis of big data](/projects/end-to-end-visual-big-data/). PI: Prof. Carlos Scheidegger.
-
-* DOE [DE-SC0019039](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=9ffa1ab7-a138-4855-b6cb-a3d9e60f8679&rtc=24&PRoleId=10): [ECRP: Analyzing Multifaceted Scientific Data with Topological Analytics](https://jalevine.bitbucket.io/). PI: Prof. Joshua Levine.
-
-* DTIC: [Phylanx Engine Enhancement and Visualization Development](https://hdc.cs.arizona.edu/people/kisaacs/). PI: Prof. Katherine Isaacs.
-
-* LLNL: [CFGExplorer Focus on Visualizing Compiler Optimization](https://hdc.cs.arizona.edu/people/kisaacs/)). PI: Prof. Katherine Isaacs.
-
-* NSF [III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958): [CRII: III: Scalable and Interactive Dependency Visualization to Accelerate Parallel Program Analysis](http://hdc-arizona.github.io/projects/dependencies). PI: Prof. Katherine Isaacs.
-
-* NSF [III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651):
-  [III: Medium: Collaborative Research: Topological Data Analysis for Large Network Visualization](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html). PI: Prof. Carlos Scheidegger.
-
-{% comment %}
-* NSF [IIS-1654221](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654221): [CGV: Large: Collaborative Research: Coupling Simulation and Mesh Generation using Computational Topology](https://cal.cs.umbc.edu/SimulationMeshingTopology/). PI: Prof. Joshua Levine.
-{% endcomment %}
 
 ## News
 
@@ -134,6 +67,35 @@ including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
   Ben Gaska and Nick DeJaco, they took both the "Data Science and
   Visualization" and the "Best Transportation Hack" categories!
 
+
+
+
+
+## Funding and Projects
+
+Our group is funded through the gracious support of many sponsors,
+including the Arizona Board of Regents, AT&T, LLNL, DTIC, NSF, and DOE:
+
+* NSF [IIS-1844573](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1844573):
+  [CAREER: Comprehensive Techniques and Design for Flexible Graph Visualization of Software and Systems](https://hdc.cs.arizona.edu/people/kisaacs/projects/gvss/). PI: Prof. Katherine Isaacs.
+
+* NSF [III-1815238](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1815238):
+  [III: Small: An end-to-end pipeline for interactive visual analysis of big data](/projects/end-to-end-visual-big-data/). PI: Prof. Carlos Scheidegger.
+
+* DOE [DE-SC0019039](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=9ffa1ab7-a138-4855-b6cb-a3d9e60f8679&rtc=24&PRoleId=10): [ECRP: Analyzing Multifaceted Scientific Data with Topological Analytics](https://jalevine.bitbucket.io/). PI: Prof. Joshua Levine.
+
+* DTIC: [Phylanx Engine Enhancement and Visualization Development](https://hdc.cs.arizona.edu/people/kisaacs/). PI: Prof. Katherine Isaacs.
+
+* LLNL: [CFGExplorer Focus on Visualizing Compiler Optimization](https://hdc.cs.arizona.edu/people/kisaacs/)). PI: Prof. Katherine Isaacs.
+
+* NSF [III-1656958](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1656958): [CRII: III: Scalable and Interactive Dependency Visualization to Accelerate Parallel Program Analysis](http://hdc-arizona.github.io/projects/dependencies). PI: Prof. Katherine Isaacs.
+
+* NSF [III-1513651](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1513651):
+  [III: Medium: Collaborative Research: Topological Data Analysis for Large Network Visualization](http://www.sci.utah.edu/~beiwang/networktdav/networktdav.html). PI: Prof. Carlos Scheidegger.
+
+{% comment %}
+* NSF [IIS-1654221](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654221): [CGV: Large: Collaborative Research: Coupling Simulation and Mesh Generation using Computational Topology](https://cal.cs.umbc.edu/SimulationMeshingTopology/). PI: Prof. Joshua Levine.
+{% endcomment %}
 
 
 # Software
