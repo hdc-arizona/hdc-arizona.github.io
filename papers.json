@@ -1,0 +1,9 @@
+{
+  "papers":[
+    {
+      "image": "img/logo.svg",
+      "title": "Paper title, for example",
+      "link": "http://hdc.cs.arizona.edu/publications.html"
+    }
+  ]
+}
