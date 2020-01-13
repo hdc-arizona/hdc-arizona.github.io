@@ -163,7 +163,7 @@ IEEE TVCG 25(4), April 2019.
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/vds_2018_homologymds.png">](papers/vds_2018_homologymds.pdf)
-Lin Yan, Yaodong Zhao, [Paul Rosen](https://www.cspaul.com), [Carlos Scheidegger](/), [Bei Wang](https://www.sci.utah.edu/~cscheid/). Proceedings of [Visual Data Science](http://www.visualdatascience.org/2018/program/), 2018. [PDF](papers/vds_2018_homologymds.pdf)
+Lin Yan, Yaodong Zhao, [Paul Rosen](https://www.cspaul.com), [Carlos Scheidegger](/), [Bei Wang](https://www.sci.utah.edu/~cscheid/). **Homology-Preserving Dimensionality Reduction via Manifold Landmarking and Tearing**. Proceedings of [Visual Data Science](http://www.visualdatascience.org/2018/program/), 2018. [PDF](papers/vds_2018_homologymds.pdf)
 
 <div class="pubdiv"></div>
 
