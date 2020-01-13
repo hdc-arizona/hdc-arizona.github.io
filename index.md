@@ -4,7 +4,7 @@ title: "The Humans, Data, and Computers Lab"
 ---
 
 <script src="/js/d3.v5.js"></script>
-<div id="bricks-hero"></div>
+<div style="padding-top: 12px; padding-bottom: 12px;" id="bricks-hero"></div>
 
 At the HDC Lab, we study how computer science interacts with human
 experiences, at all levels. We specialize in novel algorithms for
