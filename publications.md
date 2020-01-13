@@ -38,19 +38,19 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 ## 2019
 
 [<img class="pubthumb" src="papers/thumbs/www_2019_informationgaps.png">](papers/www_2019_informationgaps.pdf)
-[Benjamin Fish](http://homepages.math.uic.edu/~bfish3/index.html), Ashkan Bashardoust, danah boyd, [Sorelle Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/). Gaps in Information Access in Social Networks. The World Wide Web Conference (now called [The WebConf](https://www2019.thewebconf.org/)), 480--490, 2019.
+[Benjamin Fish](http://homepages.math.uic.edu/~bfish3/index.html), Ashkan Bashardoust, danah boyd, [Sorelle Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/). **Gaps in Information Access in Social Networks. The World Wide Web Conference (now called [The WebConf](https://www2019.thewebconf.org/))**, 480--490, 2019.
 [PDF](papers/www_2019_informationgaps.pdf)
 
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/sdm_2019_stereotyping.png">](papers/sdm_2019_stereotyping.pdf)
-Mohsen Abbasi, [Sorelle Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh). Fairness in representation: quantifying stereotyping as a representational harm. Proceedings of the 2019 SIAM International Conference on Data Mining, 801--809, 2019.
+Mohsen Abbasi, [Sorelle Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh). **Fairness in representation: quantifying stereotyping as a representational harm**. Proceedings of the 2019 SIAM International Conference on Data Mining, 801--809, 2019.
 [PDF](papers/sdm_2019_stereotyping.pdf)
 
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/fat_2019_comparative.png">](papers/fat_2019_comparative.pdf)
-[Sorelle A. Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](https://www.cs.utah.edu/~suresh), Sonam Choudhary, Evan P. Hamilton, Derek Roth. A Comparative Study of Fairness-Enhancing Interventions in Machine Learning. [ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/acceptedpapers.html), 2019.
+[Sorelle A. Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](https://www.cs.utah.edu/~suresh), Sonam Choudhary, Evan P. Hamilton, Derek Roth. **A Comparative Study of Fairness-Enhancing Interventions in Machine Learning**. [ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/acceptedpapers.html), 2019.
 [PDF](papers/fat_2019_comparative.pdf)
 
 <div class="pubdiv"></div>
