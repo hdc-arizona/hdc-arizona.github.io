@@ -1,6 +1,6 @@
 ---
 name: Md Dilshadur Rahman
 role: PhD Student
-website: https://sites.google.com/view/dilshadurrahman/home?authuser=1 
+website: 
 photo: headshots/dilshadurrahman.png
 ---
