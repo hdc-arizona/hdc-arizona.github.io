@@ -157,6 +157,22 @@ IEEE TVCG 25(4), April 2019.
 
 ## 2018
 
+[<img class="pubthumb" src="papers/thumbs/pacificvis_2018_timevaryinghomology.png">](papers/pacificvis_2018_timevaryinghomology.pdf)
+[Mustafa Hajij](http://www.mustafahajij.com/), [Bei Wang](http://www.sci.utah.edu/~beiwang/), [Carlos Scheidegger](https://cscheid.net), [Paul Rosen](http://www.cspaul.com/wordpress/). **Visual Detection of Structural Changes in Time-Varying Graphs Using Persistent Homology**. Proceedings of Pacific Vis, 2018. [PDF](papers/pacificvis_2018_timevaryinghomology.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/pacificvis_2018_timevaryinghomology.png">](papers/vds_2018_homologymds.pdf)
+[Mustafa Hajij](http://www.mustafahajij.com/), [Bei Wang](http://www.sci.utah.edu/~beiwang/), [Carlos Scheidegger](/), [Paul Rosen](http://www.cspaul.com/wordpress/). **Visual Detection of Structural Changes in Time-Varying Graphs Using Persistent Homology**. Proceedings of Pacific Vis, 2018. [PDF](papers/pacificvis_2018_timevaryinghomology.pdf)
+
+<div class="pubdiv"></div>
+
+[<img class="pubthumb" src="papers/thumbs/ieeesp_2018_obfuscation.png">](papers/ieeesp_2018_obfuscation.pdf)
+Jon Stephens, [Babak Yadegari](https://www2.cs.arizona.edu/~babaky/), [Christian Collberg](http://www.cs.arizona.edu/~collberg), [Saumya Debray](http://www.cs.arizona.edu/~debray), [Carlos Scheidegger](/)
+**Probabilistic Obfuscation Through Covert Channels**. Proceedings of IEEE S&P, 2018. [PDF](papers/ieeesp_2018_obfuscation.pdf)
+
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/gd_2018_symmetry_perception.png">](papers/gd_2018_symmetry_perception.pdf)
 [F. De Luca](https://www.felicedeluca.com/cv),
 [S. Kobourov](http://www.cs.arizona.edu/~kobourov),
