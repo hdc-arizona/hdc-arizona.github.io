@@ -1,9 +1,109 @@
 {
   "papers":[
-    {
-      "image": "img/logo.svg",
-      "title": "Paper title, for example",
-      "link": "http://hdc.cs.arizona.edu/publications.html"
-    }
+      {
+	  "image": "/papers/teaser_imgs/arxiv_2017_dimreader.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/dsia_2017_load-n-go.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/eurovis_2016_comparing.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/eurovis_long_2015.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/eurovis_short_2015.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/eurovis_symmetries_2017.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/eurovis_tsne_2017.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/gd_compare_2017.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/gd_plyproximity_2017.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/gd_plytrees_2016.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/graphics_state_cartograms_2016.png",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/icdm_2016_auditing.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/infovis_2014_algebraic.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/infovis_2015_euler.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/infovis_2016_gaussian.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/infovis_2016_hashedcubes.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/infovis_2019_homologyforce.png",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/kdd_2015_bias.png",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/tvcg_2017_bivariate_cartograms.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/tvcg_2017_transition.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      },
+      {
+	  "image": "/papers/teaser_imgs/vast_2015_rcloud.PNG",
+	  "title": "Fix this",
+	  "link": "/publications.html"
+      }
   ]
 }
