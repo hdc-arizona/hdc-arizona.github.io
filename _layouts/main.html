@@ -6,22 +6,23 @@
   <body role="document">
 
     <div class="container theme-showcase" role="main">
-      <div class="row">
-	<div class="col-md-1"></div>
-	<div class="col-md-7">
-	  <h1>{{ page.title }}</h1>
-	</div>
-	<div class="col-md-1"><a href="http://hdc.cs.arizona.edu"><img id="logo" src="/img/logo.svg"></a></div>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-7">
+        <h1>{{ page.title }}</h1>
       </div>
-      <div class="row">
-        <div class="col-md-1"></div>
-	<div class="col-md-7">
-          {{ content }}
-	</div>
-	<div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
-	  {% include sidebar.html %}
-	</div>
-        <div class="col-md-1"></div>
+      <div class="col-md-3 hidden-xs hidden-sm"><a href="http://hdc.cs.arizona.edu"><img id="logo" height="80" src="/img/logo.svg"></a><br/><br/></div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-7">
+        {{ content }}
+      </div>
+      <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
+        {% include sidebar.html %}
+      </div>
+      <div class="col-md-1"></div>
     </div>
 
   </body>
