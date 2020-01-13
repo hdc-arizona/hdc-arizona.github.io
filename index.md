@@ -3,6 +3,9 @@ layout: main
 title: "The Humans, Data, and Computers Lab"
 ---
 
+<script src="/js/d3.v5.js"></script>
+<div id="bricks-hero"></div>
+
 At the HDC Lab, we study how computer science interacts with human
 experiences, at all levels. We specialize in novel algorithms for
 interactive visualization and exploratory data analysis. This ranges
@@ -28,7 +31,6 @@ We are part of the
 <style>
   table.four-columns td {
     width: 25%;
-    font-size: 90%;
   }
 </style>
 
@@ -139,3 +141,5 @@ We host our software at our [GitHub organization page](http://github.com/hdc-ari
 # Logistics
 
 You can find more information about how we run our group [here](logistics.html).
+
+<script src="bricks_hero.js"></script>

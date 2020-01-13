@@ -4,14 +4,14 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'Oxygen', Helvetica Neue, Helvetica, Arial, sans-serif;
+$base-font-family: 'Encode Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.25;
 
 $spacing-unit:     30px;
 
-$text-color:       #555;
+$text-color:       #333;
 $bold-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
@@ -59,11 +59,12 @@ $hdc-blue:	   #39f;
         "syntax-highlighting"
 ;
 
-@import url("//fonts.googleapis.com/css?family=Oxygen:500,700,400");
+// @import url("//fonts.googleapis.com/css?family=Oxygen:500,700,400");
+@import url("//fonts.googleapis.com/css?family=Encode Sans:500,700,400");
 
 strong {
        color: $bold-color;
-       font-family: 'Oxygen';
+       font-family: 'Encode Sans';
        font-weight: 500;
 }
 
