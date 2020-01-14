@@ -61,8 +61,8 @@ title: "People"
 
 {% unless alum.skip %}
   <img src="{{ alum.photo | replace: "headshots","headcircs" | default: 'headcircs/placeholder.png' }}" alt="{{ alum.name }}" style="padding-right:0.5em; height:50px; float:left;">
-  {% if alum.website %}[{{ alum.name }}]({{ alum.website }}){% else %}{{ alum.name }}{% endif %}, {{ alum.last }}.
-<br style="clear:both; display:block;" />
+  {% if alum.website %}[{{ alum.name }}]({{ alum.website }}){% else %}{{ alum.name }}{% endif %}, {{ alum.last }}.  
+<br style="clear: both;" />
 {% endunless %}
 
 {% endfor %}
