@@ -58,39 +58,43 @@ function createSvg(papers)
             return `translate(${x}, ${y})`;
         });
         
-        // sel.append("rect")
-        //     .attr("width", brickWidth)
-        //     .attr("height", brickHeight)
-        //     .attr("stroke", "black")
-        //     .attr("fill", (d, i) => fillScale(i));
-
         function hoverInto(d) {
-            d3.select(this.parentNode)
+            d3.select(this.parentNode.parentNode)
                 .moveToFront();
-            d3.select(this)
+            d3.select(this.parentNode)
                 .attr("transform", "scale(1 1)")
                 .attr("transform-origin", `${brickWidth / 2} ${brickHeight / 2}`)
-                .transition()
+                .transition("hover")
                 .duration(1000)
                 .attr("transform", `scale(1.2 1.2)`);
         }
         function hoverOut(d) {
-            d3.select(this)
-                .transition()
+            d3.select(this.parentNode)
+                .transition("hover")
                 .duration(500)
                 .attr("transform", `scale(1 1)`);
         }
+
+        let brickG = sel.append("g");
         
-        sel.append("image")
-            .attr("width", `${brickWidth}px`)
-            .attr("height",`${brickHeight}px`)
+        brickG.append("rect")
+            .attr("width", brickWidth)
+            .attr("height", brickHeight)
+            .attr("stroke", "white")
+            .attr("stroke-width", "2px")
+            .attr("fill", "white");
+        
+        brickG.append("image")
+            .attr("transform", "translate(2, 2)")
+            .attr("width", `${brickWidth - 4}px`)
+            .attr("height",`${brickHeight - 4}px`)
             .attr("href", d => d.image)
             .style("cursor", "pointer")
             .style("opacity", 0)
             .on("mouseover", hoverInto)
             .on("mouseout", hoverOut)
             .on("click", d => window.location.href = d.link)
-            .transition()
+            .transition("init")
             .duration(500)
             .delay(d => Math.random() * 1500)
             .style("opacity", 1)
