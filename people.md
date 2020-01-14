@@ -45,7 +45,7 @@ title: "HDC people"
     {{ member.name }}
   {% endif %}
   <br>
-  {{ member.role }
+  {{ member.role }}
   </div>
 {% endtablerow %}
 </table>
