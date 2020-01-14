@@ -144,13 +144,13 @@ IEEE TVCG 25(4), April 2019.
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2018_sanitycheck.png">](papers/infovis_2018_sanitycheck.pdf)
 [M. Correll](https://research.tableau.com/user/michael-correll), [M. Li](http://hdc.cs.arizona.edu/~mwli/), [G. Kindlmann](http://people.cs.uchicago.edu/~glk/), [C. Scheidegger](https://cscheid.net). **Looks Good to Me: Visualizations as Sanity Checks**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018).
-[PDF](papers/infovis_2018_dimreader.pdf)
+[PDF](papers/infovis_2018_sanitycheck.pdf)
 
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2018_dimreader.png">](papers/infovis_2018_dimreader.pdf)
 [R. Faust](https://rjfaust.github.io), D. Glickenstein, [C. Scheidegger](https://cscheid.net). **DimReader: Axis lines that explain non-linear projections**. To appear in IEEE Transactions in Visualization and Computer Graphics (Proceedings of InfoVis 2018).
-[PDF](papers/infovis_2018_sanitycheck.pdf)
+[PDF](papers/infovis_2018_dimreader.pdf)
 
 <div class="pubdiv"></div>
 
@@ -338,14 +338,6 @@ H. Kruiger, P. Rauber, R. Martins, A. Kerren, [S. Kobourov](http://www.cs.arizon
 
 [<img class="pubthumb" src="papers/thumbs/eurovis_symmetries_2017.png">](papers/eurovis_symmetries_2017.pdf)
 E. Welch and [S. Kobourov](http://www.cs.arizona.edu/~kobourov). **Measuring Symmetry in Drawings of Graphs**. Computer Graphics Forum, vol. 36, no. 3, 2017. (A preliminary version appeared in the 19th IEEE Eurographics Conference on Visualization(EUROVIS), 2017.) [PDF](papers/eurovis_symmetries_2017.pdf)
-
-<div class="pubdiv"></div>
-
-[<img class="pubthumb" src="papers/thumbs/arxiv_2017_dimreader.png">](papers/arxiv_2017_dimreader.pdf)
-[Rebecca Faust](https://rjfaust.github.io/),
-[Carlos Scheidegger](https://cscheid.net). **DimReader: Using
-auto-differentiation to explain non-linear
-projections**. [arxiv](https://arxiv.org/abs/1710.00992). [PDF](papers/arxiv_2017_dimreader.pdf)
 
 <div class="pubdiv"></div>
 
