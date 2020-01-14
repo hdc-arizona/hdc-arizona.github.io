@@ -80,6 +80,12 @@ strong {
     clear: both
 }
 
+.topnav {
+    color: $hdc-orange;
+    padding: 1em 1em 1em 0em;
+    text-decoration: none;
+}
+
 /* Some tweaks to bootstrap that we've added ourselves */
 
 body {
