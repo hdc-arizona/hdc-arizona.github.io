@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Papers from the HDC Lab
+title: Papers
 ---
 
 ## 2020

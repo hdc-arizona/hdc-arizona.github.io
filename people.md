@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "HDC people"
+title: "People"
 ---
 
 ## Members ([Alumni](/alumni/))
