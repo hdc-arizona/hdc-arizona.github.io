@@ -5,6 +5,7 @@ title: "The Humans, Data, and Computers Lab"
 
 <script src="/js/d3.v5.js"></script>
 
+<div style="padding:0.5em"></div>
 <div id="bricks-hero"></div>
 <div style="padding:1em"></div>
 

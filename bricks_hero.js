@@ -55,7 +55,6 @@ function createSvg(papers)
             let col = ~~(i % bricksPerRow);
             let y = (row - 0.5) * brickHeight;
             let x = (col - (row % 2 ? 0.3 : 0.8)) * brickWidth;
-            console.log(row, col, x, y);
             return `translate(${x}, ${y})`;
         });
         
@@ -87,9 +86,14 @@ function createSvg(papers)
             .attr("height",`${brickHeight}px`)
             .attr("href", d => d.image)
             .style("cursor", "pointer")
+            .style("opacity", 0)
             .on("mouseover", hoverInto)
             .on("mouseout", hoverOut)
             .on("click", d => window.location.href = d.link)
+            .transition()
+            .duration(500)
+            .delay(d => Math.random() * 1500)
+            .style("opacity", 1)
         ;
     }
     
