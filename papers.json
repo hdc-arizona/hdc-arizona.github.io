@@ -16,16 +16,6 @@
 	    "link": "/papers/avi_gram_2018.pdf"
 	},
 	{
-	    "image": "/papers/teaser_imgs/bioinformatics_synmap2_2017.png",
-	    "title": "Fix this",
-	    "link": "/papers/bioinformatics_synmap2_2017.pdf"
-	},
-	{
-	    "image": "/papers/teaser_imgs/blank_image.png",
-	    "title": "Fix this",
-	    "link": "/papers/blank_image.pdf"
-	},
-	{
 	    "image": "/papers/teaser_imgs/cfg_2018_explorer_preprint.png",
 	    "title": "Fix this",
 	    "link": "/papers/cfg_2018_explorer_preprint.pdf"
@@ -79,11 +69,6 @@
 	    "image": "/papers/teaser_imgs/eurovis_tsne_2017.PNG",
 	    "title": "Fix this",
 	    "link": "/papers/eurovis_tsne_2017.pdf"
-	},
-	{
-	    "image": "/papers/teaser_imgs/fat_2019_comparative.png",
-	    "title": "Fix this",
-	    "link": "/papers/fat_2019_comparative.pdf"
 	},
 	{
 	    "image": "/papers/teaser_imgs/fat_predpol_2018.png",
@@ -289,11 +274,6 @@
 	    "image": "/papers/teaser_imgs/walcom_facility_2018.png",
 	    "title": "Fix this",
 	    "link": "/papers/walcom_facility_2018.pdf"
-	},
-	{
-	    "image": "/papers/teaser_imgs/www_2019_informationgaps.png",
-	    "title": "Fix this",
-	    "link": "/papers/www_2019_informationgaps.pdf"
 	}
     ]
 }
