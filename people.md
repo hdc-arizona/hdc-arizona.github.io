@@ -19,6 +19,7 @@ title: "HDC people"
 {% tablerow member in students cols:4 %}
   <img src="{{ member.photo | default: 'headshots/placeholder.png' }}" alt="{{ member.name }}" style="padding-right:0.75em">
   <br>
+  <div style="text-align:center;">
   {% if member.website %}
     <a href="{{ member.website }}">{{ member.name }}</a>
   {% else %}
@@ -26,6 +27,7 @@ title: "HDC people"
   {% endif %}
   <br>
   {{ member.role }}
+  </div>
 {% endtablerow %}
 </table>
 
