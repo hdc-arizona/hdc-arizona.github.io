@@ -65,13 +65,13 @@ function createSvg(papers)
                 .attr("transform", "scale(1 1)")
                 .attr("transform-origin", `${brickWidth / 2} ${brickHeight / 2}`)
                 .transition("hover")
-                .duration(1000)
-                .attr("transform", `scale(1.2 1.2)`);
+                .duration(500)
+                .attr("transform", `scale(1.3 1.3)`);
         }
         function hoverOut(d) {
             d3.select(this.parentNode)
                 .transition("hover")
-                .duration(500)
+                .duration(250)
                 .attr("transform", `scale(1 1)`);
         }
 
@@ -112,7 +112,6 @@ function createSvg(papers)
                     let x = (col - (row % 2 ? 0.3 : 0.8)) * brickWidth;
                     let dx = cx - x, dy = cy - y;
                     let dist = Math.sqrt(dx * dx + dy * dy);
-                    console.log(dist);
                     return delayScale(dist);
                 })
                 .style("opacity", 1);
