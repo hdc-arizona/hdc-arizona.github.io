@@ -83,8 +83,8 @@ function createSvg(papers)
             .attr("stroke", "white")
             .attr("stroke-width", "2px")
             .attr("fill", "white");
-        
-        brickG.append("image")
+
+        let images = brickG.append("image")
             .attr("transform", "translate(2, 2)")
             .attr("width", `${brickWidth - 4}px`)
             .attr("height",`${brickHeight - 4}px`)
@@ -94,11 +94,36 @@ function createSvg(papers)
             .on("mouseover", hoverInto)
             .on("mouseout", hoverOut)
             .on("click", d => window.location.href = d.link)
-            .transition("init")
-            .duration(500)
-            .delay(d => Math.random() * 1500)
-            .style("opacity", 1)
         ;
+        if (Math.random() < 0.5) {
+            let cx = Math.random() * width;
+            let cy = Math.random() * height;
+            let delayScale = d3.scaleLinear()
+                .domain([0, Math.sqrt(Math.pow(height, 2) +
+                                      Math.pow(width, 2))])
+                .range([0, 1500]);
+            images
+                .transition("init")
+                .duration(500)
+                .delay((d,i) => {
+                    let row = ~~(i / bricksPerRow);
+                    let col = ~~(i % bricksPerRow);
+                    let y = (row - 0.5) * brickHeight;
+                    let x = (col - (row % 2 ? 0.3 : 0.8)) * brickWidth;
+                    let dx = cx - x, dy = cy - y;
+                    let dist = Math.sqrt(dx * dx + dy * dy);
+                    console.log(dist);
+                    return delayScale(dist);
+                })
+                .style("opacity", 1);
+        } else {
+            images
+                .transition("init")
+                .duration(500)
+                .delay(d => Math.random() * 1500)
+                .style("opacity", 1)
+            ;
+        }
     }
     
     mainGroup.selectAll("g")
