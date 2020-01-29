@@ -10,7 +10,7 @@ pipeline for interactive visual analysis of big data".
 
 * Duration: September 1st, 2018 -- August 31st, 2021.
 
-* NSF Information: [award page](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1815238).
+* NSF Information: [award page, NSF-1815238](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1815238).
 
 * Original proposal document: [pdf](assets/nsf-1815238-project-description.pdf).
 
@@ -29,12 +29,28 @@ pipeline for interactive visual analysis of big data".
 * [NeuralCubes: Deep Representations for Visual Data
   Exploration](https://arxiv.org/abs/1808.08983). Zhe Wang, Dylan
   Cashman, Mingwei Li, Jixian Li, Matthew Berger, Joshua A. Levine,
-  Remco Chang, Carlos Scheidegger. Currently under submission to TVCG,
-  undergoing major revisions.
+  Remco Chang, Carlos Scheidegger. [arXiv preprint arXiv:1808.08983](https://arxiv.org/abs/1808.08983).
   
-* Data Management Technology for Interactive Visualization and
-  Analysis: a review and model. Leilani Battle and Carlos
+* [Disentangling Influence: Using disentangled representations to
+audit model
+predictions](http://papers.nips.cc/paper/8699-disentangling-influence-using-disentangled-representations-to-audit-model-predictions.pdf). Charles
+Marx, Richard Phillips, Sorelle Friedler, Carlos Scheidegger, Suresh
+Venkatasubramanian. Proceedings of NeurIPS 2019.
+  
+* [Data Management Technology for Interactive Visualization and
+  Analysis: a review and model](db-tech-for-interactive-vis/). Leilani Battle and Carlos
   Scheidegger, under preparation.
+  
+* [Visualizing Neural Networks with the Grand Tour](http://hdc.cs.arizona.edu/~mwli/grandtour/). Mingwei Li,
+  Zhenge Zhao, Carlos Scheidegger. Under revision on
+  [Distill](https://distill.pub/).
+  
+* [Anteater: Interactive Visualization for Program
+  Understanding](https://arxiv.org/abs/1907.02872). Rebecca Faust,
+  Kate Isaacs, William Bernstein, Michael Sharp, Carlos
+  Scheidegger. [arXiv preprint
+  arXiv:1907.02872](https://arxiv.org/abs/1907.02872).
+
 
 ## Software
 
