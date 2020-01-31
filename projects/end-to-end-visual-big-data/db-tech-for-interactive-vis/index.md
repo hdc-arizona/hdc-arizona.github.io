@@ -23,7 +23,8 @@ research gaps, where future work is necessary.
 
 ## Article
 
-(In preparation.)
+Data Management Technology for Interactive Visualization: A Review and
+Model. [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html) and [Carlos Scheidegger](https://cscheid.net).  (In preparation.)
 
 ## Methodology and Materials
 
