@@ -57,5 +57,9 @@ Venkatasubramanian. Proceedings of NeurIPS 2019.
 * [pothos](https://github.com/hdc-arizona/pothos) is the code
   platform for the data cube research in this project.
 
+* [neuralcubes](https://github.com/hdc-arizona/pothos) is the code
+  platform for the deep neural networks used to approximate data cubes in [NeuralCubes](https://arxiv.org/abs/1808.08983).
+  
+
 <!-- ## Datasets -->
 
