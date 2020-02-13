@@ -17,10 +17,12 @@ for entry in bib.entries:
             if keyword.startswith(tagger):
                 by_tagger[tagger].add(keyword[len(tagger)+1:])
     agreement = by_tagger["cscheid"].intersection(by_tagger["leibatt"])
-    if "maybe" in agreement:
+    if "maybe" in by_tagger["cscheid"] or "maybe" in by_tagger["leibatt"]:
         continue
-    if len(agreement) == 0:
-        continue
+    # if "maybe" in agreement:
+    #     continue
+    # if len(agreement) == 0:
+    #     continue
     def fix_tag(tag):
         if tag.startswith("interaction-"):
             return tag
@@ -32,6 +34,7 @@ for entry in bib.entries:
             del entry[key]
         except KeyError:
             pass
+    remove("keywords")
     remove("abstract")
     remove("shorttitle")
     remove("issn")

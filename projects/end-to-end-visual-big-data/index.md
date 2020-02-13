@@ -63,3 +63,10 @@ Venkatasubramanian. Proceedings of NeurIPS 2019.
 
 <!-- ## Datasets -->
 
+## Acknowledgments
+
+This material is based upon work supported or partially supported by the National Science Foundation under Grant Number 1815238, project titled "III: Small: An end-to-end pipeline for interactive visual analysis of big data"
+
+Any opinions, findings, and conclusions or recommendations expressed in this project are those of author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+Web page last update: 2020-02-13.

@@ -56,3 +56,18 @@ category (coded as `survey`).
 The resulting bibliography has 104 articles and is available [as a
 BibTeX file](vis-db.bib).
 
+
+# Funding
+
+Prof. Battle is partially funded by NSF grant IIS-1850115, [CRII: CHS: Modeling Analysis Behavior to Support Interactive Exploration of Massive Datasets](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850115).
+
+Prof. Scheidegger is partially funded by NSF grant IIS-1815238, [III: Small: An end-to-end pipeline for interactive visual analysis of big data](../).
+
+## Acknowledgments
+
+This material is based upon work supported or partially supported by the National Science Foundation under Grant Number 1815238, project titled "III: Small: An end-to-end pipeline for interactive visual analysis of big data", and under Grant Number 1850115, project titled "CRII: CHS: Modeling Analysis Behavior to Support Interactive Exploration of Massive Datasets".
+
+Any opinions, findings, and conclusions or recommendations expressed in this project are those of author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+Web page last update: 2020-02-13.
+
