@@ -66,9 +66,9 @@ let advice = [
     ["An infovis paper loses credibility when you make design decisions with blatant disregard for basic color perception facts!", "1.1em"],
     ["The standard rainbow colormap is perceptually nonlinear!", "1.4em"],
     ["Do not simply enumerate all activities that required effort when writing a paper!", ""],
-    ["Do not try to squeeze too many papers out of the same project!"],
+    ["Do not try to squeeze too many papers out of the same project!", "1.4em"],
     ["Do not try to cram many papers worth of content and contributions into one!", "1.3em"],
-    ["Do not leave your contribu- tions implicit or unsaid!", "1.3em"],
+    ["Do not leave your contributions implicit or unsaid!", "1.5em"],
     ["Do not ignore previous work when writing up your paper!", "1.4em"],
     ["Simply citing the previous work is necessary but not sufficient!", "1.4em"],
     ["A research paper should not contain sweep- ing unattributed asser- tions!", "1.3em"],
@@ -80,5 +80,5 @@ let advice = [
     ["Beware of running a user study where the tasks are not justified!", "1.4em"],
     ["When writing a paper, do not simply dump out all the details and declare victory!", "1.25em"],
     ["Avoid using a single brusque sentence fragment as your caption text!", "1.25em"],
-    ["You should talk the reader through how your visual represen- tation exposes meaningful structure in the dataset!", "1.1em"],
+    ["You should talk the reader through how your visual representation exposes meaningful structure in the dataset!", "1.1em"],
 ];
