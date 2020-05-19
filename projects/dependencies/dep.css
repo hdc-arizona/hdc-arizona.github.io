@@ -23,7 +23,7 @@
   position: fixed;
   margin-top: 0px;
   top: 10px;
-  left: 875px;
+  left: 855px;
   width: 200px;
   font-family: Geneva, Helvetica, Arial, sans-serif;
   font-size: 80%;
@@ -35,7 +35,7 @@
 
 .smalltext {
   font-size: 60%;
-  margin: 10px;
+  margin: 30px;
 }
 
 .footerdiv {
