@@ -18,6 +18,17 @@
   font-size: 30%;
 }
 
+
+.rightdiv {
+  position: fixed;
+  margin-top: 0px;
+  top: 0px;
+  left: 825px;
+  width: 175px;
+  font-family: Geneva, Helvetica, Arial, sans-serif;
+  font-size: 80%;
+}
+
 .smallimg {
   padding-left: 21px;
 }
