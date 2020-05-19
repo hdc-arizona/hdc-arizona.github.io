@@ -22,9 +22,9 @@
 .rightdiv {
   position: fixed;
   margin-top: 0px;
-  top: 0px;
-  left: 865px;
-  width: 175px;
+  top: 10px;
+  left: 885px;
+  width: 200px;
   font-family: Geneva, Helvetica, Arial, sans-serif;
   font-size: 80%;
 }
@@ -35,6 +35,7 @@
 
 .smalltext {
   font-size: 60%;
+  margin: 10px;
 }
 
 .footerdiv {
