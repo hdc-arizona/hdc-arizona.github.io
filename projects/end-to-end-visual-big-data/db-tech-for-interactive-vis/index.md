@@ -23,16 +23,14 @@ research gaps, where future work is necessary.
 
 ## Article
 
-Data Management Technology for Interactive Visualization: A Review and
-Model. [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html) and [Carlos Scheidegger](https://cscheid.net).  (In preparation.)
+A Structured Review of Data Management Technology for Interactive Visualization and Analysis. [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html) and [Carlos Scheidegger](https://cscheid.net). IEEE TVCG (VIS 2020), to appear. [pdf](/papers/infovis_2020_dbsurvey.pdf)
 
 ## Methodology and Materials
 
-(The full details of the methodology are described in the
-(forthcoming) paper.) In brief, we conducted a systematic literature
-review of six different venues going back to at least 2005 (three
-data-management venues: ICDE, SIGMOD and VLDB and three visualization
-venues: IEEE VIS, ACM CHI, and EuroVis). 
+We conducted a systematic literature review of six different venues
+going back to at least 2000 (three data management venues: ICDE,
+SIGMOD and VLDB and three visualization venues: IEEE VIS, ACM CHI, and
+EuroVis).
 
 We categorized the results we obtained by coding the publications we
 found along two axes. The first axis characterizes the interaction
@@ -56,7 +54,6 @@ category (coded as `survey`).
 The resulting bibliography has 104 articles and is available [as a
 BibTeX file](vis-db.bib).
 
-
 # Funding
 
 Prof. Battle is partially funded by NSF grant IIS-1850115, [CRII: CHS: Modeling Analysis Behavior to Support Interactive Exploration of Massive Datasets](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850115).
@@ -69,5 +66,5 @@ This material is based upon work supported or partially supported by the Nationa
 
 Any opinions, findings, and conclusions or recommendations expressed in this project are those of author(s) and do not necessarily reflect the views of the National Science Foundation.
 
-Web page last update: 2020-02-13.
+Web page last update: 2020-09-11.
 

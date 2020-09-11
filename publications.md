@@ -3,6 +3,12 @@ layout: main
 title: Papers
 ---
 
+## 2021
+
+[<img class="pubthumb" src="papers/thumbs/infovis_2020_dbsurvey.png">](papers/infovis_2020_dbsurvey.pdf)
+[Leilani Battle](), [Carlos Scheidegger](https://cscheid.net). **A Structured Review of Data Management Technology for Interactive Visualization and Analysis**. IEEE TVCG, to appear (Proceedings of IEEE VIS 2020).
+[PDF](papers/infovis_2020_dbsurvey.pdf)
+
 ## 2020
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2019_homologyforce.png">](papers/infovis_2019_homologyforce.pdf)
