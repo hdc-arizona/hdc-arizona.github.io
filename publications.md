@@ -6,7 +6,6 @@ title: Papers
 ## 2021
 
 [<img class="pubthumb" src="papers/thumbs/parc_jetlag_2020.png">](papers/parc_jetlag_2020.pdf)
-
 [Steven R Brandt](https://www.cct.lsu.edu/~sbrandt/), [A. Bigelow](https://alex-r-bigelow.github.io/), [Sayef Azad Sakin](https://www.cs.arizona.edu/person/sayef-azad-sakin), [K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), [Kevin A Huck](http://ix.cs.uoregon.edu/~khuck/), Rod  Tohid, Bibek  Wagle, Shahrzad  Shirzad, [Hartmut  Kaiser](https://www.lsu.edu/eng/cse/people/faculty/kaiser.php). **JetLag: An Interactive, Asynchronous Array Computing Environment**. To appear In Practice and Experience in Advanced Research Computing, pp. 8–12. 2020.
 [PDF](papers/parc_jetlag_2020.pdf)
 
