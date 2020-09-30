@@ -3,13 +3,7 @@ layout: main
 title: Papers
 ---
 
-## 2020
-
-[<img class="pubthumb" src="papers/thumbs/parc_jetlag_2020.png">](papers/parc_jetlag_2020.pdf)
-[Steven R Brandt](https://www.cct.lsu.edu/~sbrandt/), [A. Bigelow](https://alex-r-bigelow.github.io/), [Sayef Azad Sakin](https://www.cs.arizona.edu/person/sayef-azad-sakin), [K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), [Kevin A Huck](http://ix.cs.uoregon.edu/~khuck/), Rod  Tohid, Bibek  Wagle, Shahrzad  Shirzad, [Hartmut  Kaiser](https://www.lsu.edu/eng/cse/people/faculty/kaiser.php). **JetLag: An Interactive, Asynchronous Array Computing Environment**. To appear In Practice and Experience in Advanced Research Computing, pp. 8–12. 2020.
-[PDF](papers/parc_jetlag_2020.pdf)
-
-<div class="pubdiv"></div>
+## 2021
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2020_abstractionGuidelines.png">](papers/infovis_2020_abstractionGuidelines.pdf)
 [A. Bigelow](https://alex-r-bigelow.github.io/), [K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/),  and [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/). **Guidelines for Pursuing and Revealing Latent Data Abstractions**. IEEE TVCG, to appear (Proceedings of IEEE VIS 2020).
@@ -23,7 +17,13 @@ title: Papers
 
 <div class="pubdiv"></div>
 
-## 2019
+## 2020
+
+[<img class="pubthumb" src="papers/thumbs/parc_jetlag_2020.png">](papers/parc_jetlag_2020.pdf)
+[Steven R Brandt](https://www.cct.lsu.edu/~sbrandt/), [A. Bigelow](https://alex-r-bigelow.github.io/), [Sayef Azad Sakin](https://www.cs.arizona.edu/person/sayef-azad-sakin), [K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), [Kevin A Huck](http://ix.cs.uoregon.edu/~khuck/), Rod  Tohid, Bibek  Wagle, Shahrzad  Shirzad, [Hartmut  Kaiser](https://www.lsu.edu/eng/cse/people/faculty/kaiser.php). **JetLag: An Interactive, Asynchronous Array Computing Environment**. To appear In Practice and Experience in Advanced Research Computing, pp. 8–12. 2020.
+[PDF](papers/parc_jetlag_2020.pdf)
+
+<div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2019_homologyforce.png">](papers/infovis_2019_homologyforce.pdf)
 [Ashley Suh](https://www.eecs.tufts.edu/~asuh/), [Mustafa Hajij](http://www.mustafahajij.com/), [Bei Wang](http://www.sci.utah.edu/~beiwang/), [Carlos Scheidegger](https://cscheid.net), [Paul Rosen](http://www.cspaul.com/wordpress/). **Persistent Homology Guided Force-Directed Graph Layouts**. IEEE TVCG, 26(1):697--706, 2020 (Proceedings of IEEE VIS 2019).
@@ -54,6 +54,8 @@ To appear in IEEE Transactions on Visualization and Computer Graphics (Proceedin
 [PDF](papers/scivis_2019_highorder_topo.pdf)
 
 <div class="pubdiv"></div>
+
+## 2019
 
 [<img class="pubthumb" src="papers/thumbs/www_2019_informationgaps.png">](papers/www_2019_informationgaps.pdf)
 [Benjamin Fish](http://homepages.math.uic.edu/~bfish3/index.html), Ashkan Bashardoust, danah boyd, [Sorelle Friedler](http://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/). **Gaps in Information Access in Social Networks. The World Wide Web Conference (now called [The WebConf](https://www2019.thewebconf.org/))**, 480--490, 2019.
