@@ -18,12 +18,24 @@
   font-size: 30%;
 }
 
+
+.rightdiv {
+  position: fixed;
+  margin-top: 0px;
+  top: 10px;
+  left: 855px;
+  width: 200px;
+  font-family: Geneva, Helvetica, Arial, sans-serif;
+  font-size: 80%;
+}
+
 .smallimg {
   padding-left: 21px;
 }
 
 .smalltext {
   font-size: 60%;
+  margin: 30px;
 }
 
 .footerdiv {
@@ -90,7 +102,7 @@ img {
 .sideimg {
   display: block;
   margin: auto;
-  height: 300px;
+  height: 500px;
 }
 #sidebarimage {
   text-align: center;
