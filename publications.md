@@ -25,6 +25,13 @@ title: Papers
 
 <div class="pubdiv"></div>
 
+[<img class="pubthumb" src="papers/thumbs/pacificvis_2020_hksflow.png">](papers/pacificvis_2020_hksflow.pdf)
+[K. Jiang](https://jiangkairong.me/), and
+[M. Berger](https://matthewberger.github.io/), and
+[J. A. Levine](http://www.cs.arizona.edu/~josh). **Visualization of Unsteady Flow Using Heat Kernel Signatures**. Proceedings of Pacific Vis, 2020. [PDF](papers/pacificvis_2020_hksflow.pdf)
+
+<div class="pubdiv"></div>
+
 [<img class="pubthumb" src="papers/thumbs/infovis_2019_homologyforce.png">](papers/infovis_2019_homologyforce.pdf)
 [Ashley Suh](https://www.eecs.tufts.edu/~asuh/), [Mustafa Hajij](http://www.mustafahajij.com/), [Bei Wang](http://www.sci.utah.edu/~beiwang/), [Carlos Scheidegger](https://cscheid.net), [Paul Rosen](http://www.cspaul.com/wordpress/). **Persistent Homology Guided Force-Directed Graph Layouts**. IEEE TVCG, 26(1):697--706, 2020 (Proceedings of IEEE VIS 2019).
 [PDF](papers/infovis_2019_homologyforce.pdf)
