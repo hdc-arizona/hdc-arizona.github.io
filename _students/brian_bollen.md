@@ -2,5 +2,5 @@
 name: Brian Bollen
 role: PhD Student (AM)
 photo: headshots/bbollen.png
-website: https://jixianli.github.io/
+website: http://brian-bollen-personal.s3-website.us-west-2.amazonaws.com/index.html
 ---
