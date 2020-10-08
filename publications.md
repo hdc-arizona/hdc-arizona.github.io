@@ -6,7 +6,7 @@ title: Papers
 ## 2021
 
 [<img class="pubthumb" src="papers/thumbs/vast_2020_ccnav.png">](papers/vast_2020_ccnav.pdf)
-[S. Devkota](https://devkotasabin.github.io/), P. Aschwanden, A. Kunen, M. Legendre, and [K. E. Isaacs](http://hdc.cs.arizona.edu/~kisaacs/). **CcNav: Understanding Compiler Optimizations in Binary Code**. To appear in IEEE VAST 2020.
+[S. Devkota](https://devkotasabin.github.io/), P. Aschwanden, A. Kunen, M. Legendre, and [K. E. Isaacs](http://hdc.cs.arizona.edu/~kisaacs/). **CcNav: Understanding Compiler Optimizations in Binary Code**. IEEE TVCG, to appear (Proceedings of IEEE VAST 2020).
 [PDF](papers/vast_2020_ccnav.pdf)
 
 <div class="pubdiv"></div>
