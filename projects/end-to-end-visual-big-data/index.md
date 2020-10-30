@@ -39,7 +39,7 @@ Venkatasubramanian. Proceedings of NeurIPS 2019.
   
 * [Data Management Technology for Interactive Visualization and
   Analysis: a review and model](db-tech-for-interactive-vis/). Leilani Battle and Carlos
-  Scheidegger, under preparation.
+  Scheidegger, IEEE VIS 2020.
   
 * [Visualizing Neural Networks with the Grand Tour](http://hdc.cs.arizona.edu/~mwli/grandtour/). Mingwei Li,
   Zhenge Zhao, Carlos Scheidegger. Under revision on

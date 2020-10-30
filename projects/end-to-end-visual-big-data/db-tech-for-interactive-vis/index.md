@@ -25,6 +25,10 @@ research gaps, where future work is necessary.
 
 A Structured Review of Data Management Technology for Interactive Visualization and Analysis. [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html) and [Carlos Scheidegger](https://cscheid.net). IEEE TVCG (VIS 2020), to appear. [pdf](/papers/infovis_2020_dbsurvey.pdf)
 
+## Interactive Website
+
+If you want to get a feel for what's in the bibliography, or even contribute new articles to it, please visit [the interactive version](https://hdc-arizona.github.io/db-interactive-vis-bib/) of the bibliography.
+
 ## Methodology and Materials
 
 We conducted a systematic literature review of six different venues
