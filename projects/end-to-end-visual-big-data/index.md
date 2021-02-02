@@ -20,9 +20,9 @@ pipeline for interactive visual analysis of big data".
 
 * PhD Student: Zhe Wang (now graduated)
 
-* PhD Student: Mingwei Li (4th year)
+* PhD Student: Mingwei Li (5th year)
 
-* PhD Student: Zhenge Zhao (4th year)
+* PhD Student: Zhenge Zhao (5th year)
 
 ## Publications
 
@@ -37,13 +37,12 @@ predictions](http://papers.nips.cc/paper/8699-disentangling-influence-using-dise
 Marx, Richard Phillips, Sorelle Friedler, Carlos Scheidegger, Suresh
 Venkatasubramanian. Proceedings of NeurIPS 2019.
   
-* [Data Management Technology for Interactive Visualization and
-  Analysis: a review and model](db-tech-for-interactive-vis/). Leilani Battle and Carlos
+* [A Structured Review of Data Management Technology for Interactive Visualization and
+  Analysis](db-tech-for-interactive-vis/). Leilani Battle and Carlos
   Scheidegger, IEEE VIS 2020.
   
 * [Visualizing Neural Networks with the Grand Tour](http://hdc.cs.arizona.edu/~mwli/grandtour/). Mingwei Li,
-  Zhenge Zhao, Carlos Scheidegger. Under revision on
-  [Distill](https://distill.pub/).
+  Zhenge Zhao, Carlos Scheidegger. [Distill](https://distill.pub/2020/grand-tour/). DOI: 10.23915/distill.00025
   
 * [Anteater: Interactive Visualization for Program
   Understanding](https://arxiv.org/abs/1907.02872). Rebecca Faust,

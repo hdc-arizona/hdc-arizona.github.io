@@ -1,4 +1,4 @@
----
+2---
 layout: main-no-sidebar
 title: "Data Management Technology for Interactive Vis"
 ---
@@ -23,7 +23,7 @@ research gaps, where future work is necessary.
 
 ## Article
 
-A Structured Review of Data Management Technology for Interactive Visualization and Analysis. [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html) and [Carlos Scheidegger](https://cscheid.net). IEEE TVCG (VIS 2020), to appear. [pdf](/papers/infovis_2020_dbsurvey.pdf)
+A Structured Review of Data Management Technology for Interactive Visualization and Analysis. [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html) and [Carlos Scheidegger](https://cscheid.net). IEEE TVCG (VIS 2020). [pdf](/papers/infovis_2020_dbsurvey.pdf)
 
 ## Interactive Website
 
