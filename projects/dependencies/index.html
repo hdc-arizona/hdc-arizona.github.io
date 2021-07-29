@@ -21,20 +21,16 @@
     </li>
     <li>Duration:
 	<ul class="subexternal">
-	    <li>2017/7/1 - 2019/6/30</li>
+	    <li>2017/7/1 - 2021/6/30</li>
 	</ul>
     </li>
     <li>PI: <a href="http://hdc.cs.arizona.edu/people/kisaacs/">Kate Isaacs</a></li>
     <li>Students:
 	<ul class="subexternal">
-            <li><a href="https://sayefsakin.blogspot.com/">Sayef Sakin</a></li>
-            <li><a href="https://www.cse.unr.edu/~cscully/">Connor Scully-Allison</a></li>
-	</ul>
-    </li>
-    <li>Former Students:
-	<ul class="subexternal">
 	    <li><a href="https://devkotasabin.github.io/">Sabin Devkota</a></li>
             <li>Sarah Jacquot</li>
+            <li><a href="https://sayefsakin.blogspot.com/">Sayef Sakin</a></li>
+            <li><a href="https://www.cse.unr.edu/~cscully/">Connor Scully-Allison</a></li>
 	    <li><a href="http://hdc.cs.arizona.edu/people/kawilliams/">Katy Williams</a></li>
 	</ul>
     </li>
@@ -56,7 +52,7 @@
 <div class="leftfooterdiv">
 Contact: <a href="http://hdc.cs.arizona.edu/people/kisaacs/">Kate Isaacs</a><br />
 
-Last Updated: 2020/07/29
+Last Updated: 2021/07/29
 </div>
 
     </div>
@@ -81,6 +77,8 @@ related large and complex data.
 	    <ul class="mainul">
 		<li>While our visualization supported direct manipulation to tweak layout, we found researchers no longer prioritized that functionality once this layout was in place. Instead, they wanted to preserve the layout.
 		</li>
+		<li>This layout is used in the stand-alone CFG drawing library, <a href="https://github.com/devkotasabin/cfgConf">CFGConf</a>.</li>
+		<li>This layout has served as the basis for tools beyond this project, such as  <a href="https://arxiv.org/abs/2009.00956">CCNav</a>.</li>
 	    </ul>
             <li>An <a href="http://github.com/hdc-arizona/cfgexplorer">open-source interactive visualization tool</a> for control flow dependencies and dyanmic traces.</li>
 	    <li>A <a href="http://hdc.cs.arizona.edu/papers/cfg_2018_explorer_preprint.pdf">goal and task analysis</a> for visualizing control flow graphs in computing research.</li>
@@ -89,7 +87,14 @@ related large and complex data.
 		</li>
 		<li>Presenting and explaining their work to collaborators was another major goal in generating the visualization.</li>
              </ul>
-	    <li><a href="https://arxiv.org/abs/1905.13135v4">guidelines for conducting design studies in rapidly moving projects</a> such as the software and research concerns targeted by this project.</li>
+	    <li>A <a href="https://arxiv.org/abs/2107.00065">set of designs for scalably representing communication patterns in large-scale parallel traces</a></li>.
+	    <ul class="mainul">
+		<li>In a <a href="https://osf.io/zwrgk">pre-registered</a>, user study, we found these designs increased identification accuracy for common patterns</li>.
+	    </ul>
+    While our visualization supported direct manipulation to tweak layout, we found researchers no longer prioritized that functionality once this layout was in place. Instead, they wanted to preserve the layout.
+		</li>
+	    </ul>
+	    <li><a href="https://arxiv.org/abs/1905.13135v4">Guidelines for conducting design studies in rapidly moving projects</a> such as the software and research concerns targeted by this project.</li>
 	    <li>An <a href="https://github.com/hdc-arizona/traveler-tree">open-source interactive visualization tool</a> for expression trees from an asynchronous task-based parallel runtime system.</li>
 	    <li>A <a href="https://github.com/hdc-arizona/roundtrip">library for integrating Javascript utilities with Jupyter Notebook</a>, to pass data between in-cell Javascript visualizations with other cells in the notebook.</li>
             <li>A <a href="https://github.com/hdc-arizona/traveler-integrated">framework and integrated system</a> for visualizing HPC performance data, included the expression trees in Atria and responsive Gantt charts for large-scale traces.
@@ -98,8 +103,8 @@ related large and complex data.
 
     <p><b>Impact:</b>
        <ul class="mainul">
-	 <li><a href="http://github.com/hdc-arizona/cfgexplorer">CFGExplorer</a> is available publicly and has been used by a team of researchers at the University of Arizona for program analysis and optimization of scientific software and a team of researchers at Louisiana State University for loop parallelization.</li>
-	 <li><a href="https://github.com/hdc-arizona/roundtrip">Roundtrip</a> is available publicly and has been used in Jupyter notebooks at Louisiana State University and NREL.</li>
+	 <li><a href="http://github.com/hdc-arizona/cfgexplorer">CFGExplorer</a> is available publicly and has been used by a team of researchers at the University of Arizona for program analysis and optimization of scientific software and a team of researchers at Louisiana State University for loop parallelization. The layout has been incorporated in a stand-alone library, <a href="https://github.com/devkotasabin/cfgConf">CFGConf</a>, and adapted in a tool from Lawrence Livermore National Laboratory, <a href="https://arxiv.org/abs/2009.00956">CCNav</a>.</li>
+	 <li><a href="https://github.com/hdc-arizona/roundtrip">Roundtrip</a> is available publicly and has been used in Jupyter notebooks at Louisiana State University, the National Renewable Energy Laboratory, and Lawrence Livermore National Laboratory.</li>
 	 <li><a href="https://github.com/hdc-arizona/traveler-tree">Atria</a> is available publicly and has been used for performance tuning in an asynchronous task-based parallel runtime.</li>
 	 <li><a href="https://github.com/hdc-arizona/traveler-integrated">Traveler</a> is available publicly and is being used used for performancne inspection of large traces and asynchronous task-based parallel runtimes.</li>
        </ul>
@@ -112,6 +117,9 @@ related large and complex data.
     <div id="News" class="project">
       <h3>News</h3>
 	<ul class="maiul">
+	  <li>2021/07 - Looking for a stand-alone version of the CFGExplorer layout? Check out <a href="https://github.com/devkotasabin/cfgConf">CFGConf</a>!</li>
+	  <li>2021/06 - Learn more about scaling communication trace visualization in our ArXiv report, <a href="https://arxiv.org/abs/2107.00065">Design and Evaluation of Scalable Representations of Communication in Gantt Charts for Large-scale Execution Traces</a></li>
+	  <li>2020/11 - See our talk on futher development of Jetlag, "Distributed Asynchronous Array Computing with the JetLag Environment", 4:10 PM EST on November 13th at <a href="https://pyhpc.io/">PyHPC</a>!</li>
           <li>2020/07 - See our talk on JetLag: An Interactive, Asynchronous Array Computing Environment (including performance visualization!) Noon Pacific Time on July 30th at <a href="https://pearc.acm.org/pearc20/program/schedule/">PEARC 20</a>!
           <li>2020/01 - We are running a study  at <a href="http://hackaz.org">Hack Arizona</a>! Come by the first floor of the Gould-Simpson Building to participate!</li>
           <li>2019/11 - We arre running a study  at <a href="http://sc19.supercomputing.org">SC19</a>! Come by the Arizona Research Computing booth to participate!</li>
@@ -130,7 +138,26 @@ related large and complex data.
     <div id="Publications" class="project">
       <h3>Publications</h3>
 
-<p>S. R. Brandt, A. Bigelow, S. Sakin, K. Williams, K. Isaacs, K. Huck, R. Tohid, B. Wagle, S. Shirzad, and H. Kaiser. JetLag: An Interactive, Asynchronous Array Computing Environment. To appear in <i>Proceedings of the 2020 Practice and Experience in Advanced Computing Research (PEARC) Conference</i>. July 2020.</p>
+<p>C. Scully-Allison, K. E. Isaacs. “Design and Evaluation of Scalable
+Representations of Communication in Gantt Charts for Large-scale Execution
+Traces.” ArXiv:2107.00065v1, June 2021.</p>
+
+<p>S. R. Brandt, B. Hasheminezhad, N. Wu, S. A. Sakin, A. R. Bigelow, <b>K. E.
+	Isaacs</b>, K.  Huck, H. Kaiser. Distributed Asynchronous Array
+Computing with the Jetlag Environment. <i>Proceedings of the 9th Workshop on
+	Python for High-Perforrmance and Scientific Computing (PyHPC)</i>. November
+2020.</p>
+
+<p>S. Brink, I. Lumsden, C. Scully-Allison, K. Williams, O. Pearce, T.
+    Gamblin, M. Taufer, <b>K. E. Isaacs</b>, and A. Bhatele. Usability and
+Performance Improvements in Hatchet. <i>Proceedings of the 2020 IEEE/ACM
+International Workshop on HPC User Support Tools (HUST) and Workshop on
+Programming and Performance Visualization Tools (ProTools)</i>, held
+in conjunction with SC20, November 2020.</p> 
+
+<p>S. R. Brandt, A. Bigelow, S. Sakin, K. Williams, K. Isaacs, K. Huck, R. Tohid, B. Wagle, S. Shirzad, and H. Kaiser. JetLag: An Interactive, Asynchronous Array Computing Environment. To appear in <i>Proceedings of the 2020 Practice and Experience in Advanced Computing Research (PEARC) Conference</i>. July 2020.<br />
+
+    <a href="https://dl.acm.org/doi/abs/10.1145/3311790.3396657">DOI</a></p>
 
 <p>K. Williams, A. Bigelow, and K. Isaacs<.
 Visualizing a Moving Target: A Design Study on Task Parallel Programs in the Presence of Evolving Data and Concerns.
@@ -154,6 +181,7 @@ Computer Graphics Forum (Proceedings of EuroVis). July 2018.<br />
     <div id="Presentations" class="project">
       <h3>Presentations</h3>
 
+      <p>S. R. Brandt. <i>Distributed Asynchronous Array Computing with the JetLag Environment</i> PyHPC 2020 (Online for Global Pandemic), November 13, 2020.</p>
 
       <p>S. R. Brandt. <i>JetLag: An Interactive, Asynchronous Array Computing Environment</i> PEARC 2020 (Online for Global Pandemic), July 30, 2020.</p>
 
