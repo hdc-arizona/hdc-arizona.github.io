@@ -3,6 +3,13 @@ layout: main
 title: Papers
 ---
 
+## 2022
+
+[<img class="pubthumb" src="papers/thumbs/vis_2021_conceptextract.png">](papers/vis_2021_conceptextract.pdf)
+[Z. Zhao](), P. Xu, [C. Scheidegger](https://cscheid.net), L. Ren. Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models. IEEE TVCG, to appear (Proceedings of IEEE VIS 2021). [PDF](papers/vast_2021_conceptextract.pdf) [HTML](papers/html/vis_2021_conceptextract.html)
+
+<div class="pubdiv"></div>
+
 ## 2021
 
 [<img class="pubthumb" src="papers/thumbs/vast_2020_ccnav.png">](papers/vast_2020_ccnav.pdf)
@@ -18,7 +25,7 @@ title: Papers
 <div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/infovis_2020_dbsurvey.png">](papers/infovis_2020_dbsurvey.pdf)
-[Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html), [Carlos Scheidegger](https://cscheid.net). **A Structured Review of Data Management Technology for Interactive Visualization and Analysis**. IEEE TVCG, to appear (Proceedings of IEEE VIS 2020).
+[L. Battle](https://www.cs.umd.edu/~leilani/bio.html), [C. Scheidegger](https://cscheid.net). **A Structured Review of Data Management Technology for Interactive Visualization and Analysis**. IEEE TVCG, to appear (Proceedings of IEEE VIS 2020).
 [PDF](papers/infovis_2020_dbsurvey.pdf)
 
 <div class="pubdiv"></div>
