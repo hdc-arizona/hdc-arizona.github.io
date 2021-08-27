@@ -6,7 +6,7 @@ title: Papers
 ## 2022
 
 [<img class="pubthumb" src="papers/thumbs/vis_2021_conceptextract.png">](papers/vis_2021_conceptextract.pdf)
-[Z. Zhao](), P. Xu, [C. Scheidegger](https://cscheid.net), L. Ren. Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models. IEEE TVCG, to appear (Proceedings of IEEE VIS 2021). [PDF](papers/vast_2021_conceptextract.pdf) [HTML](papers/html/vis_2021_conceptextract.html)
+[Z. Zhao](https://zhengezhao.wordpress.com/), P. Xu, [C. Scheidegger](https://cscheid.net), L. Ren. Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models. IEEE TVCG, to appear (Proceedings of IEEE VIS 2021). [PDF](papers/vast_2021_conceptextract.pdf) [HTML](papers/html/vis_2021_conceptextract.html)
 
 <div class="pubdiv"></div>
 
@@ -31,6 +31,11 @@ title: Papers
 <div class="pubdiv"></div>
 
 ## 2020
+
+[<img class="pubthumb" src="papers/thumbs/icml_2020_shapley.png">](papers/icml_2020_shapley.pdf)
+[I. Elizabeth Kumar](https://iekumar.com/), [S. Venkatasubramanian](http://www.cs.utah.edu/~suresh/index.html), [C. Scheidegger](https://cscheid.net), [S. Friedler](https://sorelle.friedler.net) Problems with Shapley-value-based explanations as feature importance measures. International Conference on Machine Learning, 2020. [PDF](papers/icml_2020_shapley.pdf) [HTML](papers/html/icml_2020_shapley.html)
+
+<div class="pubdiv"></div>
 
 [<img class="pubthumb" src="papers/thumbs/parc_jetlag_2020.png">](papers/parc_jetlag_2020.pdf)
 [Steven R Brandt](https://www.cct.lsu.edu/~sbrandt/), [A. Bigelow](https://alex-r-bigelow.github.io/), [Sayef Azad Sakin](https://www.cs.arizona.edu/person/sayef-azad-sakin), [K. Williams](https://hdc.cs.arizona.edu/people/kawilliams/), [K. E. Isaacs](https://hdc.cs.arizona.edu/people/kisaacs/), [Kevin A Huck](http://ix.cs.uoregon.edu/~khuck/), Rod  Tohid, Bibek  Wagle, Shahrzad  Shirzad, [Hartmut  Kaiser](https://www.lsu.edu/eng/cse/people/faculty/kaiser.php). **JetLag: An Interactive, Asynchronous Array Computing Environment**. To appear In Practice and Experience in Advanced Research Computing, pp. 8–12. 2020.
