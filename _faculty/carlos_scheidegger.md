@@ -1,6 +1,6 @@
 ---
 name: Carlos Scheidegger
-role: Assistant Professor
+role: Associate Professor
 website: http://cscheid.net/
 photo: headshots/cscheid.png
 ---

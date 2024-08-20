@@ -6,7 +6,7 @@ title: "People"
 {% comment %}
 ## Members ([Alumni](/alumni/))
 {% endcomment %}
-## Members
+## Former Members
 
 <style>
   table.four-columns td {
@@ -35,7 +35,7 @@ title: "People"
 <p><br></p>
 
 <table class="four-columns" width="100%">
-{% assign faculty_order = 'Assistant Professor|Professor' | split: '|' %}
+{% assign faculty_order = 'Associate Professor|Assistant Professor' | split: '|' %}
 {% assign faculty = site.faculty | sort:'name' | sort_by_index: 'role', faculty_order %}
 {% tablerow member in faculty cols:4 %}
   <img src="{{ member.photo | replace: "headshots","headcircs" | default: 'headcircs/placeholder.png' }}" alt="{{ member.name }}"><br>
